@@ -1,0 +1,1240 @@
+/* Esri Brand Colors - Last Updated 03/02/15 */
+/*
+{
+name: "Esri Brand Colors",
+tags: "Brand Colors,Brand"
+}
+*/
+/* -- Esri Brand Blue -- */
+.Esri_Brand_Blue_100 {
+  background-color: #b9e0f7;
+  /*
+   {
+  Hex:"#b9e0f7",
+  CMYK:"c25 m2 y0 k0",
+  AdobeRGB:"r196 g223 b246",
+  sRGB:"r185 g224 b247"
+  }
+  */ }
+
+.Esri_Brand_Blue_150 {
+  background-color: #00b9f2;
+  /*
+   {
+  Hex:"#00b9f2",
+  CMYK:"c80 m0 y0 k0",
+  AdobeRGB:"r75 g184 b239",
+  sRGB:"r0 g185 b242"
+  }
+  */ }
+
+.Esri_Brand_Blue_200 {
+  background-color: #007ac2;
+  /*
+   {
+  Hex:"#007ac2",
+  CMYK:"c100 m43 y0 k0"
+  AdobeRGB:"r23 g121 b191",
+  sRGB:"r0 g122 b194"
+  }
+  */ }
+
+.Esri_Brand_Blue_250 {
+  background-color: #004575;
+  /*
+   {
+  Hex:"#004575",
+  CMYK:"c100 m43 y0 k50"
+  AdobeRGB:"r0 g71 b115"
+  sRGB:"r0 g69 b117"
+  }
+  */ }
+
+/* -- Esri Brand Warm -- */
+.Esri_Brand_Yellow_100 {
+  background-color: #ffec4f;
+  /*
+   {
+  Hex:"#ffec4f",
+  CMYK:"c0 m3 y80 k0",
+  AdobeRGB:"r245 g235 b93",
+  sRGB:"r225 g236 b79"
+  }
+  */ }
+
+.Esri_Brand_Orange_100 {
+  background-color: #f89927;
+  /*
+   {
+  Hex:"#f89927",
+  CMYK:"c0 m45 y95 k0",
+  AdobeRGB:"r226 g152 b54",
+  sRGB:"r248 g153 b39"
+  }
+  */ }
+
+.Esri_Brand_Orange_150 {
+  background-color: #f36f20;
+  /*
+   {
+  Hex:"#f36f20",
+  CMYK:"c0 m70 y100 k0",
+  AdobeRGB:"r215 g111 b44",
+  sRGB:"r243 g111 b32"
+  }
+  */ }
+
+.Esri_Brand_Red_100 {
+  background-color: #da4d1e;
+  /*
+   {
+  Hex:"#da4d1e",
+  CMYK:"c0 m82 y100 k10",
+  AdobeRGB:"r190 g79 b38",
+  sRGB:"r218 g77 b30"
+  }
+  */ }
+
+.Esri_Brand_Red_150 {
+  background-color: #de2900;
+  /*
+   {
+  Hex:"#de2900",
+  CMYK:"c7 m95 y100 k0",
+  AdobeRGB:"r0 g0 b0",
+  sRGB:"r222 g41 b0"
+  }
+  */ }
+
+/* -- Esri Brand Green -- */
+.Esri_Brand_Green_100 {
+  background-color: #d1e391;
+  /*
+   {
+  Hex:"#d1e391",
+  CMYK:"c20 m0 y55 k0",
+  AdobeRGB:"r213 g226 b148",
+  sRGB:"r209 g227 b145"
+  }
+  */ }
+
+.Esri_Brand_Green_150 {
+  background-color: #aad04b;
+  /*
+   {
+  Hex:"#aad04b",
+  CMYK:"c38 m0 y90 k0",
+  AdobeRGB:"r180 g207 b87",
+  sRGB:"r170 g208 b75"
+  }
+  */ }
+
+.Esri_Brand_Green_200 {
+  background-color: #35ac46;
+  /*
+   {
+  Hex:"#35ac46",
+  CMYK:"c75 m0 y100 k5",
+  AdobeRGB:"r105 g170 b79",
+  sRGB:"r53 g172 b70"
+  }
+  */ }
+
+.Esri_Brand_Green_250 {
+  background-color: #2a7433;
+  /*
+   {
+  Hex:"#2a7433",
+  CMYK:"c73 m9 y94 k39",
+  AdobeRGB:"r74 g115 b58",
+  sRGB:"r42 g116 b51"
+  }
+  */ }
+
+/* -- Esri Brand Purple -- */
+.Esri_Brand_Purple_100 {
+  background-color: #dfcce3;
+  /*
+   {
+  Hex:"#dfcce3",
+  CMYK:"c10 m20 y0 k0",
+  AdobeRGB:"r217 g203 b226",
+  sRGB:"r223 g203 b227"
+  }
+  */ }
+
+.Esri_Brand_Purple_150 {
+  background-color: #b279b4;
+  /*
+   {
+  Hex:"#b279b4",
+  CMYK:"c30 m60 y0 k0",
+  AdobeRGB:"r163 g121 b177",
+  sRGB:"r178 g122 b179"
+  }
+  */ }
+
+.Esri_Brand_Purple_200 {
+  background-color: #8f499c;
+  /*
+   {
+  Hex:"#8f499c",
+  CMYK:"c50 m85 y0 k0",
+  AdobeRGB:"r127 g74 b152",
+  sRGB:"r142 g73 b155"
+  }
+  */ }
+
+.Esri_Brand_Purple_250 {
+  background-color: #6b1978;
+  /*
+   {
+  Hex:"#6b1978",
+  CMYK:"c60 m100 y0 k20",
+  AdobeRGB:"r93 g32 b117",
+  sRGB:"r102 g26 b100"
+  }
+  */ }
+
+/* -- Esri Brand Brown -- */
+.Esri_Brand_Brown_100 {
+  background-color: #ecdcb9;
+  /*
+   {
+  Hex:"#ecdcb9",
+  CMYK:"c2 m7 y26 k5",
+  AdobeRGB:"r232 g219 b185",
+  sRGB:"r236 g220 b185"
+  }
+  */ }
+
+.Esri_Brand_Brown_150 {
+  background-color: #be9969;
+  /*
+   {
+  Hex:"#be9969",
+  CMYK:"c7 m27 y55 k22",
+  AdobeRGB:"r179 g152 b107",
+  sRGB:"r190 g153 b105"
+  }
+  */ }
+
+.Esri_Brand_Brown_200 {
+  background-color: #7b4f1c;
+  /*
+   {
+  Hex:"#7b4f1c",
+  CMYK:"c17 m52 y87 k50",
+  AdobeRGB:"r112 g80 b37",
+  sRGB:"r123 g79 b28"
+  }
+  */ }
+
+.Esri_Brand_Brown_250 {
+  background-color: #523b20;
+  /*
+   {
+  Hex:"#523b20",
+  CMYK:"c25 m45 y70 k70",
+  AdobeRGB:"r78 g62 b39",
+  sRGB:"r82 g59 b32"
+  }
+  */ }
+
+/* -- Esri Brand Gray -- */
+.Esri_Brand_Gray_100 {
+  background-color: #b4b4b4;
+  /*
+   {
+  Hex:"#b4b4b4b",
+  CMYK:"c0 m0 y0 k35",
+  AdobeRGB:"r178 g178 b178",
+  sRGB:"r180 g180 b180"
+  }
+  */ }
+
+.Esri_Brand_Gray_150 {
+  background-color: #969696;
+  /*
+   {
+  Hex:"#969696",
+  CMYK:"c0 m0 y0 k50",
+  AdobeRGB:"r150 g150 b150",
+  sRGB:"r150 g150 b150"
+  }
+  */ }
+
+.Esri_Brand_Gray_200 {
+  background-color: #6e6e6e;
+  /*
+   {
+  Hex:"#6e6e6e",
+  CMYK:"c0 m0 y0 k70",
+  AdobeRGB:"r110 g110 b110",
+  sRGB:"r110 g110 b110"
+  }
+  */ }
+
+.Esri_Brand_Gray_250 {
+  background-color: #464646;
+  /*
+   {
+  Hex:"#464646",
+  CMYK:"c0 m0 y0 k88",
+  AdobeRGB:"r71 g71 b71",
+  sRGB:"r70 g70 b70"
+  }
+  */ }
+
+/* Esri Calcite Core Colors - Last Updated 03/02/15  */
+/*
+{
+name: "Calcite Core Colors",
+tags: "Calcite Core,Calcite"
+}
+*/
+/* -- Calcite Core Blue -- */
+.Calcite_Blue_100 {
+  background-color: #d2e9f9;
+  /*
+   {
+  Hex:"#D2E9F9",
+  RGB:"r221 g234 b249"
+  }
+  */ }
+
+.Calcite_Blue_150 {
+  background-color: #bcdaed;
+  /*
+   {
+  Hex:"#BCDAED",
+  RGB:"r189 g219 b238"
+  }
+  */ }
+
+.Calcite_Blue_200 {
+  background-color: #6cb4e2;
+  /*
+   {
+  Hex:"#6CB4E2",
+  RGB:"r109 g181 b227"
+  }
+  */ }
+
+.Calcite_Blue_250 {
+  background-color: #56a5d8;
+  /*
+   {
+  Hex:"#56A5D8",
+  RGB:"r87 g166 b217"
+  }
+  */ }
+
+.Calcite_Blue_300 {
+  background-color: #49b0f2;
+  /*
+   {
+  Hex:"#49B0F2",
+  RGB:"r73 g176 b242"
+  }
+  */ }
+
+.Calcite_Blue_350 {
+  background-color: #419ed9;
+  /*
+   {
+  Hex:"#419ED9",
+  RGB:"r65 g158 b217"
+  }
+  */ }
+
+.Calcite_Blue_400 {
+  background-color: #3b8fc4;
+  /*
+   {
+  Hex:"#3B8FC4",
+  RGB:"r59 g143 b196"
+  }
+  */ }
+
+.Calcite_Blue_450 {
+  background-color: #196fa6;
+  /*
+   {
+  Hex:"#196FA6",
+  RGB:"r25 g111 b166"
+  }
+  */ }
+
+/* -- Calcite Core Yellow -- */
+.Calcite_Yellow_100 {
+  background-color: #f3edc7;
+  /*
+   {
+  Hex:"#F3EDC7",
+  RGB:"r244 g238 b200"
+  }
+  */ }
+
+.Calcite_Yellow_150 {
+  background-color: #efe397;
+  /*
+   {
+  Hex:"#EFE397",
+  RGB:"r240 g228 b152"
+  }
+  */ }
+
+.Calcite_Yellow_200 {
+  background-color: #e4d154;
+  /*
+   {
+  Hex:"#E4D154",
+  RGB:"r229 g210 b85"
+  }
+  */ }
+
+.Calcite_Yellow_250 {
+  background-color: #d8c34b;
+  /*
+   {
+  Hex:"#D8C34B",
+  RGB:"r217 g196 b76"
+  }
+  */ }
+
+.Calcite_Yellow_300 {
+  background-color: #f2d530;
+  /*
+   {
+  Hex:"#F2D530",
+  RGB:"r242 g213 b48"
+  }
+  */ }
+
+.Calcite_Yellow_350 {
+  background-color: #d9bf2b;
+  /*
+   {
+  Hex:"#D9BF2B",
+  RGB:"r217 g191 b43"
+  }
+  */ }
+
+.Calcite_Yellow_400 {
+  background-color: #bda726;
+  /*
+   {
+  Hex:"#BDA726",
+  RGB:"r189 g167 b38"
+  }
+  */ }
+
+.Calcite_Yellow_450 {
+  background-color: #a68d00;
+  /*
+   {
+  Hex:"#A68D00",
+  RGB:"r166 g141 b0"
+  }
+  */ }
+
+/* -- Calcite Core Orange -- */
+.Calcite_Orange_100 {
+  background-color: #fbe1c2;
+  /*
+   {
+  Hex:"#FBE1C2",
+  RGB:"r251 g226 b195"
+  }
+  */ }
+
+.Calcite_Orange_150 {
+  background-color: #f6ca92;
+  /*
+   {
+  Hex:"#F6CA92",
+  RGB:"r247 g203 b147"
+  }
+  */ }
+
+.Calcite_Orange_200 {
+  background-color: #eda959;
+  /*
+   {
+  Hex:"#EDA959",
+  RGB:"r238 g170 b90"
+  }
+  */ }
+
+.Calcite_Orange_250 {
+  background-color: #e79c47;
+  /*
+   {
+  Hex:"#E79C47",
+  RGB:"r232 g157 b72"
+  }
+  */ }
+
+.Calcite_Orange_300 {
+  background-color: #ff9f33;
+  /*
+   {
+  Hex:"#FF9F33",
+  RGB:"r255 g159 b51"
+  }
+  */ }
+
+.Calcite_Orange_350 {
+  background-color: #e8912e;
+  /*
+   {
+  Hex:"#E8912E",
+  RGB:"r232 g145 b46"
+  }
+  */ }
+
+.Calcite_Orange_400 {
+  background-color: #d17e21;
+  /*
+   {
+  Hex:"#D17E21",
+  RGB:"r209 g126 b33"
+  }
+  */ }
+
+.Calcite_Orange_450 {
+  background-color: #ad6511;
+  /*
+   {
+  Hex:"#AD6511",
+  RGB:"r173 g101 b17"
+  }
+  */ }
+
+/* -- Calcite Core Green -- */
+.Calcite_Green_100 {
+  background-color: #d2e9f9;
+  /*
+   {
+  Hex:"#D2E9F9",
+  RGB:"r221 g238 b219"
+  }
+  */ }
+
+.Calcite_Green_150 {
+  background-color: #9bc19c;
+  /*
+   {
+  Hex:"#9BC19C",
+  RGB:"r155 g194 b156"
+  }
+  */ }
+
+.Calcite_Green_200 {
+  background-color: #67a966;
+  /*
+   {
+  Hex:"#67A966",
+  RGB:"r105 g170 b103"
+  }
+  */ }
+
+.Calcite_Green_250 {
+  background-color: #5a9359;
+  /*
+   {
+  Hex:"#5A9359",
+  RGB:"r91 g148 b90"
+  }
+  */ }
+
+.Calcite_Green_300 {
+  background-color: #50ad4e;
+  /*
+   {
+  Hex:"#50AD4E",
+  RGB:"r80 g173 b78"
+  }
+  */ }
+
+.Calcite_Green_350 {
+  background-color: #449443;
+  /*
+   {
+  Hex:"#449443",
+  RGB:"r68 g148 b67"
+  }
+  */ }
+
+.Calcite_Green_400 {
+  background-color: #338033;
+  /*
+   {
+  Hex:"#338033",
+  RGB:"r51 g128 b51"
+  }
+  */ }
+
+.Calcite_Green_450 {
+  background-color: #275e26;
+  /*
+   {
+  Hex:"#275E26",
+  RGB:"r39 g94 b38"
+  }
+  */ }
+
+/* -- Calcite Core Red -- */
+.Calcite_Red_100 {
+  background-color: #f3ded7;
+  /*
+   {
+  Hex:"#F3DED7",
+  RGB:"r244 g223 b216"
+  }
+  */ }
+
+.Calcite_Red_150 {
+  background-color: #e4a793;
+  /*
+   {
+  Hex:"#E4A793",
+  RGB:"r229 g168 b148"
+  }
+  */ }
+
+.Calcite_Red_200 {
+  background-color: #c86a4a;
+  /*
+   {
+  Hex:"#C86A4A",
+  RGB:"r210 g107 b75"
+  }
+  */ }
+
+.Calcite_Red_250 {
+  background-color: #c6542d;
+  /*
+   {
+  Hex:"#C6542D",
+  RGB:"r199 g85 b46"
+  }
+  */ }
+
+.Calcite_Red_300 {
+  background-color: #e04f1d;
+  /*
+   {
+  Hex:"#E04F1D",
+  RGB:"r224 g79 b29"
+  }
+  */ }
+
+.Calcite_Red_350 {
+  background-color: #c7461a;
+  /*
+   {
+  Hex:"#C7461A",
+  RGB:"r199 g70 b26"
+  }
+  */ }
+
+.Calcite_Red_400 {
+  background-color: #ab3c16;
+  /*
+   {
+  Hex:"#AB3C16",
+  RGB:"r171 g60 b22"
+  }
+  */ }
+
+.Calcite_Red_450 {
+  background-color: #8c2907;
+  /*
+   {
+  Hex:"#8C2907",
+  RGB:"r140 g41 b7"
+  }
+  */ }
+
+/* -- Calcite Core Purple -- */
+.Calcite_Purple_100 {
+  background-color: #e5e1ef;
+  /*
+   {
+  Hex:"#E5E1EF",
+  RGB:"r230 g226 b240"
+  }
+  */ }
+
+.Calcite_Purple_150 {
+  background-color: #c4bcdc;
+  /*
+   {
+  Hex:"#C4BCDC",
+  RGB:"r197 g189 b221"
+  }
+  */ }
+
+.Calcite_Purple_200 {
+  background-color: #9081bc;
+  /*
+   {
+  Hex:"#9081BC",
+  RGB:"r145 g130 b189"
+  }
+  */ }
+
+.Calcite_Purple_250 {
+  background-color: #7b6ca7;
+  /*
+   {
+  Hex:"#7B6CA7",
+  RGB:"r124 g109 b168"
+  }
+  */ }
+
+.Calcite_Purple_300 {
+  background-color: #846ebf;
+  /*
+   {
+  Hex:"#846EBF",
+  RGB:"r132 g110 b191"
+  }
+  */ }
+
+.Calcite_Purple_350 {
+  background-color: #7461a8;
+  /*
+   {
+  Hex:"#7461A8",
+  RGB:"r116 g97 b168"
+  }
+  */ }
+
+.Calcite_Purple_400 {
+  background-color: #61518c;
+  /*
+   {
+  Hex:"#61518C",
+  RGB:"r97 g81 b140"
+  }
+  */ }
+
+.Calcite_Purple_450 {
+  background-color: #4f4273;
+  /*
+   {
+  Hex:"#4F4273",
+  RGB:"r79 g66 b115"
+  }
+  */ }
+
+/* -- Calcite Core Brown -- */
+.Calcite_Brown_100 {
+  background-color: #e8ddd3;
+  /*
+   {
+  Hex:"#E8DDD3",
+  RGB:"r233 g222 b212"
+  }
+  */ }
+
+.Calcite_Brown_150 {
+  background-color: #d2b38f;
+  /*
+   {
+  Hex:"#D2B38F",
+  RGB:"r211 g180 b144"
+  }
+  */ }
+
+.Calcite_Brown_200 {
+  background-color: #b78a54; }
+
+.Calcite_Brown_250 {
+  background-color: #a57946;
+  /*
+   {
+  Hex:"#A57946",
+  RGB:"r166 g122 b71"
+  }
+  */ }
+
+.Calcite_Brown_300 {
+  background-color: #bf813a;
+  /*
+   {
+  Hex:"#BF813A",
+  RGB:"r191 g129 b58"
+  }
+  */ }
+
+.Calcite_Brown_350 {
+  background-color: #a67032;
+  /*
+   {
+  Hex:"#A67032",
+  RGB:"r166 g112 b50"
+  }
+  */ }
+
+.Calcite_Brown_400 {
+  background-color: #8c5e2a;
+  /*
+   {
+  Hex:"#8C5E2A",
+  RGB:"r140 g94 b42"
+  }
+  */ }
+
+.Calcite_Brown_450 {
+  background-color: #734d22;
+  /*
+   {
+  Hex:"#734D22",
+  RGB:"r115 g77 b34"
+  }
+  */ }
+
+/* Esri Calcite Gray Colors - Last Updated 03/02/15  */
+/*
+{
+name: "Calcite Gray Colors",
+tags: "Calcite Gray,Calcite"
+}
+*/
+/* -- Calcite Gray -- */
+.Calcite_Gray_100 {
+  background-color: #f7f8f8;
+  /*
+   {
+  Hex:"#F7F8F8",
+  RGB:"r248 g248 b248"
+  }
+  */ }
+
+.Calcite_Gray_150 {
+  background-color: #f2f3f3;
+  /*
+   {
+  Hex:"#F2F3F3",
+  RGB:"r243 g244 b244"
+  }
+  */ }
+
+.Calcite_Gray_200 {
+  background-color: #efeeef;
+  /*
+   {
+  Hex:"#EFEEEF",
+  RGB:"r239 g239 b240"
+  }
+  */ }
+
+.Calcite_Gray_250 {
+  background-color: #e5e6e7;
+  /*
+   {
+  Hex:"#E5E6E7",
+  RGB:"r230 g231 b232"
+  }
+  */ }
+
+.Calcite_Gray_300 {
+  background-color: #e0e0df;
+  /*
+   {
+  Hex:"#E0E0DF",
+  RGB:"r224 g224 b224"
+  }
+  */ }
+
+.Calcite_Gray_350 {
+  background-color: #cbcbcb;
+  /*
+   {
+  Hex:"#CBCBCB",
+  RGB:"204 g204 b204"
+  }
+  */ }
+
+.Calcite_Gray_400 {
+  background-color: #a6a8ab;
+  /*
+   {
+  Hex:"#A6A8AB",
+  RGB:"r167 g169 b172"
+  }
+  */ }
+
+.Calcite_Gray_450 {
+  background-color: #929497;
+  /*
+   {
+  Hex:"#929497",
+  RGB:"r147 g149 b152"
+  }
+  */ }
+
+.Calcite_Gray_500 {
+  background-color: #7f8183;
+  /*
+   {
+  Hex:"#7F8183",
+  RGB:"r128 g130 b132"
+  }
+  */ }
+
+.Calcite_Gray_550 {
+  background-color: #6c6d70;
+  /*
+   {
+  Hex:"#6C6D70",
+  RGB:"r109 g110 b113"
+  }
+  */ }
+
+.Calcite_Gray_600 {
+  background-color: #57585a;
+  /*
+   {
+  Hex:"#57585A",
+  RGB:"r88 g89 b91"
+  }
+  */ }
+
+.Calcite_Gray_650 {
+  background-color: #4c4c4c;
+  /*
+   {
+  Hex:"#4C4C4C",
+  RGB:"r76 g76 b76"
+  }
+  */ }
+
+.Calcite_Gray_700 {
+  background-color: #323232;
+  /*
+   {
+  Hex:"#323232",
+  RGB:"r51 g51 b51"
+  }
+  */ }
+
+/* Esri Calcite Vibrant Colors - Last Updated 03/02/15  */
+/*
+{
+name: "Calcite Vibrant Colors",
+tags: "Calcite Vibrant,Calcite"
+}
+*/
+/* -- Calcite Vibrant_Blue -- */
+.Calcite_Vibrant_Blue_100 {
+  background-color: #c7e9ff;
+  /*
+   {
+  Hex:"#C7E9FF",
+  RGB:"r199 g233 b255"
+  }
+  */ }
+
+.Calcite_Vibrant_Blue_150 {
+  background-color: #69dcff;
+  /*
+   {
+  Hex:"#69DCFF",
+  RGB:"r105 g220 b255"
+  }
+  */ }
+
+.Calcite_Vibrant_Blue_200 {
+  background-color: #00dee7;
+  /*
+   {
+  Hex:"#00DEE7",
+  RGB:"r0 g222 b231"
+  }
+  */ }
+
+.Calcite_Vibrant_Blue_250 {
+  background-color: #b3e9f9;
+  /*
+   {
+  Hex:"#B3E9F9",
+  RGB:"r179 g233 b249"
+  }
+  */ }
+
+.Calcite_Vibrant_Yellow_100 {
+  background-color: #ffefb7;
+  /*
+   {
+  Hex:"#FFEFB7",
+  RGB:"r255 g239 b183"
+  }
+  */ }
+
+.Calcite_Vibrant_Yellow_150 {
+  background-color: #fad817;
+  /*
+   {
+  Hex:"#FAD817",
+  RGB:"r250 g216 b23"
+  }
+  */ }
+
+.Calcite_Vibrant_Yellow_200 {
+  background-color: #fff000;
+  /*
+   {
+  Hex:"#FFF000",
+  RGB:"r255 g240 b0"
+  }
+  */ }
+
+.Calcite_Vibrant_Green_100 {
+  background-color: #daffd9;
+  /*
+   {
+  Hex:"#DAFFD9",
+  RGB:"r218 g255 b217"
+  }
+  */ }
+
+.Calcite_Vibrant_Green_150 {
+  background-color: #71de6e;
+  /*
+   {
+  Hex:"#71DE6E",
+  RGB:"r113 g222 b110"
+  }
+  */ }
+
+.Calcite_Vibrant_Green_200 {
+  background-color: #a5e800;
+  /*
+   {
+  Hex:"#A5E800",
+  RGB:"r165 g232 b0"
+  }
+  */ }
+
+.Calcite_Vibrant_Red_100 {
+  background-color: #ffc0b3;
+  /*
+   {
+  Hex:"#FFC0B3",
+  RGB:"r255 g192 b179"
+  }
+  */ }
+
+.Calcite_Vibrant_Red_150 {
+  background-color: #ff642e;
+  /*
+   {
+  Hex:"#FF642E",
+  RGB:"r255 g100 b46"
+  }
+  */ }
+
+.Calcite_Vibrant_Red_200 {
+  background-color: #de2900;
+  /*
+   {
+  Hex:"#DE2900",
+  RGB:"r222 g41 b0"
+  }
+  */ }
+
+.Calcite_Vibrant_Purple_100 {
+  background-color: #daccff;
+  /*
+   {
+  Hex:"#DACCFF",
+  RGB:"r218 g204 b255"
+  }
+  */ }
+
+.Calcite_Vibrant_Purple_150 {
+  background-color: #fad817;
+  /*
+   {
+  Hex:"#B096FF",
+  RGB:"r176 g150 b255"
+  }
+  */ }
+
+.Calcite_Vibrant_Purple_200 {
+  background-color: #f185ff;
+  /*
+   {
+  Hex:"#F185FF",
+  RGB:"r241 g133 b255"
+  }
+  */ }
+
+.Calcite_Vibrant_Brown_100 {
+  background-color: #ffdbb3;
+  /*
+   {
+  Hex:"#FFDBB3",
+  RGB:"r255 g219 b179"
+  }
+  */ }
+
+.Calcite_Vibrant_Brown_150 {
+  background-color: #db8d2f;
+  /*
+   {
+  Hex:"#DB8D2F",
+  RGB:"r219 g141 b47"
+  }
+  */ }
+
+.Calcite_Vibrant_Brown_200 {
+  background-color: #ffbc6b;
+  /*
+   {
+  Hex:"#FFBC6B",
+  RGB:"r255 g188 b107"
+  }
+  */ }
+
+/* Esri Calcite Highlight Colors - Last Updated 03/02/15  */
+/*
+{
+name: "Calcite Highlight Colors",
+tags: "Calcite Highlight,Calcite"
+}
+*/
+/* -- Calcite Highlight_Blue -- */
+.Calcite_Highlight_Blue_100 {
+  background-color: #e2f1fb;
+  /*
+   {
+  Hex:"#E2F1FB",
+  RGB:"r226 g241 b251"
+  }
+  */ }
+
+.Calcite_Highlight_Blue_150 {
+  background-color: #c5e5f9;
+  /*
+   {
+  Hex:"#C5E5F9",
+  RGB:"r197 g229 b249"
+  }
+  */ }
+
+.Calcite_Highlight_Blue_200 {
+  background-color: #aadbfa;
+  /*
+   {
+  Hex:"#AADBFA",
+  RGB:"r170 g219 b250"
+  }
+  */ }
+
+.Calcite_Highlight_Blue_250 {
+  background-color: #90cdf2;
+  /*
+   {
+  Hex:"#90CDF2",
+  RGB:"r144 g205 b242"
+  }
+  */ }
+
+.Calcite_Highlight_Blue_300 {
+  background-color: #80bce0;
+  /*
+   {
+  Hex:"#80BCE0",
+  RGB:"r128 g188 b224"
+  }
+  */ }
+
+.Calcite_Highlight_Blue_350 {
+  background-color: #0079c1;
+  /*
+   {
+  Hex:"#0079C1",
+  RGB:"r0 g122 b194"
+  }
+  */ }
+
+.Calcite_Highlight_Blue_400 {
+  background-color: #005e95;
+  /*
+   {
+  Hex:"#005E95",
+  RGB:"r0 g95 b150"
+  }
+  */ }
+
+/* -- Calcite Highlight Green -- */
+.Calcite_Highlight_Green_100 {
+  background-color: #cfedcc;
+  /*
+   {
+  Hex:"#CFEDCC",
+  RGB:"r208 g238 b205"
+  }
+  */ }
+
+.Calcite_Highlight_Green_150 {
+  background-color: #b0e2b0;
+  /*
+   {
+  Hex:"#B0E2B0",
+  RGB:"r177 g227 b177"
+  }
+  */ }
+
+.Calcite_Highlight_Green_200 {
+  background-color: #96ce96;
+  /*
+   {
+  Hex:"#96CE96",
+  RGB:"r151 g207 b151"
+  }
+  */ }
+
+.Calcite_Highlight_Green_250 {
+  background-color: #7dc17d;
+  /*
+   {
+  Hex:"#7DC17D",
+  RGB:"r126 g194 b126"
+  }
+  */ }
+
+.Calcite_Highlight_Green_300 {
+  background-color: #7bb974;
+  /*
+   {
+  Hex:"#7BB974",
+  RGB:"r124 g186 b117"
+  }
+  */ }
+
+.Calcite_Highlight_Green_350 {
+  background-color: #31872e;
+  /*
+   {
+  Hex:"#31872E",
+  RGB:"r49 g135 b46"
+  }
+  */ }
+
+.Calcite_Highlight_Green_400 {
+  background-color: #2b622b;
+  /*
+   {
+  Hex:"#2B622B",
+  RGB:"r44 g99 b44"
+  }
+  */ }
+
+/*# sourceMappingURL=main_style.css.map */

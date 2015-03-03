@@ -1,514 +1,799 @@
-/* CSS Document */
-/* ---- Calcite Core Colors ---- */
+@charset "UTF-8";
+/* Esri Calcite Core Colors - Last Updated 03/02/15  */
+
+@import "variables";
+
 /*
 {
 name: "Calcite Core Colors",
 tags: "Calcite Core,Calcite"
 }
 */
+
 /* -- Calcite Core Blue -- */
+
 .Calcite_Blue_100 {
-  background-color: #d2e9f9;
+  background-color: $Calcite_Blue_100;
+
   /*
    {
   Hex:"#D2E9F9",
   RGB:"r221 g234 b249"
   }
-  */ }
+  */
+
+}
 
 .Calcite_Blue_150 {
-  background-color: #bcdaed;
+  background-color: $Calcite_Blue_150;
+
   /*
    {
   Hex:"#BCDAED",
   RGB:"r189 g219 b238"
   }
-  */ }
+  */
+
+}
+
 
 .Calcite_Blue_200 {
-  background-color: #6cb4e2;
+  background-color: $Calcite_Blue_200;
+
   /*
    {
   Hex:"#6CB4E2",
   RGB:"r109 g181 b227"
   }
-  */ }
+  */
+
+}
+
 
 .Calcite_Blue_250 {
-  background-color: #56a5d8;
+  background-color: $Calcite_Blue_250;
+
   /*
    {
   Hex:"#56A5D8",
   RGB:"r87 g166 b217"
   }
-  */ }
+  */
+
+}
+
 
 .Calcite_Blue_300 {
-  background-color: #49b0f2;
+  background-color: $Calcite_Blue_300;
+
   /*
    {
   Hex:"#49B0F2",
   RGB:"r73 g176 b242"
   }
-  */ }
+  */
+
+}
+
 
 .Calcite_Blue_350 {
-  background-color: #419ed9;
+  background-color: $Calcite_Blue_350;
+
   /*
    {
   Hex:"#419ED9",
   RGB:"r65 g158 b217"
   }
-  */ }
+  */
+
+}
+
 
 .Calcite_Blue_400 {
-  background-color: #3b8fc4;
+  background-color: $Calcite_Blue_400;
+
   /*
    {
   Hex:"#3B8FC4",
   RGB:"r59 g143 b196"
   }
-  */ }
+  */
+
+}
 
 .Calcite_Blue_450 {
-  background-color: #196fa6;
+  background-color: $Calcite_Blue_450;
+
   /*
    {
   Hex:"#196FA6",
   RGB:"r25 g111 b166"
   }
-  */ }
+  */
+
+}
+
+
+
+
 
 /* -- Calcite Core Yellow -- */
+
+
 .Calcite_Yellow_100 {
-  background-color: #f3edc7;
+  background-color: $Calcite_Yellow_100;
+
   /*
    {
   Hex:"#F3EDC7",
   RGB:"r244 g238 b200"
   }
-  */ }
+  */
+
+}
 
 .Calcite_Yellow_150 {
-  background-color: #efe397;
+  background-color: $Calcite_Yellow_150;
+
   /*
    {
   Hex:"#EFE397",
   RGB:"r240 g228 b152"
   }
-  */ }
+  */
+
+}
+
 
 .Calcite_Yellow_200 {
-  background-color: #e4d154;
+  background-color: $Calcite_Yellow_200;
+
   /*
    {
   Hex:"#E4D154",
   RGB:"r229 g210 b85"
   }
-  */ }
+  */
+
+}
+
 
 .Calcite_Yellow_250 {
-  background-color: #d8c34b;
+  background-color: $Calcite_Yellow_250;
+
   /*
    {
   Hex:"#D8C34B",
   RGB:"r217 g196 b76"
   }
-  */ }
+  */
+
+}
+
+
 
 .Calcite_Yellow_300 {
-  background-color: #f2d530;
+  background-color: $Calcite_Yellow_300;
+
   /*
    {
   Hex:"#F2D530",
   RGB:"r242 g213 b48"
   }
-  */ }
+  */
+
+}
+
 
 .Calcite_Yellow_350 {
-  background-color: #d9bf2b;
+  background-color: $Calcite_Yellow_350;
+
   /*
    {
   Hex:"#D9BF2B",
   RGB:"r217 g191 b43"
   }
-  */ }
+  */
+
+}
+
 
 .Calcite_Yellow_400 {
-  background-color: #bda726;
+  background-color: $Calcite_Yellow_400;
+
   /*
    {
   Hex:"#BDA726",
   RGB:"r189 g167 b38"
   }
-  */ }
+  */
+
+}
 
 .Calcite_Yellow_450 {
-  background-color: #a68d00;
+  background-color: $Calcite_Yellow_450;
+
   /*
    {
   Hex:"#A68D00",
   RGB:"r166 g141 b0"
   }
-  */ }
+  */
+
+}
+
+
+
+
 
 /* -- Calcite Core Orange -- */
+
+
 .Calcite_Orange_100 {
-  background-color: #fbe1c2;
+  background-color: $Calcite_Orange_100;
+
   /*
    {
   Hex:"#FBE1C2",
   RGB:"r251 g226 b195"
   }
-  */ }
+  */
+
+}
 
 .Calcite_Orange_150 {
-  background-color: #f6ca92;
+  background-color: $Calcite_Orange_150;
+
   /*
    {
   Hex:"#F6CA92",
   RGB:"r247 g203 b147"
   }
-  */ }
+  */
+
+}
+
 
 .Calcite_Orange_200 {
-  background-color: #eda959;
+  background-color: $Calcite_Orange_200;
+
   /*
    {
   Hex:"#EDA959",
   RGB:"r238 g170 b90"
   }
-  */ }
+  */
+
+}
+
 
 .Calcite_Orange_250 {
-  background-color: #e79c47;
+  background-color: $Calcite_Orange_250;
+
   /*
    {
   Hex:"#E79C47",
   RGB:"r232 g157 b72"
   }
-  */ }
+  */
+
+}
+
+
 
 .Calcite_Orange_300 {
-  background-color: #ff9f33;
+  background-color: $Calcite_Orange_300;
+
   /*
    {
   Hex:"#FF9F33",
   RGB:"r255 g159 b51"
   }
-  */ }
+  */
+
+}
+
 
 .Calcite_Orange_350 {
-  background-color: #e8912e;
+  background-color: $Calcite_Orange_350;
+
   /*
    {
   Hex:"#E8912E",
   RGB:"r232 g145 b46"
   }
-  */ }
+  */
+
+}
+
 
 .Calcite_Orange_400 {
-  background-color: #d17e21;
+  background-color: $Calcite_Orange_400;
+
   /*
    {
   Hex:"#D17E21",
   RGB:"r209 g126 b33"
   }
-  */ }
+  */
+
+}
 
 .Calcite_Orange_450 {
-  background-color: #ad6511;
+  background-color: $Calcite_Orange_450;
+
   /*
    {
   Hex:"#AD6511",
   RGB:"r173 g101 b17"
   }
-  */ }
+  */
+
+}
+
+
+
+
 
 /* -- Calcite Core Green -- */
+
+
 .Calcite_Green_100 {
-  background-color: #d2e9f9;
+  background-color: $Calcite_Green_100;
+
   /*
    {
   Hex:"#D2E9F9",
   RGB:"r221 g238 b219"
   }
-  */ }
+  */
+
+}
 
 .Calcite_Green_150 {
-  background-color: #9bc19c;
+  background-color: $Calcite_Green_150;
+
   /*
    {
   Hex:"#9BC19C",
   RGB:"r155 g194 b156"
   }
-  */ }
+  */
+
+}
+
 
 .Calcite_Green_200 {
-  background-color: #67a966;
+  background-color: $Calcite_Green_200;
+
   /*
    {
   Hex:"#67A966",
   RGB:"r105 g170 b103"
   }
-  */ }
+  */
+
+}
+
 
 .Calcite_Green_250 {
-  background-color: #5a9359;
+  background-color: $Calcite_Green_250;
+
   /*
    {
   Hex:"#5A9359",
   RGB:"r91 g148 b90"
   }
-  */ }
+  */
+
+}
+
+
 
 .Calcite_Green_300 {
-  background-color: #50ad4e;
+  background-color: $Calcite_Green_300;
+
   /*
    {
   Hex:"#50AD4E",
   RGB:"r80 g173 b78"
   }
-  */ }
+  */
+
+}
+
 
 .Calcite_Green_350 {
-  background-color: #449443;
+  background-color: $Calcite_Green_350;
+
   /*
    {
   Hex:"#449443",
   RGB:"r68 g148 b67"
   }
-  */ }
+  */
+
+}
+
 
 .Calcite_Green_400 {
-  background-color: #338033;
+  background-color: $Calcite_Green_400;
+
   /*
    {
   Hex:"#338033",
   RGB:"r51 g128 b51"
   }
-  */ }
+  */
+
+}
 
 .Calcite_Green_450 {
-  background-color: #275e26;
+  background-color: $Calcite_Green_450;
+
   /*
    {
   Hex:"#275E26",
   RGB:"r39 g94 b38"
   }
-  */ }
+  */
+
+}
+
+
+
+
+
 
 /* -- Calcite Core Red -- */
+
+
 .Calcite_Red_100 {
-  background-color: #f3ded7;
+  background-color: $Calcite_Red_100;
+
   /*
    {
   Hex:"#F3DED7",
   RGB:"r244 g223 b216"
   }
-  */ }
+  */
+
+}
 
 .Calcite_Red_150 {
-  background-color: #e4a793;
+  background-color: $Calcite_Red_150;
+
   /*
    {
   Hex:"#E4A793",
   RGB:"r229 g168 b148"
   }
-  */ }
+  */
+
+}
+
 
 .Calcite_Red_200 {
-  background-color: #c86a4a;
+  background-color: $Calcite_Red_200;
+
   /*
    {
   Hex:"#C86A4A",
   RGB:"r210 g107 b75"
   }
-  */ }
+  */
+
+}
+
 
 .Calcite_Red_250 {
-  background-color: #c6542d;
+  background-color: $Calcite_Red_250;
+
   /*
    {
   Hex:"#C6542D",
   RGB:"r199 g85 b46"
   }
-  */ }
+  */
+
+}
+
+
 
 .Calcite_Red_300 {
-  background-color: #e04f1d;
+  background-color: $Calcite_Red_300;
+
   /*
    {
   Hex:"#E04F1D",
   RGB:"r224 g79 b29"
   }
-  */ }
+  */
+
+}
+
 
 .Calcite_Red_350 {
-  background-color: #c7461a;
+  background-color: $Calcite_Red_350;
+
   /*
    {
   Hex:"#C7461A",
   RGB:"r199 g70 b26"
   }
-  */ }
+  */
+
+}
+
 
 .Calcite_Red_400 {
-  background-color: #ab3c16;
+  background-color: $Calcite_Red_400;
+
   /*
    {
   Hex:"#AB3C16",
   RGB:"r171 g60 b22"
   }
-  */ }
+  */
+
+}
 
 .Calcite_Red_450 {
-  background-color: #8c2907;
+  background-color: $Calcite_Red_450;
+
   /*
    {
   Hex:"#8C2907",
   RGB:"r140 g41 b7"
   }
-  */ }
+  */
+
+}
+
+
 
 /* -- Calcite Core Purple -- */
+
+
 .Calcite_Purple_100 {
-  background-color: #e5e1ef;
+  background-color: $Calcite_Purple_100;
+
   /*
    {
   Hex:"#E5E1EF",
   RGB:"r230 g226 b240"
   }
-  */ }
+  */
+
+}
 
 .Calcite_Purple_150 {
-  background-color: #c4bcdc;
+  background-color: $Calcite_Purple_150;
+
   /*
    {
   Hex:"#C4BCDC",
   RGB:"r197 g189 b221"
   }
-  */ }
+  */
+
+}
+
 
 .Calcite_Purple_200 {
-  background-color: #9081bc;
+  background-color: $Calcite_Purple_200;
+
   /*
    {
   Hex:"#9081BC",
   RGB:"r145 g130 b189"
   }
-  */ }
+  */
+
+}
+
 
 .Calcite_Purple_250 {
-  background-color: #7b6ca7;
+  background-color: $Calcite_Purple_250;
+
   /*
    {
   Hex:"#7B6CA7",
   RGB:"r124 g109 b168"
   }
-  */ }
+  */
+
+}
+
+
 
 .Calcite_Purple_300 {
-  background-color: #846ebf;
+  background-color: $Calcite_Purple_300;
+
   /*
    {
   Hex:"#846EBF",
   RGB:"r132 g110 b191"
   }
-  */ }
+  */
+
+}
+
 
 .Calcite_Purple_350 {
-  background-color: #7461a8;
+  background-color: $Calcite_Purple_350;
+
   /*
    {
   Hex:"#7461A8",
   RGB:"r116 g97 b168"
   }
-  */ }
+  */
+
+}
+
 
 .Calcite_Purple_400 {
-  background-color: #61518c;
+  background-color: $Calcite_Purple_400;
+
   /*
    {
   Hex:"#61518C",
   RGB:"r97 g81 b140"
   }
-  */ }
+  */
+
+}
 
 .Calcite_Purple_450 {
-  background-color: #4f4273;
+  background-color: $Calcite_Purple_450;
+
   /*
    {
   Hex:"#4F4273",
   RGB:"r79 g66 b115"
   }
-  */ }
+  */
+
+}
+
+
+
 
 /* -- Calcite Core Brown -- */
+
+
 .Calcite_Brown_100 {
-  background-color: #e8ddd3;
+  background-color: $Calcite_Brown_100;
+
   /*
    {
   Hex:"#E8DDD3",
   RGB:"r233 g222 b212"
   }
-  */ }
+  */
+
+}
 
 .Calcite_Brown_150 {
-  background-color: #d2b38f;
+  background-color: $Calcite_Brown_150;
+
   /*
    {
   Hex:"#D2B38F",
   RGB:"r211 g180 b144"
   }
-  */ }
+  */
+
+}
+
 
 .Calcite_Brown_200 {
-  background-color: #b78a54; }
+  background-color: $Calcite_Brown_200
+
+  /*
+   {
+  Hex:"#B78A54",
+  RGB:"r184 g139 b85"
+  }
+  */
+
+}
+
 
 .Calcite_Brown_250 {
-  background-color: #a57946;
+  background-color: $Calcite_Brown_250;
+
   /*
    {
   Hex:"#A57946",
   RGB:"r166 g122 b71"
   }
-  */ }
+  */
+
+}
+
+
 
 .Calcite_Brown_300 {
-  background-color: #bf813a;
+  background-color: $Calcite_Brown_300;
+
   /*
    {
   Hex:"#BF813A",
   RGB:"r191 g129 b58"
   }
-  */ }
+  */
+
+}
+
 
 .Calcite_Brown_350 {
-  background-color: #a67032;
+  background-color: $Calcite_Brown_350;
+
   /*
    {
   Hex:"#A67032",
   RGB:"r166 g112 b50"
   }
-  */ }
+  */
+
+}
+
 
 .Calcite_Brown_400 {
-  background-color: #8c5e2a;
+  background-color: $Calcite_Brown_400;
+
   /*
    {
   Hex:"#8C5E2A",
   RGB:"r140 g94 b42"
   }
-  */ }
+  */
+
+}
 
 .Calcite_Brown_450 {
-  background-color: #734d22;
+  background-color: $Calcite_Brown_450;
+
   /*
    {
   Hex:"#734D22",
   RGB:"r115 g77 b34"
   }
-  */ }
+  */
 
-/*# sourceMappingURL=calcite_core_colors.css.map */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

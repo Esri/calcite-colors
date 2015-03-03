@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": ";;;;;;;;;AA4CA,oBAAqB;EACnB,gBAAgB,EAvCI,OAAO;;;;;;;;;;AAoD7B,oBAAqB;EACnB,gBAAgB,EApDI,OAAO;;;;;;;;;;AAiE7B,oBAAqB;EACnB,gBAAgB,EAjEI,OAAO;;;;;;;;;;AA8E7B,oBAAqB;EACnB,gBAAgB,EA9EI,OAAO;;;;;;;;;;;AA8F7B,sBAAuB;EACrB,gBAAgB,EA9FM,OAAO;;;;;;;;;;AA2G/B,sBAAuB;EACrB,gBAAgB,EA3GM,OAAO;;;;;;;;;;AAwH/B,sBAAuB;EACrB,gBAAgB,EAxHM,OAAO;;;;;;;;;;AAqI/B,mBAAoB;EAClB,gBAAgB,EArIG,OAAO;;;;;;;;;;AAkJ5B,mBAAoB;EAClB,gBAAgB,EAlJG,OAAO;;;;;;;;;;;AAkK5B,qBAAsB;EACpB,gBAAgB,EAlKK,OAAO;;;;;;;;;;AA+K9B,qBAAsB;EACpB,gBAAgB,EA/KK,OAAO;;;;;;;;;;AA4L9B,qBAAsB;EACpB,gBAAgB,EA5LK,OAAO;;;;;;;;;;AAyM9B,qBAAsB;EACpB,gBAAgB,EAzMK,OAAO;;;;;;;;;;;AAwN9B,sBAAuB;EACrB,gBAAgB,EAxNM,OAAO;;;;;;;;;;AAqO/B,sBAAuB;EACrB,gBAAgB,EArOM,OAAO;;;;;;;;;;AAkP/B,sBAAuB;EACrB,gBAAgB,EAlPM,OAAO;;;;;;;;;;AA+P/B,sBAAuB;EACrB,gBAAgB,EA/PM,OAAO;;;;;;;;;;;AA8Q/B,qBAAsB;EACpB,gBAAgB,EA9QK,OAAO;;;;;;;;;;AA2R9B,qBAAsB;EACpB,gBAAgB,EA3RK,OAAO;;;;;;;;;;AAwS9B,qBAAsB;EACpB,gBAAgB,EAxSK,OAAO;;;;;;;;;;AAqT9B,qBAAsB;EACpB,gBAAgB,EArTK,OAAO;;;;;;;;;;;AAoU9B,oBAAqB;EACnB,gBAAgB,EApUI,OAAO;;;;;;;;;;AAiV7B,oBAAqB;EACnB,gBAAgB,EAjVI,OAAO;;;;;;;;;;AA8V7B,oBAAqB;EACnB,gBAAgB,EA9VI,OAAO;;;;;;;;;;AA2W7B,oBAAqB;EACnB,gBAAgB,EA3WI,OAAO",
-"sources": ["brand_color.scss"],
-"names": [],
-"file": "brand_color.css"
-}
