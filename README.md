@@ -11,6 +11,7 @@ A [SASS](http://sass-lang.com/) variables file can be found in the SCSS folder `
 A [Stylus](http://learnboost.github.io/stylus/) variables file can be found in the Styus folder `stylus/variables.scss`. To learn how to use `Variable` files within Styus please read [USING Styus Variables](http://learnboost.github.io/stylus/docs/variables.html).  
 
 ## To use CSS
+A set of CSS reference files have been added to file can be found in the CSS folder `css/complete.css`. To learn how to use `Variable` files within Styus please read [USING Styus Variables](http://learnboost.github.io/stylus/docs/variables.html).
 
 
 ## Patterns JSON Folder
