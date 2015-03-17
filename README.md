@@ -22,4 +22,4 @@ A set of CSS reference files have been added to the CSS folder:
 Very shortly we will list out a set of URL's from our CDN which can be used in your local projects.
 
 ## Patterns JSON Folder
-The Patterns JSON folder contains the source files that are used to build the pages on Patterns.esri.com and should NOT be used within a project as they contain lots of information not needed for standalone projects.  These files are created with using SCSS.
+The Patterns JSON folder contains the source files that are used to build the pages on Patterns.esri.com and should NOT be used within a project as they contain lots of information not needed for standalone projects.  These files are created using SCSS.
