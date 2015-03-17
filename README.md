@@ -11,8 +11,15 @@ A [SASS](http://sass-lang.com/) variables file can be found in the SCSS folder `
 A [Stylus](http://learnboost.github.io/stylus/) variables file can be found in the Styus folder `stylus/variables.scss`. To learn how to use `Variable` files within Styus please read [USING Styus Variables](http://learnboost.github.io/stylus/docs/variables.html).  
 
 ## To use CSS
-A set of CSS reference files have been added to file can be found in the CSS folder `css/complete.css`. To learn how to use `Variable` files within Styus please read [USING Styus Variables](http://learnboost.github.io/stylus/docs/variables.html).
+A set of CSS reference files have been added to the CSS folder:
+- `css/brand_colors.css`
+- `css/calcite_core_colors.css`
+- `css/calcite_gray_colors.css`
+- `css/calcite_highlight_colors.css`
+- `css/calcite_vibrant_colors.css`
+- `css/complete.css`  <- all of the above compiled into one file.
 
+Very shortly we will list out a set of URL's from our CDN which can be used in your local projects.
 
 ## Patterns JSON Folder
 The Patterns JSON folder contains the source files that are used to build the pages on Patterns.esri.com and should NOT be used within a project as they contain lots of information not needed for standalone projects.  These files are created with using SCSS.

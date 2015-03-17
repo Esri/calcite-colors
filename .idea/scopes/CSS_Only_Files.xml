@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="CSS Only Files" pattern="file:css/scss/brand_colors.scss||file:css/scss/calcite_core_colors.scss||file:css/scss/calcite_gray_colors.scss||file:css/scss/calcite_highlight_colors.scss||file:css/scss/calcite_vibrant_colors.scss||file:css/scss/complete.scss" />
+</component>

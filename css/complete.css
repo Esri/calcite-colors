@@ -1,0 +1,405 @@
+/* Build */
+/* Esri Brand Colors - Last Updated 04/16/15 */
+/* -- Esri Brand Blue -- */
+.Esri_Brand_Blue_100 {
+  background-color: #b9e0f7; }
+
+.Esri_Brand_Blue_150 {
+  background-color: #00b9f2; }
+
+.Esri_Brand_Blue_200 {
+  background-color: #007ac2; }
+
+.Esri_Brand_Blue_250 {
+  background-color: #004575; }
+
+/* -- Esri Brand Warm -- */
+.Esri_Brand_Yellow_100 {
+  background-color: #ffec4f; }
+
+.Esri_Brand_Orange_100 {
+  background-color: #f89927; }
+
+.Esri_Brand_Orange_150 {
+  background-color: #f36f20; }
+
+.Esri_Brand_Red_100 {
+  background-color: #da4d1e; }
+
+.Esri_Brand_Red_150 {
+  background-color: #de2900; }
+
+/* -- Esri Brand Green -- */
+.Esri_Brand_Green_100 {
+  background-color: #d1e391; }
+
+.Esri_Brand_Green_150 {
+  background-color: #aad04b; }
+
+.Esri_Brand_Green_200 {
+  background-color: #35ac46; }
+
+.Esri_Brand_Green_250 {
+  background-color: #2a7433; }
+
+/* -- Esri Brand Purple -- */
+.Esri_Brand_Purple_100 {
+  background-color: #dfcce3; }
+
+.Esri_Brand_Purple_150 {
+  background-color: #b279b4; }
+
+.Esri_Brand_Purple_200 {
+  background-color: #8f499c; }
+
+.Esri_Brand_Purple_250 {
+  background-color: #6b1978; }
+
+/* -- Esri Brand Brown -- */
+.Esri_Brand_Brown_100 {
+  background-color: #ecdcb9; }
+
+.Esri_Brand_Brown_150 {
+  background-color: #be9969; }
+
+.Esri_Brand_Brown_200 {
+  background-color: #7b4f1c; }
+
+.Esri_Brand_Brown_250 {
+  background-color: #523b20; }
+
+/* -- Esri Brand Gray -- */
+.Esri_Brand_Gray_100 {
+  background-color: #b4b4b4; }
+
+.Esri_Brand_Gray_150 {
+  background-color: #969696; }
+
+.Esri_Brand_Gray_200 {
+  background-color: #6e6e6e; }
+
+.Esri_Brand_Gray_250 {
+  background-color: #464646; }
+
+/* Esri Calcite Core Colors - Last Updated 03/02/15 */
+/* -- Calcite Core Blue -- */
+.Calcite_Blue_100 {
+  background-color: #d2e9f9; }
+
+.Calcite_Blue_150 {
+  background-color: #bcdaed; }
+
+.Calcite_Blue_200 {
+  background-color: #6cb4e2; }
+
+.Calcite_Blue_250 {
+  background-color: #56a5d8; }
+
+.Calcite_Blue_300 {
+  background-color: #49b0f2; }
+
+.Calcite_Blue_350 {
+  background-color: #419ed9; }
+
+.Calcite_Blue_400 {
+  background-color: #3b8fc4; }
+
+.Calcite_Blue_450 {
+  background-color: #196fa6; }
+
+/* -- Calcite Core Yellow -- */
+.Calcite_Yellow_100 {
+  background-color: #f3edc7; }
+
+.Calcite_Yellow_150 {
+  background-color: #efe397; }
+
+.Calcite_Yellow_200 {
+  background-color: #e4d154; }
+
+.Calcite_Yellow_250 {
+  background-color: #d8c34b; }
+
+.Calcite_Yellow_300 {
+  background-color: #f2d530; }
+
+.Calcite_Yellow_350 {
+  background-color: #d9bf2b; }
+
+.Calcite_Yellow_400 {
+  background-color: #bda726; }
+
+.Calcite_Yellow_450 {
+  background-color: #a68d00; }
+
+/* -- Calcite Core Orange -- */
+.Calcite_Orange_100 {
+  background-color: #fbe1c2; }
+
+.Calcite_Orange_150 {
+  background-color: #f6ca92; }
+
+.Calcite_Orange_200 {
+  background-color: #eda959; }
+
+.Calcite_Orange_250 {
+  background-color: #e79c47; }
+
+.Calcite_Orange_300 {
+  background-color: #ff9f33; }
+
+.Calcite_Orange_350 {
+  background-color: #e8912e; }
+
+.Calcite_Orange_400 {
+  background-color: #d17e21; }
+
+.Calcite_Orange_450 {
+  background-color: #ad6511; }
+
+/* -- Calcite Core Green -- */
+.Calcite_Green_100 {
+  background-color: #d2e9f9; }
+
+.Calcite_Green_150 {
+  background-color: #9bc19c; }
+
+.Calcite_Green_200 {
+  background-color: #67a966; }
+
+.Calcite_Green_250 {
+  background-color: #5a9359; }
+
+.Calcite_Green_300 {
+  background-color: #50ad4e; }
+
+.Calcite_Green_350 {
+  background-color: #449443; }
+
+.Calcite_Green_400 {
+  background-color: #338033; }
+
+.Calcite_Green_450 {
+  background-color: #275e26; }
+
+/* -- Calcite Core Red -- */
+.Calcite_Red_100 {
+  background-color: #f3ded7; }
+
+.Calcite_Red_150 {
+  background-color: #e4a793; }
+
+.Calcite_Red_200 {
+  background-color: #c86a4a; }
+
+.Calcite_Red_250 {
+  background-color: #c6542d; }
+
+.Calcite_Red_300 {
+  background-color: #e04f1d; }
+
+.Calcite_Red_350 {
+  background-color: #c7461a; }
+
+.Calcite_Red_400 {
+  background-color: #ab3c16; }
+
+.Calcite_Red_450 {
+  background-color: #8c2907; }
+
+/* -- Calcite Core Purple -- */
+.Calcite_Purple_100 {
+  background-color: #e5e1ef; }
+
+.Calcite_Purple_150 {
+  background-color: #c4bcdc; }
+
+.Calcite_Purple_200 {
+  background-color: #9081bc; }
+
+.Calcite_Purple_250 {
+  background-color: #7b6ca7; }
+
+.Calcite_Purple_300 {
+  background-color: #846ebf; }
+
+.Calcite_Purple_350 {
+  background-color: #7461a8; }
+
+.Calcite_Purple_400 {
+  background-color: #61518c; }
+
+.Calcite_Purple_450 {
+  background-color: #4f4273; }
+
+/* -- Calcite Core Brown -- */
+.Calcite_Brown_100 {
+  background-color: #e8ddd3; }
+
+.Calcite_Brown_150 {
+  background-color: #d2b38f; }
+
+.Calcite_Brown_200 {
+  background-color: #b78a54; }
+
+.Calcite_Brown_250 {
+  background-color: #a57946; }
+
+.Calcite_Brown_300 {
+  background-color: #bf813a; }
+
+.Calcite_Brown_350 {
+  background-color: #a67032; }
+
+.Calcite_Brown_400 {
+  background-color: #8c5e2a; }
+
+.Calcite_Brown_450 {
+  background-color: #734d22; }
+
+/* Esri Calcite Gray Colors - Last Updated 03/02/15 */
+/* -- Calcite Gray -- */
+.Calcite_Gray_100 {
+  background-color: #f7f8f8; }
+
+.Calcite_Gray_150 {
+  background-color: #f2f3f3; }
+
+.Calcite_Gray_200 {
+  background-color: #efeeef; }
+
+.Calcite_Gray_250 {
+  background-color: #e5e6e7; }
+
+.Calcite_Gray_300 {
+  background-color: #e0e0df; }
+
+.Calcite_Gray_350 {
+  background-color: #cbcbcb; }
+
+.Calcite_Gray_400 {
+  background-color: #a6a8ab; }
+
+.Calcite_Gray_450 {
+  background-color: #929497; }
+
+.Calcite_Gray_500 {
+  background-color: #7f8183; }
+
+.Calcite_Gray_550 {
+  background-color: #6c6d70; }
+
+.Calcite_Gray_600 {
+  background-color: #57585a; }
+
+.Calcite_Gray_650 {
+  background-color: #4c4c4c; }
+
+.Calcite_Gray_700 {
+  background-color: #323232; }
+
+/* Esri Calcite Vibrant Colors - Last Updated 03/02/15 */
+/* -- Calcite Vibrant_Blue -- */
+.Calcite_Vibrant_Blue_100 {
+  background-color: #c7e9ff; }
+
+.Calcite_Vibrant_Blue_150 {
+  background-color: #69dcff; }
+
+.Calcite_Vibrant_Blue_200 {
+  background-color: #00dee7; }
+
+.Calcite_Vibrant_Blue_250 {
+  background-color: #b3e9f9; }
+
+.Calcite_Vibrant_Yellow_100 {
+  background-color: #ffefb7; }
+
+.Calcite_Vibrant_Yellow_150 {
+  background-color: #fad817; }
+
+.Calcite_Vibrant_Yellow_200 {
+  background-color: #fff000; }
+
+.Calcite_Vibrant_Green_100 {
+  background-color: #daffd9; }
+
+.Calcite_Vibrant_Green_150 {
+  background-color: #71de6e; }
+
+.Calcite_Vibrant_Green_200 {
+  background-color: #a5e800; }
+
+.Calcite_Vibrant_Red_100 {
+  background-color: #ffc0b3; }
+
+.Calcite_Vibrant_Red_150 {
+  background-color: #ff642e; }
+
+.Calcite_Vibrant_Red_200 {
+  background-color: #de2900; }
+
+.Calcite_Vibrant_Purple_100 {
+  background-color: #daccff; }
+
+.Calcite_Vibrant_Purple_150 {
+  background-color: #fad817; }
+
+.Calcite_Vibrant_Purple_200 {
+  background-color: #f185ff; }
+
+.Calcite_Vibrant_Brown_100 {
+  background-color: #ffdbb3; }
+
+.Calcite_Vibrant_Brown_150 {
+  background-color: #db8d2f; }
+
+.Calcite_Vibrant_Brown_200 {
+  background-color: #ffbc6b; }
+
+/* Esri Calcite Highlight Colors - Last Updated 03/02/15 */
+/* -- Calcite Highlight_Blue -- */
+.Calcite_Highlight_Blue_100 {
+  background-color: #e2f1fb; }
+
+.Calcite_Highlight_Blue_150 {
+  background-color: #c5e5f9; }
+
+.Calcite_Highlight_Blue_200 {
+  background-color: #aadbfa; }
+
+.Calcite_Highlight_Blue_250 {
+  background-color: #90cdf2; }
+
+.Calcite_Highlight_Blue_300 {
+  background-color: #80bce0; }
+
+.Calcite_Highlight_Blue_350 {
+  background-color: #0079c1; }
+
+.Calcite_Highlight_Blue_400 {
+  background-color: #005e95; }
+
+/* -- Calcite Highlight Green -- */
+.Calcite_Highlight_Green_100 {
+  background-color: #cfedcc; }
+
+.Calcite_Highlight_Green_150 {
+  background-color: #b0e2b0; }
+
+.Calcite_Highlight_Green_200 {
+  background-color: #96ce96; }
+
+.Calcite_Highlight_Green_250 {
+  background-color: #7dc17d; }
+
+.Calcite_Highlight_Green_300 {
+  background-color: #7bb974; }
+
+.Calcite_Highlight_Green_350 {
+  background-color: #31872e; }
+
+.Calcite_Highlight_Green_400 {
+  background-color: #2b622b; }
+
+/*# sourceMappingURL=complete.css.map */

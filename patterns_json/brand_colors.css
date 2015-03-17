@@ -1,20 +1,13 @@
-@charset "UTF-8";
 /* Esri Brand Colors - Last Updated 04/16/15 */
-
-@import "../../scss/variables";
-
 /*
 {
 name: "Esri Brand Colors",
 tags: "Brand Colors,Brand"
 }
 */
-
 /* -- Esri Brand Blue -- */
-
 .Esri_Brand_Blue_100 {
-  background-color: $Esri_Brand_Blue_100;
-
+  background-color: #b9e0f7;
   /*
    {
   Hex:"#b9e0f7",
@@ -22,13 +15,10 @@ tags: "Brand Colors,Brand"
   AdobeRGB:"r196 g223 b246",
   sRGB:"r185 g224 b247"
   }
-  */
-
-}
+  */ }
 
 .Esri_Brand_Blue_150 {
-  background-color: $Esri_Brand_Blue_150;
-
+  background-color: #00b9f2;
   /*
    {
   Hex:"#00b9f2",
@@ -36,13 +26,10 @@ tags: "Brand Colors,Brand"
   AdobeRGB:"r75 g184 b239",
   sRGB:"r0 g185 b242"
   }
-  */
-
-}
+  */ }
 
 .Esri_Brand_Blue_200 {
-  background-color: $Esri_Brand_Blue_200;
-
+  background-color: #007ac2;
   /*
    {
   Hex:"#007ac2",
@@ -50,13 +37,10 @@ tags: "Brand Colors,Brand"
   AdobeRGB:"r23 g121 b191",
   sRGB:"r0 g122 b194"
   }
-  */
-
-}
+  */ }
 
 .Esri_Brand_Blue_250 {
-  background-color: $Esri_Brand_Blue_250;
-
+  background-color: #004575;
   /*
    {
   Hex:"#004575",
@@ -64,16 +48,11 @@ tags: "Brand Colors,Brand"
   AdobeRGB:"r0 g71 b115"
   sRGB:"r0 g69 b117"
   }
-  */
-
-}
-
+  */ }
 
 /* -- Esri Brand Warm -- */
-
 .Esri_Brand_Yellow_100 {
-  background-color: $Esri_Brand_Yellow_100;
-
+  background-color: #ffec4f;
   /*
    {
   Hex:"#ffec4f",
@@ -81,13 +60,10 @@ tags: "Brand Colors,Brand"
   AdobeRGB:"r245 g235 b93",
   sRGB:"r225 g236 b79"
   }
-  */
-
-}
+  */ }
 
 .Esri_Brand_Orange_100 {
-  background-color: $Esri_Brand_Orange_100;
-
+  background-color: #f89927;
   /*
    {
   Hex:"#f89927",
@@ -95,13 +71,10 @@ tags: "Brand Colors,Brand"
   AdobeRGB:"r226 g152 b54",
   sRGB:"r248 g153 b39"
   }
-  */
-
-}
+  */ }
 
 .Esri_Brand_Orange_150 {
-  background-color: $Esri_Brand_Orange_150;
-
+  background-color: #f36f20;
   /*
    {
   Hex:"#f36f20",
@@ -109,13 +82,10 @@ tags: "Brand Colors,Brand"
   AdobeRGB:"r215 g111 b44",
   sRGB:"r243 g111 b32"
   }
-  */
-
-}
+  */ }
 
 .Esri_Brand_Red_100 {
-  background-color: $Esri_Brand_Red_100;
-
+  background-color: #da4d1e;
   /*
    {
   Hex:"#da4d1e",
@@ -123,13 +93,10 @@ tags: "Brand Colors,Brand"
   AdobeRGB:"r190 g79 b38",
   sRGB:"r218 g77 b30"
   }
-  */
-
-}
+  */ }
 
 .Esri_Brand_Red_150 {
-  background-color: $Esri_Brand_Red_150;
-
+  background-color: #de2900;
   /*
    {
   Hex:"#de2900",
@@ -137,16 +104,11 @@ tags: "Brand Colors,Brand"
   AdobeRGB:"r0 g0 b0",
   sRGB:"r222 g41 b0"
   }
-  */
-
-}
-
+  */ }
 
 /* -- Esri Brand Green -- */
-
 .Esri_Brand_Green_100 {
-  background-color: $Esri_Brand_Green_100;
-
+  background-color: #d1e391;
   /*
    {
   Hex:"#d1e391",
@@ -154,13 +116,10 @@ tags: "Brand Colors,Brand"
   AdobeRGB:"r213 g226 b148",
   sRGB:"r209 g227 b145"
   }
-  */
-
-}
+  */ }
 
 .Esri_Brand_Green_150 {
-  background-color: $Esri_Brand_Green_150;
-
+  background-color: #aad04b;
   /*
    {
   Hex:"#aad04b",
@@ -168,13 +127,10 @@ tags: "Brand Colors,Brand"
   AdobeRGB:"r180 g207 b87",
   sRGB:"r170 g208 b75"
   }
-  */
-
-}
+  */ }
 
 .Esri_Brand_Green_200 {
-  background-color: $Esri_Brand_Green_200;
-
+  background-color: #35ac46;
   /*
    {
   Hex:"#35ac46",
@@ -182,13 +138,10 @@ tags: "Brand Colors,Brand"
   AdobeRGB:"r105 g170 b79",
   sRGB:"r53 g172 b70"
   }
-  */
-
-}
+  */ }
 
 .Esri_Brand_Green_250 {
-  background-color: $Esri_Brand_Green_250;
-
+  background-color: #2a7433;
   /*
    {
   Hex:"#2a7433",
@@ -196,15 +149,11 @@ tags: "Brand Colors,Brand"
   AdobeRGB:"r74 g115 b58",
   sRGB:"r42 g116 b51"
   }
-  */
-
-}
+  */ }
 
 /* -- Esri Brand Purple -- */
-
 .Esri_Brand_Purple_100 {
-  background-color: $Esri_Brand_Purple_100;
-
+  background-color: #dfcce3;
   /*
    {
   Hex:"#dfcce3",
@@ -212,13 +161,10 @@ tags: "Brand Colors,Brand"
   AdobeRGB:"r217 g203 b226",
   sRGB:"r223 g203 b227"
   }
-  */
-
-}
+  */ }
 
 .Esri_Brand_Purple_150 {
-  background-color: $Esri_Brand_Purple_150;
-
+  background-color: #b279b4;
   /*
    {
   Hex:"#b279b4",
@@ -226,13 +172,10 @@ tags: "Brand Colors,Brand"
   AdobeRGB:"r163 g121 b177",
   sRGB:"r178 g122 b179"
   }
-  */
-
-}
+  */ }
 
 .Esri_Brand_Purple_200 {
-  background-color: $Esri_Brand_Purple_200;
-
+  background-color: #8f499c;
   /*
    {
   Hex:"#8f499c",
@@ -240,13 +183,10 @@ tags: "Brand Colors,Brand"
   AdobeRGB:"r127 g74 b152",
   sRGB:"r142 g73 b155"
   }
-  */
-
-}
+  */ }
 
 .Esri_Brand_Purple_250 {
-  background-color: $Esri_Brand_Purple_250;
-
+  background-color: #6b1978;
   /*
    {
   Hex:"#6b1978",
@@ -254,15 +194,11 @@ tags: "Brand Colors,Brand"
   AdobeRGB:"r93 g32 b117",
   sRGB:"r102 g26 b100"
   }
-  */
-
-}
+  */ }
 
 /* -- Esri Brand Brown -- */
-
 .Esri_Brand_Brown_100 {
-  background-color: $Esri_Brand_Brown_100;
-
+  background-color: #ecdcb9;
   /*
    {
   Hex:"#ecdcb9",
@@ -270,13 +206,10 @@ tags: "Brand Colors,Brand"
   AdobeRGB:"r232 g219 b185",
   sRGB:"r236 g220 b185"
   }
-  */
-
-}
+  */ }
 
 .Esri_Brand_Brown_150 {
-  background-color: $Esri_Brand_Brown_150;
-
+  background-color: #be9969;
   /*
    {
   Hex:"#be9969",
@@ -284,13 +217,10 @@ tags: "Brand Colors,Brand"
   AdobeRGB:"r179 g152 b107",
   sRGB:"r190 g153 b105"
   }
-  */
-
-}
+  */ }
 
 .Esri_Brand_Brown_200 {
-  background-color: $Esri_Brand_Brown_200;
-
+  background-color: #7b4f1c;
   /*
    {
   Hex:"#7b4f1c",
@@ -298,13 +228,10 @@ tags: "Brand Colors,Brand"
   AdobeRGB:"r112 g80 b37",
   sRGB:"r123 g79 b28"
   }
-  */
-
-}
+  */ }
 
 .Esri_Brand_Brown_250 {
-  background-color: $Esri_Brand_Brown_250;
-
+  background-color: #523b20;
   /*
    {
   Hex:"#523b20",
@@ -312,15 +239,11 @@ tags: "Brand Colors,Brand"
   AdobeRGB:"r78 g62 b39",
   sRGB:"r82 g59 b32"
   }
-  */
-
-}
+  */ }
 
 /* -- Esri Brand Gray -- */
-
 .Esri_Brand_Gray_100 {
-  background-color: $Esri_Brand_Gray_100;
-
+  background-color: #b4b4b4;
   /*
    {
   Hex:"#b4b4b4b",
@@ -328,13 +251,10 @@ tags: "Brand Colors,Brand"
   AdobeRGB:"r178 g178 b178",
   sRGB:"r180 g180 b180"
   }
-  */
-
-}
+  */ }
 
 .Esri_Brand_Gray_150 {
-  background-color: $Esri_Brand_Gray_150;
-
+  background-color: #969696;
   /*
    {
   Hex:"#969696",
@@ -342,13 +262,10 @@ tags: "Brand Colors,Brand"
   AdobeRGB:"r150 g150 b150",
   sRGB:"r150 g150 b150"
   }
-  */
-
-}
+  */ }
 
 .Esri_Brand_Gray_200 {
-  background-color: $Esri_Brand_Gray_200;
-
+  background-color: #6e6e6e;
   /*
    {
   Hex:"#6e6e6e",
@@ -356,13 +273,10 @@ tags: "Brand Colors,Brand"
   AdobeRGB:"r110 g110 b110",
   sRGB:"r110 g110 b110"
   }
-  */
-
-}
+  */ }
 
 .Esri_Brand_Gray_250 {
-  background-color: $Esri_Brand_Gray_250;
-
+  background-color: #464646;
   /*
    {
   Hex:"#464646",
@@ -370,17 +284,6 @@ tags: "Brand Colors,Brand"
   AdobeRGB:"r71 g71 b71",
   sRGB:"r70 g70 b70"
   }
-  */
+  */ }
 
-}
-
-
-
-
-
-
-
-
-
-
-
+/*# sourceMappingURL=brand_colors.css.map */
