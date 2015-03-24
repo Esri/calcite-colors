@@ -4,11 +4,10 @@ The Patterns Color repo is where we host Esri's official color documentation tha
 Feel free to download the files for use in your project or add a refrence in your files that points to the CDN files `CDN Link Coming Soon`.  Also feel free to use a `Submodule` to import these files into your project.
 
 ## SASS Variables file
-A [SASS](http://sass-lang.com/) variables file can be found in the SCSS folder `scss/variables.scss`.  To learn how to use `Variable` files within SASS please read [USING SASS Variables](http://sass-lang.com/guide#topic-2).  
-
+A [SASS](http://sass-lang.com/) variables file can be found in the SCSS folder `scss/variables.scss`.  To learn how to use `Variable` files within SASS please read [USING SASS Variables](http://sass-lang.com/guide#topic-2).
 
 ## Stylus Variables file
-A [Stylus](http://learnboost.github.io/stylus/) variables file can be found in the Styus folder `stylus/variables.scss`. To learn how to use `Variable` files within Styus please read [USING Styus Variables](http://learnboost.github.io/stylus/docs/variables.html).  
+A [Stylus](http://learnboost.github.io/stylus/) variables file can be found in the Styus folder `stylus/variables.scss`. To learn how to use `Variable` files within Styus please read [USING Styus Variables](http://learnboost.github.io/stylus/docs/variables.html).
 
 ## To use CSS
 A set of CSS reference files have been added to the CSS folder:
