@@ -1,0 +1,41 @@
+{
+  "name": "patterns-color",
+  "version": "0.0.1",
+  "description": "Authoritative Color Variables for Esri websites",
+  "private": true,
+  "homepage": "https://github.com/esri/patterns-color",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/esri/patterns-color.git"
+  },
+  "author": {
+    "name": "Esri"
+  },
+  "contributors": [
+    {
+      "name": "Cassidy Bishop",
+      "email": "CBishop@esri.com"
+    },
+    {
+      "name": "Kyle Heineman",
+      "email": "kheinemann@esri.com"
+    }
+  ],
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/esri/patterns-color/issues"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-aws-s3": "^0.11.0",
+    "grunt-concurrent": "^0.5.0",
+    "grunt-exec": "^0.4.6",
+    "grunt-github-releaser": "^0.1.17",
+    "grunt-prompt": "^1.2.1",
+    "js-yaml": "^3.2.3",
+    "jsonfile": "^2.0.0",
+    "marked": "^0.3.3",
+    "matchdep": "^0.3.0",
+    "s3": "^4.3.1"
+  }
+}
