@@ -1,9 +1,9 @@
-## v0.0.1
+# Change Log
+All notable changes to this project will be documented in this file.
+This project adheres to [Semantic Versioning](http://semver.org/).
 
-Initial launch of Calcite color variables as raw CSS, Sass, and Stylus.
-
+## 0.0.1 - 2015-03-30
 ### Added
-
 - Esri Brand Colors
 - Calcite Core Colors
 - Calcite Gray Colors
