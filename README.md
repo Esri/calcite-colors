@@ -28,3 +28,10 @@ To release a new version of Patterns Color:
 1. Update the `CHANGELOG.md` with documentation about the release. Preserve the existing format.
 2. Update the `package.json` with the new version number.
 3. From the command line: `$ npm run release`
+
+
+## Still to do
+- [ ] Add Color swatch files for Adobe
+- [ ] Add Color PDF file
+- [ ] Add link to the CDN
+
