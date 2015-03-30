@@ -22,3 +22,9 @@ Very shortly we will list out a set of URL's from our CDN which can be used in y
 
 ## Patterns JSON Folder
 The Patterns JSON folder contains the source files that are used to build the pages on Patterns.esri.com and should NOT be used within a project as they contain lots of information not needed for standalone projects.  These files are created using SCSS.
+
+### Releasing a Version
+To release a new version of Patterns Color:
+1. Update the `CHANGELOG.md` with documentation about the release. Preserve the existing format.
+2. Update the `package.json` with the new version number.
+3. From the command line: `$ npm run release`
