@@ -4,11 +4,10 @@ The Patterns Color repo is where we host Esri's official color documentation tha
 Feel free to download the files for use in your project or add a refrence in your files that points to the CDN files `CDN Link Coming Soon`.  Also feel free to use a `Submodule` to import these files into your project.
 
 ## SASS Variables file
-A [SASS](http://sass-lang.com/) variables file can be found in the SCSS folder `scss/variables.scss`.  To learn how to use `Variable` files within SASS please read [USING SASS Variables](http://sass-lang.com/guide#topic-2).  
-
+A [SASS](http://sass-lang.com/) variables file can be found in the SCSS folder `scss/variables.scss`.  To learn how to use `Variable` files within SASS please read [USING SASS Variables](http://sass-lang.com/guide#topic-2).
 
 ## Stylus Variables file
-A [Stylus](http://learnboost.github.io/stylus/) variables file can be found in the Styus folder `stylus/variables.scss`. To learn how to use `Variable` files within Styus please read [USING Styus Variables](http://learnboost.github.io/stylus/docs/variables.html).  
+A [Stylus](http://learnboost.github.io/stylus/) variables file can be found in the Styus folder `stylus/variables.scss`. To learn how to use `Variable` files within Styus please read [USING Styus Variables](http://learnboost.github.io/stylus/docs/variables.html).
 
 ## To use CSS
 A set of CSS reference files have been added to the CSS folder:
@@ -23,6 +22,7 @@ Very shortly we will list out a set of URL's from our CDN which can be used in y
 
 ## Patterns JSON Folder
 The Patterns JSON folder contains the source files that are used to build the pages on Patterns.esri.com and should NOT be used within a project as they contain lots of information not needed for standalone projects.  These files are created using SCSS.
+
 
 # Contributing to Patterns Color
 
@@ -51,7 +51,13 @@ All the code for Patterns Color lives [on GitHub](https://github.com/esri/patter
 3. Make sure your copy is up to date: `git pull upstream master`
 4. Push your changes to your fork: `/your-username/patterns-color`
 5. Open a pull-request from your fork (`/your-username/patterns-color`) to the 'upstream' fork (`/Esri/patterns-color`).
+>>>>>>> bc3368c9e597c6770ebe42015d77f8f28f41b7bf
 
+## Releasing a Version
+To release a new version of Patterns Color:
+1. Update the `CHANGELOG.md` with documentation about the release. Preserve the existing format.
+2. Update the `package.json` with the new version number.
+3. From the command line: `$ npm run release`
 
 ## Still to do
 - [ ] Add Color swatch files for Adobe
