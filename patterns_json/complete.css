@@ -1,5 +1,6 @@
 /* Build */
 /* Esri Brand Colors - Last Updated 04/16/15 */
+
 /*
 {
 name: "Esri Brand Colors",
@@ -288,6 +289,89 @@ tags: "Brand Colors,Brand"
   */ }
 
 /* Esri Calcite Core Colors - Last Updated 04/16/15 */
+/* previously blue 14 */
+/* previously blue 13 */
+/* "Esri Blue", previously blue 12 */
+/* previously blue 11 */
+/* previously yellow 22 */
+/* previously orange 21 */
+/* previously orange 20 */
+/* previously orange 19 */
+/* new color-----still pending Creative lab approval------ */
+/* previously green 18 */
+/* previously green 17 */
+/* "Esri Green", previously green 16 */
+/* previously green 15 */
+/* previously purple 26 */
+/* previously purple 25 */
+/* previously purple 24 */
+/* previously purple 23 */
+/* previously brown 10 */
+/* previously brown 9 */
+/* previously brown 8 */
+/* previously brown 7 */
+/* previously gray 6, 35% */
+/* previously gray 5, 50% */
+/* previously gray 4, 75% */
+/* previously gray 3, 88% */
+/* previously Esri_Yellow1 */
+/* previously Esri_Yellow2 */
+/* previously Esri_Yellow3 */
+/* previously Esri_Yellow4 */
+/* previously Esri_Orange1 */
+/* previously Esri_Orange2 */
+/* previously Esri_Orange3 */
+/* previously Esri_Orange4 */
+/* replaces Esri_Green1. Use in Success Messages with Calcite_Green_450 */
+/* previously Esri_Green2 */
+/* previously Esri_Green3 */
+/* previously Esri_Green4 */
+/* replaces Esri_Green5. Use in Success Messages with Calcite_Green_100 */
+/* previously Esri_Red1 */
+/* previously Esri_Red2 */
+/* previously Esri_Red3 */
+/* previously Esri_Red4 */
+/* previously Esri_Purple1 */
+/* previously Esri_Purple2 */
+/* previously Esri_Purple3 */
+/* previously Esri_Purple4 */
+/* previously Esri_Brown1 */
+/* previously Esri_Brown2 */
+/* previously Esri_Brown3 */
+/* previously Esri_Brown4 */
+/* replaces Esri_Yellow6. Use in Warning Messages */
+/* 3%, previously Esri_Gray100. background */
+/* 4%, previously Esri_Gray105 */
+/* 6%, previously Esri_Gray110 */
+/* 10%, previously Esri_Gray115 */
+/* 12%, previously Esri_Gray120 */
+/* 20%, previously Esri_Gray125 */
+/* 30%, previously Esri_Gray130 */
+/* 40%, previously Esri_Gray135 */
+/* 50%, previously Esri_Gray140 */
+/* 56%, previously Esri_Gray145 */
+/* 65%, previously Esri_Gray150 */
+/* 70%, previously Esri_Gray155. body text */
+/* 80%, previously Esri_Gray160 */
+/* hovered, previously Esri_Blue1. NOTE--Esri_Blue2 was removed in Calcite Colors v8.00 due to it being so similar to Calcite_Highlight_Blue_100 and 150  */
+/* hovered & selected, previously Esri_Blue5 */
+/* selected (toggled), previously Esri_Blue6 */
+/* pressed, previously Esri_Blue7 */
+/* border on hover, previously Esri_Blue3, previously 7FBBDF */
+/* previously Esri_Blue */
+/* previously Esri_BlueDark */
+/* hovered, previously Esri_Green11 */
+/* hovered & selected, previously Esri_Green15 */
+/* selected (toggled), previuosly Esri_Green16 */
+/* pressed, previously Esri_Green17 */
+/* border on hover, previously Esri_Green13 */
+/* previously Esri_Green */
+/* previously Esri_GreenDark */
+/* For all Calcite Vibrant colors -- they should comprise 5% of the image area or less. Only use if additional contrast is needed.*/
+/* only for use inside icons, to show "selection" */
+/* replaces Esri_Yellow5. Use in Warning Messages along with Calcite_Brown_350, which replaces Esri_Yellow6 */
+/* replaces Esri_Red5. Use in Error Messages with Calcite_Vibrant-Red_200 */
+/* replaces Esri_Red6. Use in Error Messages with Calcite_Vibrant-Red_100 */
 /*
 {
 name: "Calcite Core Colors",
@@ -515,10 +599,10 @@ tags: "Calcite Core,Calcite"
 
 /* -- Calcite Core Green -- */
 .Calcite_Green_100 {
-  background-color: #d2e9f9;
+  background-color: #ddeedb;
   /*
    {
-  Hex:"#D2E9F9",
+  Hex:"#DDEEDB",
   RGB:"r221 g238 b219"
   }
   */ }
@@ -800,6 +884,89 @@ tags: "Calcite Core,Calcite"
   */ }
 
 /* Esri Calcite Gray Colors - Last Updated 04/16/15 */
+/* previously blue 14 */
+/* previously blue 13 */
+/* "Esri Blue", previously blue 12 */
+/* previously blue 11 */
+/* previously yellow 22 */
+/* previously orange 21 */
+/* previously orange 20 */
+/* previously orange 19 */
+/* new color-----still pending Creative lab approval------ */
+/* previously green 18 */
+/* previously green 17 */
+/* "Esri Green", previously green 16 */
+/* previously green 15 */
+/* previously purple 26 */
+/* previously purple 25 */
+/* previously purple 24 */
+/* previously purple 23 */
+/* previously brown 10 */
+/* previously brown 9 */
+/* previously brown 8 */
+/* previously brown 7 */
+/* previously gray 6, 35% */
+/* previously gray 5, 50% */
+/* previously gray 4, 75% */
+/* previously gray 3, 88% */
+/* previously Esri_Yellow1 */
+/* previously Esri_Yellow2 */
+/* previously Esri_Yellow3 */
+/* previously Esri_Yellow4 */
+/* previously Esri_Orange1 */
+/* previously Esri_Orange2 */
+/* previously Esri_Orange3 */
+/* previously Esri_Orange4 */
+/* replaces Esri_Green1. Use in Success Messages with Calcite_Green_450 */
+/* previously Esri_Green2 */
+/* previously Esri_Green3 */
+/* previously Esri_Green4 */
+/* replaces Esri_Green5. Use in Success Messages with Calcite_Green_100 */
+/* previously Esri_Red1 */
+/* previously Esri_Red2 */
+/* previously Esri_Red3 */
+/* previously Esri_Red4 */
+/* previously Esri_Purple1 */
+/* previously Esri_Purple2 */
+/* previously Esri_Purple3 */
+/* previously Esri_Purple4 */
+/* previously Esri_Brown1 */
+/* previously Esri_Brown2 */
+/* previously Esri_Brown3 */
+/* previously Esri_Brown4 */
+/* replaces Esri_Yellow6. Use in Warning Messages */
+/* 3%, previously Esri_Gray100. background */
+/* 4%, previously Esri_Gray105 */
+/* 6%, previously Esri_Gray110 */
+/* 10%, previously Esri_Gray115 */
+/* 12%, previously Esri_Gray120 */
+/* 20%, previously Esri_Gray125 */
+/* 30%, previously Esri_Gray130 */
+/* 40%, previously Esri_Gray135 */
+/* 50%, previously Esri_Gray140 */
+/* 56%, previously Esri_Gray145 */
+/* 65%, previously Esri_Gray150 */
+/* 70%, previously Esri_Gray155. body text */
+/* 80%, previously Esri_Gray160 */
+/* hovered, previously Esri_Blue1. NOTE--Esri_Blue2 was removed in Calcite Colors v8.00 due to it being so similar to Calcite_Highlight_Blue_100 and 150  */
+/* hovered & selected, previously Esri_Blue5 */
+/* selected (toggled), previously Esri_Blue6 */
+/* pressed, previously Esri_Blue7 */
+/* border on hover, previously Esri_Blue3, previously 7FBBDF */
+/* previously Esri_Blue */
+/* previously Esri_BlueDark */
+/* hovered, previously Esri_Green11 */
+/* hovered & selected, previously Esri_Green15 */
+/* selected (toggled), previuosly Esri_Green16 */
+/* pressed, previously Esri_Green17 */
+/* border on hover, previously Esri_Green13 */
+/* previously Esri_Green */
+/* previously Esri_GreenDark */
+/* For all Calcite Vibrant colors -- they should comprise 5% of the image area or less. Only use if additional contrast is needed.*/
+/* only for use inside icons, to show "selection" */
+/* replaces Esri_Yellow5. Use in Warning Messages along with Calcite_Brown_350, which replaces Esri_Yellow6 */
+/* replaces Esri_Red5. Use in Error Messages with Calcite_Vibrant-Red_200 */
+/* replaces Esri_Red6. Use in Error Messages with Calcite_Vibrant-Red_100 */
 /*
 {
 name: "Calcite Gray Colors",
@@ -925,6 +1092,89 @@ tags: "Calcite Gray,Calcite"
   */ }
 
 /* Esri Calcite Vibrant Colors - Last Updated 04/16/15 */
+/* previously blue 14 */
+/* previously blue 13 */
+/* "Esri Blue", previously blue 12 */
+/* previously blue 11 */
+/* previously yellow 22 */
+/* previously orange 21 */
+/* previously orange 20 */
+/* previously orange 19 */
+/* new color-----still pending Creative lab approval------ */
+/* previously green 18 */
+/* previously green 17 */
+/* "Esri Green", previously green 16 */
+/* previously green 15 */
+/* previously purple 26 */
+/* previously purple 25 */
+/* previously purple 24 */
+/* previously purple 23 */
+/* previously brown 10 */
+/* previously brown 9 */
+/* previously brown 8 */
+/* previously brown 7 */
+/* previously gray 6, 35% */
+/* previously gray 5, 50% */
+/* previously gray 4, 75% */
+/* previously gray 3, 88% */
+/* previously Esri_Yellow1 */
+/* previously Esri_Yellow2 */
+/* previously Esri_Yellow3 */
+/* previously Esri_Yellow4 */
+/* previously Esri_Orange1 */
+/* previously Esri_Orange2 */
+/* previously Esri_Orange3 */
+/* previously Esri_Orange4 */
+/* replaces Esri_Green1. Use in Success Messages with Calcite_Green_450 */
+/* previously Esri_Green2 */
+/* previously Esri_Green3 */
+/* previously Esri_Green4 */
+/* replaces Esri_Green5. Use in Success Messages with Calcite_Green_100 */
+/* previously Esri_Red1 */
+/* previously Esri_Red2 */
+/* previously Esri_Red3 */
+/* previously Esri_Red4 */
+/* previously Esri_Purple1 */
+/* previously Esri_Purple2 */
+/* previously Esri_Purple3 */
+/* previously Esri_Purple4 */
+/* previously Esri_Brown1 */
+/* previously Esri_Brown2 */
+/* previously Esri_Brown3 */
+/* previously Esri_Brown4 */
+/* replaces Esri_Yellow6. Use in Warning Messages */
+/* 3%, previously Esri_Gray100. background */
+/* 4%, previously Esri_Gray105 */
+/* 6%, previously Esri_Gray110 */
+/* 10%, previously Esri_Gray115 */
+/* 12%, previously Esri_Gray120 */
+/* 20%, previously Esri_Gray125 */
+/* 30%, previously Esri_Gray130 */
+/* 40%, previously Esri_Gray135 */
+/* 50%, previously Esri_Gray140 */
+/* 56%, previously Esri_Gray145 */
+/* 65%, previously Esri_Gray150 */
+/* 70%, previously Esri_Gray155. body text */
+/* 80%, previously Esri_Gray160 */
+/* hovered, previously Esri_Blue1. NOTE--Esri_Blue2 was removed in Calcite Colors v8.00 due to it being so similar to Calcite_Highlight_Blue_100 and 150  */
+/* hovered & selected, previously Esri_Blue5 */
+/* selected (toggled), previously Esri_Blue6 */
+/* pressed, previously Esri_Blue7 */
+/* border on hover, previously Esri_Blue3, previously 7FBBDF */
+/* previously Esri_Blue */
+/* previously Esri_BlueDark */
+/* hovered, previously Esri_Green11 */
+/* hovered & selected, previously Esri_Green15 */
+/* selected (toggled), previuosly Esri_Green16 */
+/* pressed, previously Esri_Green17 */
+/* border on hover, previously Esri_Green13 */
+/* previously Esri_Green */
+/* previously Esri_GreenDark */
+/* For all Calcite Vibrant colors -- they should comprise 5% of the image area or less. Only use if additional contrast is needed.*/
+/* only for use inside icons, to show "selection" */
+/* replaces Esri_Yellow5. Use in Warning Messages along with Calcite_Brown_350, which replaces Esri_Yellow6 */
+/* replaces Esri_Red5. Use in Error Messages with Calcite_Vibrant-Red_200 */
+/* replaces Esri_Red6. Use in Error Messages with Calcite_Vibrant-Red_100 */
 /*
 {
 name: "Calcite Vibrant Colors",
@@ -1104,6 +1354,89 @@ tags: "Calcite Vibrant,Calcite"
   */ }
 
 /* Esri Calcite Highlight Colors - Last Updated 04/16/15 */
+/* previously blue 14 */
+/* previously blue 13 */
+/* "Esri Blue", previously blue 12 */
+/* previously blue 11 */
+/* previously yellow 22 */
+/* previously orange 21 */
+/* previously orange 20 */
+/* previously orange 19 */
+/* new color-----still pending Creative lab approval------ */
+/* previously green 18 */
+/* previously green 17 */
+/* "Esri Green", previously green 16 */
+/* previously green 15 */
+/* previously purple 26 */
+/* previously purple 25 */
+/* previously purple 24 */
+/* previously purple 23 */
+/* previously brown 10 */
+/* previously brown 9 */
+/* previously brown 8 */
+/* previously brown 7 */
+/* previously gray 6, 35% */
+/* previously gray 5, 50% */
+/* previously gray 4, 75% */
+/* previously gray 3, 88% */
+/* previously Esri_Yellow1 */
+/* previously Esri_Yellow2 */
+/* previously Esri_Yellow3 */
+/* previously Esri_Yellow4 */
+/* previously Esri_Orange1 */
+/* previously Esri_Orange2 */
+/* previously Esri_Orange3 */
+/* previously Esri_Orange4 */
+/* replaces Esri_Green1. Use in Success Messages with Calcite_Green_450 */
+/* previously Esri_Green2 */
+/* previously Esri_Green3 */
+/* previously Esri_Green4 */
+/* replaces Esri_Green5. Use in Success Messages with Calcite_Green_100 */
+/* previously Esri_Red1 */
+/* previously Esri_Red2 */
+/* previously Esri_Red3 */
+/* previously Esri_Red4 */
+/* previously Esri_Purple1 */
+/* previously Esri_Purple2 */
+/* previously Esri_Purple3 */
+/* previously Esri_Purple4 */
+/* previously Esri_Brown1 */
+/* previously Esri_Brown2 */
+/* previously Esri_Brown3 */
+/* previously Esri_Brown4 */
+/* replaces Esri_Yellow6. Use in Warning Messages */
+/* 3%, previously Esri_Gray100. background */
+/* 4%, previously Esri_Gray105 */
+/* 6%, previously Esri_Gray110 */
+/* 10%, previously Esri_Gray115 */
+/* 12%, previously Esri_Gray120 */
+/* 20%, previously Esri_Gray125 */
+/* 30%, previously Esri_Gray130 */
+/* 40%, previously Esri_Gray135 */
+/* 50%, previously Esri_Gray140 */
+/* 56%, previously Esri_Gray145 */
+/* 65%, previously Esri_Gray150 */
+/* 70%, previously Esri_Gray155. body text */
+/* 80%, previously Esri_Gray160 */
+/* hovered, previously Esri_Blue1. NOTE--Esri_Blue2 was removed in Calcite Colors v8.00 due to it being so similar to Calcite_Highlight_Blue_100 and 150  */
+/* hovered & selected, previously Esri_Blue5 */
+/* selected (toggled), previously Esri_Blue6 */
+/* pressed, previously Esri_Blue7 */
+/* border on hover, previously Esri_Blue3, previously 7FBBDF */
+/* previously Esri_Blue */
+/* previously Esri_BlueDark */
+/* hovered, previously Esri_Green11 */
+/* hovered & selected, previously Esri_Green15 */
+/* selected (toggled), previuosly Esri_Green16 */
+/* pressed, previously Esri_Green17 */
+/* border on hover, previously Esri_Green13 */
+/* previously Esri_Green */
+/* previously Esri_GreenDark */
+/* For all Calcite Vibrant colors -- they should comprise 5% of the image area or less. Only use if additional contrast is needed.*/
+/* only for use inside icons, to show "selection" */
+/* replaces Esri_Yellow5. Use in Warning Messages along with Calcite_Brown_350, which replaces Esri_Yellow6 */
+/* replaces Esri_Red5. Use in Error Messages with Calcite_Vibrant-Red_200 */
+/* replaces Esri_Red6. Use in Error Messages with Calcite_Vibrant-Red_100 */
 /*
 {
 name: "Calcite Highlight Colors",

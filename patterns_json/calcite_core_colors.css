@@ -1,4 +1,5 @@
 /* Esri Calcite Core Colors - Last Updated 04/16/15 */
+
 /*
 {
 name: "Calcite Core Colors",
@@ -226,10 +227,10 @@ tags: "Calcite Core,Calcite"
 
 /* -- Calcite Core Green -- */
 .Calcite_Green_100 {
-  background-color: #d2e9f9;
+  background-color: #ddeedb;
   /*
    {
-  Hex:"#D2E9F9",
+  Hex:"#DDEEDB",
   RGB:"r221 g238 b219"
   }
   */ }
