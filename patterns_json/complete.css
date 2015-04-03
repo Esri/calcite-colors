@@ -33,7 +33,7 @@ tags: "Brand Colors,Brand"
   /*
    {
   Hex:"#007ac2",
-  CMYK:"c100 m43 y0 k0"
+  CMYK:"c100 m43 y0 k0",
   AdobeRGB:"r23 g121 b191",
   sRGB:"r0 g122 b194"
   }
@@ -44,7 +44,7 @@ tags: "Brand Colors,Brand"
   /*
    {
   Hex:"#004575",
-  CMYK:"c100 m43 y0 k50"
+  CMYK:"c100 m43 y0 k50",
   AdobeRGB:"r0 g71 b115"
   sRGB:"r0 g69 b117"
   }
@@ -825,7 +825,7 @@ tags: "Calcite Gray,Calcite"
   */ }
 
 .Calcite_Gray_200 {
-  background-color: #efeeef;
+  background-color: #efefef;
   /*
    {
   Hex:"#EFEEEF",
@@ -1058,7 +1058,7 @@ tags: "Calcite Vibrant,Calcite"
   */ }
 
 .Calcite_Vibrant_Purple_150 {
-  background-color: #fad817;
+  background-color: #b096ff;
   /*
    {
   Hex:"#B096FF",
