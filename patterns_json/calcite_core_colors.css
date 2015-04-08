@@ -463,7 +463,13 @@ tags: "Calcite Core,Calcite"
   */ }
 
 .Calcite_Brown_200 {
-  background-color: #b78a54; }
+  background-color: #b78a54;
+  /*
+   {
+  Hex:"#B78A54",
+  RGB:"r184 g139 b85"
+  }
+  */ }
 
 .Calcite_Brown_250 {
   background-color: #a57946;

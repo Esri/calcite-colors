@@ -6,7 +6,7 @@ tags: "Brand Colors,Brand"
 }
 */
 /* -- Esri Brand Blue -- */
-.Esri_Brand_Blue_100 {
+.Brand_Blue_100 {
   background-color: #b9e0f7;
   /*
    {
@@ -17,7 +17,7 @@ tags: "Brand Colors,Brand"
   }
   */ }
 
-.Esri_Brand_Blue_150 {
+.Brand_Blue_150 {
   background-color: #00b9f2;
   /*
    {
@@ -28,7 +28,7 @@ tags: "Brand Colors,Brand"
   }
   */ }
 
-.Esri_Brand_Blue_200 {
+.Brand_Blue_200 {
   background-color: #007ac2;
   /*
    {
@@ -39,7 +39,7 @@ tags: "Brand Colors,Brand"
   }
   */ }
 
-.Esri_Brand_Blue_250 {
+.Brand_Blue_250 {
   background-color: #004575;
   /*
    {
@@ -51,7 +51,7 @@ tags: "Brand Colors,Brand"
   */ }
 
 /* -- Esri Brand Warm -- */
-.Esri_Brand_Yellow_100 {
+.Brand_Yellow_100 {
   background-color: #ffec4f;
   /*
    {
@@ -62,7 +62,7 @@ tags: "Brand Colors,Brand"
   }
   */ }
 
-.Esri_Brand_Orange_100 {
+.Brand_Orange_100 {
   background-color: #f89927;
   /*
    {
@@ -73,7 +73,7 @@ tags: "Brand Colors,Brand"
   }
   */ }
 
-.Esri_Brand_Orange_150 {
+.Brand_Orange_150 {
   background-color: #f36f20;
   /*
    {
@@ -84,7 +84,7 @@ tags: "Brand Colors,Brand"
   }
   */ }
 
-.Esri_Brand_Red_100 {
+.Brand_Red_100 {
   background-color: #da4d1e;
   /*
    {
@@ -95,7 +95,7 @@ tags: "Brand Colors,Brand"
   }
   */ }
 
-.Esri_Brand_Red_150 {
+.Brand_Red_150 {
   background-color: #de2900;
   /*
    {
@@ -107,7 +107,7 @@ tags: "Brand Colors,Brand"
   */ }
 
 /* -- Esri Brand Green -- */
-.Esri_Brand_Green_100 {
+.Brand_Green_100 {
   background-color: #d1e391;
   /*
    {
@@ -118,7 +118,7 @@ tags: "Brand Colors,Brand"
   }
   */ }
 
-.Esri_Brand_Green_150 {
+.Brand_Green_150 {
   background-color: #aad04b;
   /*
    {
@@ -129,7 +129,7 @@ tags: "Brand Colors,Brand"
   }
   */ }
 
-.Esri_Brand_Green_200 {
+.Brand_Green_200 {
   background-color: #35ac46;
   /*
    {
@@ -140,7 +140,7 @@ tags: "Brand Colors,Brand"
   }
   */ }
 
-.Esri_Brand_Green_250 {
+.Brand_Green_250 {
   background-color: #2a7433;
   /*
    {
@@ -152,7 +152,7 @@ tags: "Brand Colors,Brand"
   */ }
 
 /* -- Esri Brand Purple -- */
-.Esri_Brand_Purple_100 {
+.Brand_Purple_100 {
   background-color: #dfcce3;
   /*
    {
@@ -163,7 +163,7 @@ tags: "Brand Colors,Brand"
   }
   */ }
 
-.Esri_Brand_Purple_150 {
+.Brand_Purple_150 {
   background-color: #b279b4;
   /*
    {
@@ -174,7 +174,7 @@ tags: "Brand Colors,Brand"
   }
   */ }
 
-.Esri_Brand_Purple_200 {
+.Brand_Purple_200 {
   background-color: #8f499c;
   /*
    {
@@ -185,7 +185,7 @@ tags: "Brand Colors,Brand"
   }
   */ }
 
-.Esri_Brand_Purple_250 {
+.Brand_Purple_250 {
   background-color: #6b1978;
   /*
    {
@@ -197,7 +197,7 @@ tags: "Brand Colors,Brand"
   */ }
 
 /* -- Esri Brand Brown -- */
-.Esri_Brand_Brown_100 {
+.Brand_Brown_100 {
   background-color: #ecdcb9;
   /*
    {
@@ -208,7 +208,7 @@ tags: "Brand Colors,Brand"
   }
   */ }
 
-.Esri_Brand_Brown_150 {
+.Brand_Brown_150 {
   background-color: #be9969;
   /*
    {
@@ -219,7 +219,7 @@ tags: "Brand Colors,Brand"
   }
   */ }
 
-.Esri_Brand_Brown_200 {
+.Brand_Brown_200 {
   background-color: #7b4f1c;
   /*
    {
@@ -230,7 +230,7 @@ tags: "Brand Colors,Brand"
   }
   */ }
 
-.Esri_Brand_Brown_250 {
+.Brand_Brown_250 {
   background-color: #523b20;
   /*
    {
@@ -242,7 +242,7 @@ tags: "Brand Colors,Brand"
   */ }
 
 /* -- Esri Brand Gray -- */
-.Esri_Brand_Gray_100 {
+.Brand_Gray_100 {
   background-color: #b4b4b4;
   /*
    {
@@ -253,7 +253,7 @@ tags: "Brand Colors,Brand"
   }
   */ }
 
-.Esri_Brand_Gray_150 {
+.Brand_Gray_150 {
   background-color: #969696;
   /*
    {
@@ -264,7 +264,7 @@ tags: "Brand Colors,Brand"
   }
   */ }
 
-.Esri_Brand_Gray_200 {
+.Brand_Gray_200 {
   background-color: #6e6e6e;
   /*
    {
@@ -275,7 +275,7 @@ tags: "Brand Colors,Brand"
   }
   */ }
 
-.Esri_Brand_Gray_250 {
+.Brand_Gray_250 {
   background-color: #464646;
   /*
    {
@@ -751,7 +751,13 @@ tags: "Calcite Core,Calcite"
   */ }
 
 .Calcite_Brown_200 {
-  background-color: #b78a54; }
+  background-color: #b78a54;
+  /*
+   {
+  Hex:"#B78A54",
+  RGB:"r184 g139 b85"
+  }
+  */ }
 
 .Calcite_Brown_250 {
   background-color: #a57946;
@@ -807,7 +813,7 @@ tags: "Calcite Gray,Calcite"
 */
 /* -- Calcite Gray -- */
 .Calcite_Gray_100 {
-  background-color: #f7f8f8;
+  background-color: #f8f8f8;
   /*
    {
   Hex:"#F8F8F8",
@@ -816,7 +822,7 @@ tags: "Calcite Gray,Calcite"
   */ }
 
 .Calcite_Gray_150 {
-  background-color: #f2f3f3;
+  background-color: #f4f4f4;
   /*
    {
   Hex:"#F4F4F4",
@@ -834,7 +840,7 @@ tags: "Calcite Gray,Calcite"
   */ }
 
 .Calcite_Gray_250 {
-  background-color: #e5e6e7;
+  background-color: #e7e7e7;
   /*
    {
   Hex:"#E7E7E7",
@@ -843,7 +849,7 @@ tags: "Calcite Gray,Calcite"
   */ }
 
 .Calcite_Gray_300 {
-  background-color: #e0e0df;
+  background-color: #e0e0e0;
   /*
    {
   Hex:"#E0E0E0",
@@ -852,7 +858,7 @@ tags: "Calcite Gray,Calcite"
   */ }
 
 .Calcite_Gray_350 {
-  background-color: #cbcbcb;
+  background-color: #cccccc;
   /*
    {
   Hex:"#CCCCCC",
@@ -861,7 +867,7 @@ tags: "Calcite Gray,Calcite"
   */ }
 
 .Calcite_Gray_400 {
-  background-color: #a6a8ab;
+  background-color: #a9a9a9;
   /*
    {
   Hex:"#A9A9A9",
@@ -870,7 +876,7 @@ tags: "Calcite Gray,Calcite"
   */ }
 
 .Calcite_Gray_450 {
-  background-color: #929497;
+  background-color: #959595;
   /*
    {
   Hex:"#959595",
@@ -879,7 +885,7 @@ tags: "Calcite Gray,Calcite"
   */ }
 
 .Calcite_Gray_500 {
-  background-color: #7f8183;
+  background-color: #828282;
   /*
    {
   Hex:"#828282",
@@ -888,7 +894,7 @@ tags: "Calcite Gray,Calcite"
   */ }
 
 .Calcite_Gray_550 {
-  background-color: #6c6d70;
+  background-color: #6e6e6e;
   /*
    {
   Hex:"#6E6E6E",
@@ -897,7 +903,7 @@ tags: "Calcite Gray,Calcite"
   */ }
 
 .Calcite_Gray_600 {
-  background-color: #57585a;
+  background-color: #595959;
   /*
    {
   Hex:"#595959",
