@@ -7,6 +7,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - Removed Esri_ from all Brand Color names
 - Updated Brown 200 with missing RGB
 - Calcite Gray Colors (fixed missing colors)
+- Calcite Gray's adjusted to neutral
 
 ## 0.0.1 - 2015-03-30
 ### Added
