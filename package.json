@@ -1,6 +1,6 @@
 {
   "name": "patterns-color",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Authoritative Color Variables for Esri websites",
   "private": true,
   "homepage": "https://github.com/esri/patterns-color",
