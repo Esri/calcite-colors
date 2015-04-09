@@ -1,8 +1,15 @@
 # Patterns-Colors
 The Patterns Color repo is where we host Esri's official color documentation that can be see on the forth coming Patterns.esri.com site.  Currently the repo contains a mixture of CSS, SASS and Stylus files tha you can use in your projects.
 
-Feel free to download the files for use in your project or add a refrence in your files that points to the CDN files `CDN Link Coming Soon`.  Also feel free to use a `Submodule` to import these files into your project.
+Feel free to download the files for use in your project or add a reference in your files that points to the CDN files `CDN Link Coming Soon`.  Also feel free to use a `Submodule` to import these files into your project.
 
+## ASE swatch files for Adobe Products
+The following links are to download .ase swatch files for use in Adobe Products such as Photoshop and Illustrator.
+
+- [Calcite Swatches](s3-us-west-1.amazonaws.com/patterns.esri.com/files/color_swatch_files/Calcite%2004-2015.ase)
+- [Brand aRGB Swatches](s3-us-west-1.amazonaws.com/patterns.esri.com/files/color_swatch_files/Esri%20Brand%20aRGB%2004-2015.ase)
+- [Brand sRGB Swatches](s3-us-west-1.amazonaws.com/patterns.esri.com/files/color_swatch_files/Esri%20Brand%20sRGB%2004-2015.ase)
+- [Brand CMYK Swatches](s3-us-west-1.amazonaws.com/patterns.esri.com/files/color_swatch_files/Esri%20Brand%20CMYK%2004-2015.ase)
 
 ## SASS Variables file
 A [SASS](http://sass-lang.com/) variables file can be found in the SCSS folder `scss/variables.scss`.  To learn how to use `Variable` files within SASS please read [USING SASS Variables](http://sass-lang.com/guide#topic-2).
