@@ -1,7 +1,15 @@
 # Patterns-Colors
 The Patterns Color repo is where we host Esri's official color documentation that can be see on the forth coming Patterns.esri.com site.  Currently the repo contains a mixture of CSS, SASS and Stylus files tha you can use in your projects.
 
-Feel free to download the files for use in your project or add a refrence in your files that points to the CDN files `CDN Link Coming Soon`.  Also feel free to use a `Submodule` to import these files into your project.
+Feel free to download the files for use in your project or add a reference in your files that points to the CDN files `CDN Link Coming Soon`.  Also feel free to use a `Submodule` to import these files into your project.
+
+## ASE swatch files for Adobe Products
+The following links are to download .ase swatch files for use in Adobe Products such as Photoshop and Illustrator.
+
+- [Calcite Swatches](http://s3-us-west-1.amazonaws.com/patterns.esri.com/files/color_swatch_files/Calcite%2004-2015.ase)
+- [Brand aRGB Swatches](http://s3-us-west-1.amazonaws.com/patterns.esri.com/files/color_swatch_files/Esri%20Brand%20aRGB%2004-2015.ase)
+- [Brand sRGB Swatches](http://s3-us-west-1.amazonaws.com/patterns.esri.com/files/color_swatch_files/Esri%20Brand%20sRGB%2004-2015.ase)
+- [Brand CMYK Swatches](http://s3-us-west-1.amazonaws.com/patterns.esri.com/files/color_swatch_files/Esri%20Brand%20CMYK%2004-2015.ase)
 
 ## SASS Variables file
 A [SASS](http://sass-lang.com/) variables file can be found in the SCSS folder `scss/variables.scss`.  To learn how to use `Variable` files within SASS please read [USING SASS Variables](http://sass-lang.com/guide#topic-2).
@@ -51,7 +59,7 @@ All the code for Patterns Color lives [on GitHub](https://github.com/esri/patter
 3. Make sure your copy is up to date: `git pull upstream master`
 4. Push your changes to your fork: `/your-username/patterns-color`
 5. Open a pull-request from your fork (`/your-username/patterns-color`) to the 'upstream' fork (`/Esri/patterns-color`).
->>>>>>> bc3368c9e597c6770ebe42015d77f8f28f41b7bf
+
 
 ## Releasing a Version
 To release a new version of Patterns Color:
