@@ -2,6 +2,20 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.1.0 - 2015-05-04
+### Modified
+- Added Guid ID's to all of the Json colors scss files
+- Added a name change in core colors that includes an "a" before some of the numbers to better group them
+- Fixed some structure issues
+- Cleaned up some bad formatting
+- Moved colors to beta status (ready for use and testing)
+
+## 0.0.4 - 2015-04-21
+### Modified
+- Renamed Brand_Red_100 to Brand_Orange_200
+- Renamed Brand_Red_150 to Brand_Red_100
+- Renamed Core colors 300-450 to be a100-a250
+
 ## 0.0.3 - 2015-04-08
 ### Modified
 - Removed Esri_ from all Brand Color names
