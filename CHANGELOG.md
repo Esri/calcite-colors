@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.1.2 - 2015-08-11
+### Addedd
+- Added 3 new vibrant colors Orange_100, Orange_150 and Orange_200 
+- Added a new Gray color Gray_050 with a hex value of #ffffff
+- Updated all files with these changes
+
 ## 0.1.1 - 2015-05-21
 ### Modified
 - Added a missing ":" to a guid in the JSON folder
