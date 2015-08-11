@@ -895,6 +895,16 @@ tags: "Calcite Gray,Calcite"
 }
 */
 /* -- Calcite Gray -- */
+.Calcite_Gray_050 {
+  background-color: #ffffff;
+  /*
+   {
+  Hex:"#FFFFFF",
+  RGB:"r0 g0 b0",
+  guid:" "
+  }
+  */ }
+
 .Calcite_Gray_100 {
   background-color: #f8f8f8;
   /*
@@ -1100,6 +1110,36 @@ tags: "Calcite Vibrant,Calcite"
   Hex:"#FFF000",
   RGB:"r255 g240 b0",
     guid:"584c655a-ab63-45eb-b900-51d2541f0404"
+  }
+  */ }
+
+.Calcite_Vibrant_Orange_100 {
+  background-color: #ffdab6;
+  /*
+   {
+  Hex:"#FFDAB6",
+  RGB:"r255 g217 b181",
+    guid:" "
+  }
+  */ }
+
+.Calcite_Vibrant_Orange_150 {
+  background-color: #ffbc6b;
+  /*
+   {
+  Hex:"#FFBC6D",
+  RGB:"r255 g187 b106",
+    guid:" "
+  }
+  */ }
+
+.Calcite_Vibrant_Orange_200 {
+  background-color: #ffcc00;
+  /*
+   {
+  Hex:"#FFCC00",
+  RGB:"r255 g203 b0",
+    guid:" "
   }
   */ }
 

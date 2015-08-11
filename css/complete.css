@@ -259,6 +259,9 @@
 
 /* Esri Calcite Gray Colors - Last Updated 03/02/15 */
 /* -- Calcite Gray -- */
+.Calcite_Gray_050 {
+  background-color: #ffffff; }
+
 .Calcite_Gray_100 {
   background-color: #f8f8f8; }
 
@@ -320,6 +323,15 @@
 
 .Calcite_Vibrant_Yellow_200 {
   background-color: #fff000; }
+
+.Calcite_Vibrant_Orange_100 {
+  background-color: #ffdab6; }
+
+.Calcite_Vibrant_Orange_150 {
+  background-color: #ffbc6b; }
+
+.Calcite_Vibrant_Orange_200 {
+  background-color: #ffcc00; }
 
 .Calcite_Vibrant_Green_100 {
   background-color: #daffd9; }
