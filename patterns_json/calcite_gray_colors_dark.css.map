@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAeA,iBAAkB;EAChB,gBAAgB,EC8EG,OAAO;;;;;;;;;ADlE5B,iBAAkB;EAChB,gBAAgB,ECkEG,OAAO;;;;;;;;;ADtD5B,iBAAkB;EAChB,gBAAgB,ECsDG,OAAO;;;;;;;;;ADzC5B,iBAAkB;EAChB,gBAAgB,ECyCG,OAAO;;;;;;;;;AD5B5B,iBAAkB;EAChB,gBAAgB,EC4BG,OAAO;;;;;;;;;ADf5B,iBAAkB;EAChB,gBAAgB,ECeG,OAAO;;;;;;;;;ADF5B,iBAAkB;EAChB,gBAAgB,ECEG,OAAO;;;;;;;;;ADW5B,iBAAkB;EAChB,gBAAgB,ECXG,OAAO;;;;;;;;;ADwB5B,iBAAkB;EAChB,gBAAgB,ECxBG,OAAO;;;;;;;;;ADqC5B,iBAAkB;EAChB,gBAAgB,ECrCG,OAAO;;;;;;;;;ADkD5B,iBAAkB;EAChB,gBAAgB,EClDG,OAAO;;;;;;;;;AD+D5B,iBAAkB;EAChB,gBAAgB,EC/DG,OAAO;;;;;;;;;AD4E5B,iBAAkB;EAChB,gBAAgB,EC5EG,OAAO;;;;;;;;;ADyF5B,iBAAkB;EAChB,gBAAgB,ECzFG,OAAO",
+"sources": ["scss/calcite_gray_colors_dark.scss","../scss/variables_dark.scss"],
+"names": [],
+"file": "calcite_gray_colors_dark.css"
+}

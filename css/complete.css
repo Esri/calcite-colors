@@ -1,6 +1,3 @@
-/* Build */
-/* Esri Brand Colors - Last Updated 04/16/15 */
-/* -- Esri Brand Blue -- */
 .Brand_Blue_100 {
   background-color: #b9e0f7; }
 
@@ -13,7 +10,6 @@
 .Brand_Blue_250 {
   background-color: #004575; }
 
-/* -- Esri Brand Warm -- */
 .Brand_Yellow_100 {
   background-color: #ffec4f; }
 
@@ -29,7 +25,6 @@
 .Brand_Red_100 {
   background-color: #de2900; }
 
-/* -- Esri Brand Green -- */
 .Brand_Green_100 {
   background-color: #d1e391; }
 
@@ -42,7 +37,6 @@
 .Brand_Green_250 {
   background-color: #2a7433; }
 
-/* -- Esri Brand Purple -- */
 .Brand_Purple_100 {
   background-color: #dfcce3; }
 
@@ -55,7 +49,6 @@
 .Brand_Purple_250 {
   background-color: #6b1978; }
 
-/* -- Esri Brand Brown -- */
 .Brand_Brown_100 {
   background-color: #ecdcb9; }
 
@@ -68,7 +61,6 @@
 .Brand_Brown_250 {
   background-color: #523b20; }
 
-/* -- Esri Brand Gray -- */
 .Brand_Gray_100 {
   background-color: #b4b4b4; }
 
@@ -81,8 +73,6 @@
 .Brand_Gray_250 {
   background-color: #464646; }
 
-/* Esri Calcite Core Colors - Last Updated 03/02/15 */
-/* -- Calcite Core Blue -- */
 .Calcite_Blue_100 {
   background-color: #d2e9f9; }
 
@@ -107,7 +97,6 @@
 .Calcite_Blue_a250 {
   background-color: #196fa6; }
 
-/* -- Calcite Core Yellow -- */
 .Calcite_Yellow_100 {
   background-color: #f3edc7; }
 
@@ -132,7 +121,6 @@
 .Calcite_Yellow_a250 {
   background-color: #a68d00; }
 
-/* -- Calcite Core Orange -- */
 .Calcite_Orange_100 {
   background-color: #fbe1c2; }
 
@@ -157,7 +145,6 @@
 .Calcite_Orange_a250 {
   background-color: #ad6511; }
 
-/* -- Calcite Core Green -- */
 .Calcite_Green_100 {
   background-color: #ddeedb; }
 
@@ -182,7 +169,6 @@
 .Calcite_Green_a250 {
   background-color: #275e26; }
 
-/* -- Calcite Core Red -- */
 .Calcite_Red_100 {
   background-color: #f3ded7; }
 
@@ -207,7 +193,6 @@
 .Calcite_Red_a250 {
   background-color: #8c2907; }
 
-/* -- Calcite Core Purple -- */
 .Calcite_Purple_100 {
   background-color: #e5e1ef; }
 
@@ -232,7 +217,6 @@
 .Calcite_Purple_a250 {
   background-color: #4f4273; }
 
-/* -- Calcite Core Brown -- */
 .Calcite_Brown_100 {
   background-color: #e8ddd3; }
 
@@ -257,8 +241,6 @@
 .Calcite_Brown_a250 {
   background-color: #734d22; }
 
-/* Esri Calcite Gray Colors - Last Updated 03/02/15 */
-/* -- Calcite Gray -- */
 .Calcite_Gray_050 {
   background-color: #ffffff; }
 
@@ -301,8 +283,6 @@
 .Calcite_Gray_700 {
   background-color: #323232; }
 
-/* Esri Calcite Vibrant Colors - Last Updated 04/03/15 */
-/* -- Calcite Vibrant_Blue -- */
 .Calcite_Vibrant_Blue_100 {
   background-color: #c7e9ff; }
 
@@ -369,8 +349,6 @@
 .Calcite_Vibrant_Brown_200 {
   background-color: #ffbc6b; }
 
-/* Esri Calcite Highlight Colors - Last Updated 03/02/15 */
-/* -- Calcite Highlight_Blue -- */
 .Calcite_Highlight_Blue_100 {
   background-color: #e2f1fb; }
 
@@ -392,7 +370,6 @@
 .Calcite_Highlight_Blue_400 {
   background-color: #005e95; }
 
-/* -- Calcite Highlight Green -- */
 .Calcite_Highlight_Green_100 {
   background-color: #cfedcc; }
 
@@ -413,5 +390,221 @@
 
 .Calcite_Highlight_Green_400 {
   background-color: #2b622b; }
+
+body.dark .Calcite_Blue_100 {
+  background-color: #d2e9f9; }
+body.dark .Calcite_Blue_150 {
+  background-color: #bcdaed; }
+body.dark .Calcite_Blue_200 {
+  background-color: #6cb4e2; }
+body.dark .Calcite_Blue_250 {
+  background-color: #56a5d8; }
+body.dark .Calcite_Blue_a100 {
+  background-color: #cccccc; }
+body.dark .Calcite_Blue_a150 {
+  background-color: #cccccc; }
+body.dark .Calcite_Blue_a200 {
+  background-color: #cccccc; }
+body.dark .Calcite_Blue_a250 {
+  background-color: #cccccc; }
+body.dark .Calcite_Yellow_100 {
+  background-color: #f3edc7; }
+body.dark .Calcite_Yellow_150 {
+  background-color: #efe397; }
+body.dark .Calcite_Yellow_200 {
+  background-color: #e4d154; }
+body.dark .Calcite_Yellow_250 {
+  background-color: #d8c34b; }
+body.dark .Calcite_Yellow_a100 {
+  background-color: #cccccc; }
+body.dark .Calcite_Yellow_a150 {
+  background-color: #cccccc; }
+body.dark .Calcite_Yellow_a200 {
+  background-color: #cccccc; }
+body.dark .Calcite_Yellow_a250 {
+  background-color: #cccccc; }
+body.dark .Calcite_Orange_100 {
+  background-color: #fbe1c2; }
+body.dark .Calcite_Orange_150 {
+  background-color: #f6ca92; }
+body.dark .Calcite_Orange_200 {
+  background-color: #eda959; }
+body.dark .Calcite_Orange_250 {
+  background-color: #e79c47; }
+body.dark .Calcite_Orange_a100 {
+  background-color: #cccccc; }
+body.dark .Calcite_Orange_a150 {
+  background-color: #cccccc; }
+body.dark .Calcite_Orange_a200 {
+  background-color: #cccccc; }
+body.dark .Calcite_Orange_a250 {
+  background-color: #cccccc; }
+body.dark .Calcite_Green_100 {
+  background-color: #ddeedb; }
+body.dark .Calcite_Green_150 {
+  background-color: #9bc19c; }
+body.dark .Calcite_Green_200 {
+  background-color: #67a966; }
+body.dark .Calcite_Green_250 {
+  background-color: #5a9359; }
+body.dark .Calcite_Green_a100 {
+  background-color: #cccccc; }
+body.dark .Calcite_Green_a150 {
+  background-color: #cccccc; }
+body.dark .Calcite_Green_a200 {
+  background-color: #cccccc; }
+body.dark .Calcite_Green_a250 {
+  background-color: #cccccc; }
+body.dark .Calcite_Red_100 {
+  background-color: #f3ded7; }
+body.dark .Calcite_Red_150 {
+  background-color: #e4a793; }
+body.dark .Calcite_Red_200 {
+  background-color: #c86a4a; }
+body.dark .Calcite_Red_250 {
+  background-color: #c6542d; }
+body.dark .Calcite_Red_a100 {
+  background-color: #cccccc; }
+body.dark .Calcite_Red_a150 {
+  background-color: #cccccc; }
+body.dark .Calcite_Red_a200 {
+  background-color: #cccccc; }
+body.dark .Calcite_Red_a250 {
+  background-color: #cccccc; }
+body.dark .Calcite_Purple_100 {
+  background-color: #e5e1ef; }
+body.dark .Calcite_Purple_150 {
+  background-color: #c4bcdc; }
+body.dark .Calcite_Purple_200 {
+  background-color: #9081bc; }
+body.dark .Calcite_Purple_250 {
+  background-color: #7b6ca7; }
+body.dark .Calcite_Purple_a100 {
+  background-color: #cccccc; }
+body.dark .Calcite_Purple_a150 {
+  background-color: #cccccc; }
+body.dark .Calcite_Purple_a200 {
+  background-color: #cccccc; }
+body.dark .Calcite_Purple_a250 {
+  background-color: #cccccc; }
+body.dark .Calcite_Brown_100 {
+  background-color: #e8ddd3; }
+body.dark .Calcite_Brown_150 {
+  background-color: #d2b38f; }
+body.dark .Calcite_Brown_200 {
+  background-color: #b78a54; }
+body.dark .Calcite_Brown_250 {
+  background-color: #a57946; }
+body.dark .Calcite_Brown_a100 {
+  background-color: #cccccc; }
+body.dark .Calcite_Brown_a150 {
+  background-color: #cccccc; }
+body.dark .Calcite_Brown_a200 {
+  background-color: #cccccc; }
+body.dark .Calcite_Brown_a250 {
+  background-color: #cccccc; }
+
+body.dark .Calcite_Gray_050 {
+  background-color: #ffffff; }
+body.dark .Calcite_Gray_100 {
+  background-color: #f8f8f8; }
+body.dark .Calcite_Gray_150 {
+  background-color: #f4f4f4; }
+body.dark .Calcite_Gray_200 {
+  background-color: #efefef; }
+body.dark .Calcite_Gray_250 {
+  background-color: #e7e7e7; }
+body.dark .Calcite_Gray_300 {
+  background-color: #e0e0e0; }
+body.dark .Calcite_Gray_350 {
+  background-color: #cccccc; }
+body.dark .Calcite_Gray_400 {
+  background-color: #a9a9a9; }
+body.dark .Calcite_Gray_450 {
+  background-color: #959595; }
+body.dark .Calcite_Gray_500 {
+  background-color: #828282; }
+body.dark .Calcite_Gray_550 {
+  background-color: #6e6e6e; }
+body.dark .Calcite_Gray_600 {
+  background-color: #595959; }
+body.dark .Calcite_Gray_650 {
+  background-color: #4c4c4c; }
+body.dark .Calcite_Gray_700 {
+  background-color: #323232; }
+
+body.dark .Calcite_Highlight_Blue_100 {
+  background-color: #e2f1fb; }
+body.dark .Calcite_Highlight_Blue_150 {
+  background-color: #c5e5f9; }
+body.dark .Calcite_Highlight_Blue_200 {
+  background-color: #aadbfa; }
+body.dark .Calcite_Highlight_Blue_250 {
+  background-color: #90cdf2; }
+body.dark .Calcite_Highlight_Blue_300 {
+  background-color: #80bce0; }
+body.dark .Calcite_Highlight_Blue_350 {
+  background-color: #0079c1; }
+body.dark .Calcite_Highlight_Blue_400 {
+  background-color: #005e95; }
+body.dark .Calcite_Highlight_Green_100 {
+  background-color: #cfedcc; }
+body.dark .Calcite_Highlight_Green_150 {
+  background-color: #b0e2b0; }
+body.dark .Calcite_Highlight_Green_200 {
+  background-color: #96ce96; }
+body.dark .Calcite_Highlight_Green_250 {
+  background-color: #7dc17d; }
+body.dark .Calcite_Highlight_Green_300 {
+  background-color: #7bb974; }
+body.dark .Calcite_Highlight_Green_350 {
+  background-color: #31872e; }
+body.dark .Calcite_Highlight_Green_400 {
+  background-color: #2b622b; }
+
+body.dark .Calcite_Vibrant_Blue_100 {
+  background-color: #c7e9ff; }
+body.dark .Calcite_Vibrant_Blue_150 {
+  background-color: #69dcff; }
+body.dark .Calcite_Vibrant_Blue_200 {
+  background-color: #00dee7; }
+body.dark .Calcite_Vibrant_Blue_250 {
+  background-color: #b3e9f9; }
+body.dark .Calcite_Vibrant_Yellow_100 {
+  background-color: #ffefb7; }
+body.dark .Calcite_Vibrant_Yellow_150 {
+  background-color: #fad817; }
+body.dark .Calcite_Vibrant_Yellow_200 {
+  background-color: #fff000; }
+body.dark .Calcite_Vibrant_Orange_100 {
+  background-color: #ffdab6; }
+body.dark .Calcite_Vibrant_Orange_150 {
+  background-color: #ffbc6b; }
+body.dark .Calcite_Vibrant_Orange_200 {
+  background-color: #ffcc00; }
+body.dark .Calcite_Vibrant_Green_100 {
+  background-color: #daffd9; }
+body.dark .Calcite_Vibrant_Green_150 {
+  background-color: #71de6e; }
+body.dark .Calcite_Vibrant_Green_200 {
+  background-color: #a5e800; }
+body.dark .Calcite_Vibrant_Red_100 {
+  background-color: #ffc0b3; }
+body.dark .Calcite_Vibrant_Red_150 {
+  background-color: #ff642e; }
+body.dark .Calcite_Vibrant_Red_200 {
+  background-color: #de2900; }
+body.dark .Calcite_Vibrant_Purple_100 {
+  background-color: #daccff; }
+body.dark .Calcite_Vibrant_Purple_150 {
+  background-color: #b096ff; }
+body.dark .Calcite_Vibrant_Purple_200 {
+  background-color: #f185ff; }
+body.dark .Calcite_Vibrant_Brown_100 {
+  background-color: #ffdbb3; }
+body.dark .Calcite_Vibrant_Brown_150 {
+  background-color: #db8d2f; }
+body.dark .Calcite_Vibrant_Brown_200 {
+  background-color: #ffbc6b; }
 
 /*# sourceMappingURL=complete.css.map */

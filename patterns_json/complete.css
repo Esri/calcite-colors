@@ -1412,4 +1412,964 @@ tags: "Calcite Highlight,Calcite"
   }
   */ }
 
+body.dark .Calcite_Blue_100 {
+  background-color: #d2e9f9;
+  /*
+   {
+  Hex:"#D2E9F9",
+  RGB:"r221 g234 b249",
+    guid:"4655dee8-192b-4fdd-bd76-a3026c629763"
+  }
+  */ }
+body.dark .Calcite_Blue_150 {
+  background-color: #bcdaed;
+  /*
+   {
+  Hex:"#BCDAED",
+  RGB:"r189 g219 b238",
+    guid:"9ba1245d-dd02-4dc1-ac28-fa2048fc1627"
+  }
+  */ }
+body.dark .Calcite_Blue_200 {
+  background-color: #6cb4e2;
+  /*
+   {
+  Hex:"#6CB4E2",
+  RGB:"r109 g181 b227",
+    guid:"88e16018-ce1b-4ef2-ab21-e7ee260a217a"
+  }
+  */ }
+body.dark .Calcite_Blue_250 {
+  background-color: #56a5d8;
+  /*
+   {
+  Hex:"#56A5D8",
+  RGB:"r87 g166 b217",
+    guid:"d36d7477-5d0f-46fe-a5c9-0cd59b4028d6"
+  }
+  */ }
+body.dark .Calcite_Blue_a100 {
+  background-color: #cccccc;
+  /*
+   {
+  Hex:"#49B0F2",
+  RGB:"r73 g176 b242",
+    guid:"e22efb06-71b5-4ee0-b1ce-9c599df2ac9d"
+  }
+  */ }
+body.dark .Calcite_Blue_a150 {
+  background-color: #cccccc;
+  /*
+   {
+  Hex:"#419ED9",
+  RGB:"r65 g158 b217",
+    guid:"64d227d5-55fa-4c78-af72-64bc4e5c2dac"
+  }
+  */ }
+body.dark .Calcite_Blue_a200 {
+  background-color: #cccccc;
+  /*
+   {
+  Hex:"#3B8FC4",
+  RGB:"r59 g143 b196",
+    guid:"d4a595a8-8c99-4776-ad24-5db864faf1d4"
+  }
+  */ }
+body.dark .Calcite_Blue_a250 {
+  background-color: #cccccc;
+  /*
+   {
+  Hex:"#196FA6",
+  RGB:"r25 g111 b166",
+    guid:"cead1d1f-5cd2-4b80-86ec-0fe7c35323bc"
+  }
+  */ }
+body.dark .Calcite_Yellow_100 {
+  background-color: #f3edc7;
+  /*
+   {
+  Hex:"#F3EDC7",
+  RGB:"r244 g238 b200",
+    guid:"b4ad1067-29aa-4d47-acf1-365dc5779e43"
+  }
+  */ }
+body.dark .Calcite_Yellow_150 {
+  background-color: #efe397;
+  /*
+   {
+  Hex:"#EFE397",
+  RGB:"r240 g228 b152",
+    guid:"74554988-b164-47dd-9bd7-8714503bfedd"
+  }
+  */ }
+body.dark .Calcite_Yellow_200 {
+  background-color: #e4d154;
+  /*
+   {
+  Hex:"#E4D154",
+  RGB:"r229 g210 b85",
+    guid:"e1ac1163-5f62-4239-a0a4-35a421d2b82d"
+  }
+  */ }
+body.dark .Calcite_Yellow_250 {
+  background-color: #d8c34b;
+  /*
+   {
+  Hex:"#D8C34B",
+  RGB:"r217 g196 b76",
+    guid:"bb431533-9ae1-4c1f-bf70-6b9234ec4065"
+  }
+  */ }
+body.dark .Calcite_Yellow_a100 {
+  background-color: #cccccc;
+  /*
+   {
+  Hex:"#F2D530",
+  RGB:"r242 g213 b48",
+    guid:"72bc84b6-854a-4b65-ac7a-fd894d3d73b0"
+  }
+  */ }
+body.dark .Calcite_Yellow_a150 {
+  background-color: #cccccc;
+  /*
+   {
+  Hex:"#D9BF2B",
+  RGB:"r217 g191 b43",
+    guid:"45dfb92c-ca20-404a-b761-50df7d6d55ac"
+  }
+  */ }
+body.dark .Calcite_Yellow_a200 {
+  background-color: #cccccc;
+  /*
+   {
+  Hex:"#BDA726",
+  RGB:"r189 g167 b38",
+    guid:"be6f0c4d-ab00-40f2-9df5-8e5ea1ac4fea"
+  }
+  */ }
+body.dark .Calcite_Yellow_a250 {
+  background-color: #cccccc;
+  /*
+   {
+  Hex:"#A68D00",
+  RGB:"r166 g141 b0",
+    guid:"ed030b74-86fe-481e-85c1-abe97b1cd9bb"
+  }
+  */ }
+body.dark .Calcite_Orange_100 {
+  background-color: #fbe1c2;
+  /*
+   {
+  Hex:"#FBE1C2",
+  RGB:"r251 g226 b195",
+    guid:"5367b7b0-a1a3-4cf4-bb02-89af77834fc3"
+  }
+  */ }
+body.dark .Calcite_Orange_150 {
+  background-color: #f6ca92;
+  /*
+   {
+  Hex:"#F6CA92",
+  RGB:"r247 g203 b147",
+    guid:"751dde41-e219-4130-b096-50252d454d0c"
+  }
+  */ }
+body.dark .Calcite_Orange_200 {
+  background-color: #eda959;
+  /*
+   {
+  Hex:"#EDA959",
+  RGB:"r238 g170 b90",
+    guid:"08a9135b-e9ba-44c3-a7b9-aafaee9ba634"
+  }
+  */ }
+body.dark .Calcite_Orange_250 {
+  background-color: #e79c47;
+  /*
+   {
+  Hex:"#E79C47",
+  RGB:"r232 g157 b72",
+    guid:"a01870e1-ceb4-424b-927d-21e794a92da7"
+  }
+  */ }
+body.dark .Calcite_Orange_a100 {
+  background-color: #cccccc;
+  /*
+   {
+  Hex:"#FF9F33",
+  RGB:"r255 g159 b51",
+    guid:"1d63fc35-0b74-4f2b-a0a4-0a5f72a4c630"
+  }
+  */ }
+body.dark .Calcite_Orange_a150 {
+  background-color: #cccccc;
+  /*
+   {
+  Hex:"#E8912E",
+  RGB:"r232 g145 b46",
+    guid:"f92a6f43-90a3-4007-8758-3305b07542d7"
+  }
+  */ }
+body.dark .Calcite_Orange_a200 {
+  background-color: #cccccc;
+  /*
+   {
+  Hex:"#D17E21",
+  RGB:"r209 g126 b33",
+    guid:"66ef990d-1980-499a-8ad7-a2027e473954"
+  }
+  */ }
+body.dark .Calcite_Orange_a250 {
+  background-color: #cccccc;
+  /*
+   {
+  Hex:"#AD6511",
+  RGB:"r173 g101 b17",
+    guid:"861cc1ae-dce3-4272-a55c-1d3c7c9f068a"
+  }
+  */ }
+body.dark .Calcite_Green_100 {
+  background-color: #ddeedb;
+  /*
+   {
+  Hex:"#DDEEDB",
+  RGB:"r221 g238 b219",
+    guid:"e308a3ec-840e-4a77-a51b-df5ce37ff3bb"
+  }
+  */ }
+body.dark .Calcite_Green_150 {
+  background-color: #9bc19c;
+  /*
+   {
+  Hex:"#9BC19C",
+  RGB:"r155 g194 b156",
+    guid:"79c4211e-4942-41af-ab09-2f64352ffd35"
+  }
+  */ }
+body.dark .Calcite_Green_200 {
+  background-color: #67a966;
+  /*
+   {
+  Hex:"#67A966",
+  RGB:"r105 g170 b103",
+    guid:"a6b78543-830a-40ed-b5ce-d0781dc7fec4"
+  }
+  */ }
+body.dark .Calcite_Green_250 {
+  background-color: #5a9359;
+  /*
+   {
+  Hex:"#5A9359",
+  RGB:"r91 g148 b90",
+    guid:"275dfc18-669b-4172-8d05-ebe756967689"
+  }
+  */ }
+body.dark .Calcite_Green_a100 {
+  background-color: #cccccc;
+  /*
+   {
+  Hex:"#50AD4E",
+  RGB:"r80 g173 b78",
+    guid:"a57aee23-1ea4-4b5e-92c1-3f905cd2f57e"
+  }
+  */ }
+body.dark .Calcite_Green_a150 {
+  background-color: #cccccc;
+  /*
+   {
+  Hex:"#449443",
+  RGB:"r68 g148 b67",
+    guid:"c0772e3f-d054-4789-bb1c-68fa5fe30af0"
+  }
+  */ }
+body.dark .Calcite_Green_a200 {
+  background-color: #cccccc;
+  /*
+   {
+  Hex:"#338033",
+  RGB:"r51 g128 b51",
+    guid:"5e702fde-9966-487f-98af-52041709c9a7"
+  }
+  */ }
+body.dark .Calcite_Green_a250 {
+  background-color: #cccccc;
+  /*
+   {
+  Hex:"#275E26",
+  RGB:"r39 g94 b38",
+    guid:"edb72c89-e39a-4de8-984f-8b7d9f838f98"
+  }
+  */ }
+body.dark .Calcite_Red_100 {
+  background-color: #f3ded7;
+  /*
+   {
+  Hex:"#F3DED7",
+  RGB:"r244 g223 b216",
+    guid:"7f79cf3c-0a16-4386-a7e5-53ec317d9e8a"
+  }
+  */ }
+body.dark .Calcite_Red_150 {
+  background-color: #e4a793;
+  /*
+   {
+  Hex:"#E4A793",
+  RGB:"r229 g168 b148",
+    guid:"d0d38ae2-c916-4a16-a1f3-d951cc499e65"
+  }
+  */ }
+body.dark .Calcite_Red_200 {
+  background-color: #c86a4a;
+  /*
+   {
+  Hex:"#C86A4A",
+  RGB:"r210 g107 b75",
+    guid:"233ed1cf-5f23-4fab-aa17-63b29a50801b"
+  }
+  */ }
+body.dark .Calcite_Red_250 {
+  background-color: #c6542d;
+  /*
+   {
+  Hex:"#C6542D",
+  RGB:"r199 g85 b46",
+    guid:"891511b8-fe34-45f3-b51d-88d3fa6d24b8"
+  }
+  */ }
+body.dark .Calcite_Red_a100 {
+  background-color: #cccccc;
+  /*
+   {
+  Hex:"#E04F1D",
+  RGB:"r224 g79 b29",
+    guid:"a318043e-4402-4471-834b-7665b8fb5d0b"
+  }
+  */ }
+body.dark .Calcite_Red_a150 {
+  background-color: #cccccc;
+  /*
+   {
+  Hex:"#C7461A",
+  RGB:"r199 g70 b26",
+    guid:"f3b9c963-b6cf-40c6-975d-f08584298268"
+  }
+  */ }
+body.dark .Calcite_Red_a200 {
+  background-color: #cccccc;
+  /*
+   {
+  Hex:"#AB3C16",
+  RGB:"r171 g60 b22",
+    guid:"592dfff5-bc8b-4d59-ad83-41b268873db0"
+  }
+  */ }
+body.dark .Calcite_Red_a250 {
+  background-color: #cccccc;
+  /*
+   {
+  Hex:"#8C2907",
+  RGB:"r140 g41 b7",
+    guid:"ede8a7e5-c655-44cc-828a-292984b98964"
+  }
+  */ }
+body.dark .Calcite_Purple_100 {
+  background-color: #e5e1ef;
+  /*
+   {
+  Hex:"#E5E1EF",
+  RGB:"r230 g226 b240",
+    guid:"17a68f19-2176-4883-90ec-0e02f7ebab6f"
+  }
+  */ }
+body.dark .Calcite_Purple_150 {
+  background-color: #c4bcdc;
+  /*
+   {
+  Hex:"#C4BCDC",
+  RGB:"r197 g189 b221",
+    guid:"92900e24-b8f4-454a-baba-181897f51978"
+  }
+  */ }
+body.dark .Calcite_Purple_200 {
+  background-color: #9081bc;
+  /*
+   {
+  Hex:"#9081BC",
+  RGB:"r145 g130 b189",
+    guid:"10b9463d-488f-42d9-8899-034e3c3029fa"
+  }
+  */ }
+body.dark .Calcite_Purple_250 {
+  background-color: #7b6ca7;
+  /*
+   {
+  Hex:"#7B6CA7",
+  RGB:"r124 g109 b168",
+    guid:"687fb17c-d87c-4e2e-a24c-132e70aa92b8"
+  }
+  */ }
+body.dark .Calcite_Purple_a100 {
+  background-color: #cccccc;
+  /*
+   {
+  Hex:"#846EBF",
+  RGB:"r132 g110 b191",
+    guid:"d861e9f1-bf6a-42f3-b217-93894bab3386"
+  }
+  */ }
+body.dark .Calcite_Purple_a150 {
+  background-color: #cccccc;
+  /*
+   {
+  Hex:"#7461A8",
+  RGB:"r116 g97 b168",
+    guid:"35d3955f-b3cd-4421-a0b5-38a0bfffd03b"
+  }
+  */ }
+body.dark .Calcite_Purple_a200 {
+  background-color: #cccccc;
+  /*
+   {
+  Hex:"#61518C",
+  RGB:"r97 g81 b140",
+    guid:"a9c9b7f3-6973-4bf9-9879-f41067d327d6"
+  }
+  */ }
+body.dark .Calcite_Purple_a250 {
+  background-color: #cccccc;
+  /*
+   {
+  Hex:"#4F4273",
+  RGB:"r79 g66 b115",
+    guid:"7cd4639d-fec7-42bb-82f8-7ca7cb70530e"
+  }
+  */ }
+body.dark .Calcite_Brown_100 {
+  background-color: #e8ddd3;
+  /*
+   {
+  Hex:"#E8DDD3",
+  RGB:"r233 g222 b212",
+    guid:"d66dd0c1-bf42-4641-8411-bc6f5b3bf7ae"
+  }
+  */ }
+body.dark .Calcite_Brown_150 {
+  background-color: #d2b38f;
+  /*
+   {
+  Hex:"#D2B38F",
+  RGB:"r211 g180 b144",
+    guid:"eca70e1f-7f60-4b58-b41d-8bc144e476cb"
+  }
+  */ }
+body.dark .Calcite_Brown_200 {
+  background-color: #b78a54;
+  /*
+   {
+  Hex:"#B78A54",
+  RGB:"r184 g139 b85",
+    guid:"b02f6a27-6d0d-46db-96df-6ca3ff7d29b3"
+  }
+  */ }
+body.dark .Calcite_Brown_250 {
+  background-color: #a57946;
+  /*
+   {
+  Hex:"#A57946",
+  RGB:"r166 g122 b71",
+    guid:"733ba9e7-992e-4f52-a786-93ca5b84224a"
+  }
+  */ }
+body.dark .Calcite_Brown_a100 {
+  background-color: #cccccc;
+  /*
+   {
+  Hex:"#BF813A",
+  RGB:"r191 g129 b58",
+    guid:"37268ee6-db88-4afb-9306-5781c120a0ca"
+  }
+  */ }
+body.dark .Calcite_Brown_a150 {
+  background-color: #cccccc;
+  /*
+   {
+  Hex:"#A67032",
+  RGB:"r166 g112 b50",
+    guid:"4d0620ad-f5f8-4160-a0ca-aa94e99e3725"
+  }
+  */ }
+body.dark .Calcite_Brown_a200 {
+  background-color: #cccccc;
+  /*
+   {
+  Hex:"#8C5E2A",
+  RGB:"r140 g94 b42",
+    guid:"2e90145b-9516-4c3c-bba8-63672ff71fef"
+  }
+  */ }
+body.dark .Calcite_Brown_a250 {
+  background-color: #cccccc;
+  /*
+   {
+  Hex:"#734D22",
+  RGB:"r115 g77 b34",
+    guid:"fc9df10f-e68d-4d8f-a558-60a0869f34e2"
+  }
+  */ }
+
+body.dark .Calcite_Gray_050 {
+  background-color: #ffffff;
+  /*
+   {
+  Hex:"#FFFFFF",
+  RGB:"r0 g0 b0",
+  guid:" "
+  }
+  */ }
+body.dark .Calcite_Gray_100 {
+  background-color: #f8f8f8;
+  /*
+   {
+  Hex:"#F8F8F8",
+  RGB:"r248 g248 b248",
+  guid:"d985a8fd-7fje-4c8e-9af4-dbda932b8cfe"
+  }
+  */ }
+body.dark .Calcite_Gray_150 {
+  background-color: #f4f4f4;
+  /*
+   {
+  Hex:"#F4F4F4",
+  RGB:"r244 g244 b244",
+  guid:"2844bcc7-292d-40fd-9fe8-cfb44729dd2d"
+  }
+  */ }
+body.dark .Calcite_Gray_200 {
+  background-color: #efefef;
+  /*
+   {
+  Hex:"#EFEFEF",
+  RGB:"r239 g239 b239",
+  guid:"32d31fab-4659-4b9f-926f-5fcc0735acaf"
+  }
+  */ }
+body.dark .Calcite_Gray_250 {
+  background-color: #e7e7e7;
+  /*
+   {
+  Hex:"#E7E7E7",
+  RGB:"r231 g231 b231",
+  guid:"2cf7c448-98d5-4d8f-9ce4-9bfcccd6e973"
+  }
+  */ }
+body.dark .Calcite_Gray_300 {
+  background-color: #e0e0e0;
+  /*
+   {
+  Hex:"#E0E0E0",
+  RGB:"r224 g224 b224",
+  guid:"9ffbb3ee-4a62-4a28-989a-443b47bf6a72"
+  }
+  */ }
+body.dark .Calcite_Gray_350 {
+  background-color: #cccccc;
+  /*
+   {
+  Hex:"#CCCCCC",
+  RGB:"204 g204 b204",
+  guid:"1dcd7c34-ccc5-4dde-82fa-e79ae93eee91"
+  }
+  */ }
+body.dark .Calcite_Gray_400 {
+  background-color: #a9a9a9;
+  /*
+   {
+  Hex:"#A9A9A9",
+  RGB:"r169 g169 b169",
+  guid:"d07d2783-274b-4e08-965d-7745b9bf6f4e"
+  }
+  */ }
+body.dark .Calcite_Gray_450 {
+  background-color: #959595;
+  /*
+   {
+  Hex:"#959595",
+  RGB:"r149 g149 b149",
+  guid:"172ca0df-3ace-4f3a-b00d-81b65b16b517"
+  }
+  */ }
+body.dark .Calcite_Gray_500 {
+  background-color: #828282;
+  /*
+   {
+  Hex:"#828282",
+  RGB:"r130 g130 b130",
+  guid:"6661ca1b-50d1-40d4-b232-1f2833191e8e"
+  }
+  */ }
+body.dark .Calcite_Gray_550 {
+  background-color: #6e6e6e;
+  /*
+   {
+  Hex:"#6E6E6E",
+  RGB:"r110 g110 b110",
+  guid:"bbe54a4f-b5f3-4d9c-860a-cb9231acd5bb"
+  }
+  */ }
+body.dark .Calcite_Gray_600 {
+  background-color: #595959;
+  /*
+   {
+  Hex:"#595959",
+  RGB:"r89 g89 b89",
+  guid:"7549be08-fad2-41ac-973a-977f6dbd8359"
+  }
+  */ }
+body.dark .Calcite_Gray_650 {
+  background-color: #4c4c4c;
+  /*
+   {
+  Hex:"#4C4C4C",
+  RGB:"r76 g76 b76",
+  guid:"22c404ce-81f7-4e71-9546-704b35497f83"
+  }
+  */ }
+body.dark .Calcite_Gray_700 {
+  background-color: #323232;
+  /*
+   {
+  Hex:"#323232",
+  RGB:"r51 g51 b51",
+  guid:"6776d7ab-2580-4c96-af05-18f006b2818f"
+  }
+  */ }
+
+body.dark {
+  /* -- Calcite Highlight Green -- */ }
+  body.dark .Calcite_Highlight_Blue_100 {
+    background-color: #e2f1fb;
+    /*
+     {
+    Hex:"#E2F1FB",
+    RGB:"r226 g241 b251",
+    guid:"8b5be565-e51a-4eb8-baf7-af65c997551a"
+    }
+    */ }
+  body.dark .Calcite_Highlight_Blue_150 {
+    background-color: #c5e5f9;
+    /*
+     {
+    Hex:"#C5E5F9",
+    RGB:"r197 g229 b249",
+    guid:"9ea9ad6a-8756-4ee5-9b8f-60f22aa52037"
+    }
+    */ }
+  body.dark .Calcite_Highlight_Blue_200 {
+    background-color: #aadbfa;
+    /*
+     {
+    Hex:"#AADBFA",
+    RGB:"r170 g219 b250",
+    guid:"315b751c-4c08-4469-8587-19f54c6edb46"
+    }
+    */ }
+  body.dark .Calcite_Highlight_Blue_250 {
+    background-color: #90cdf2;
+    /*
+     {
+    Hex:"#90CDF2",
+    RGB:"r144 g205 b242",
+    guid:"e141cb8a-7fe9-4b74-8726-72532d4b7b7a"
+    }
+    */ }
+  body.dark .Calcite_Highlight_Blue_300 {
+    background-color: #80bce0;
+    /*
+     {
+    Hex:"#80BCE0",
+    RGB:"r128 g188 b224",
+    guid:"5b9adabc-a827-4f50-bd89-af5ac458ea90"
+    }
+    */ }
+  body.dark .Calcite_Highlight_Blue_350 {
+    background-color: #0079c1;
+    /*
+     {
+    Hex:"#0079C1",
+    RGB:"r0 g122 b194",
+    guid:"d5c8b27f-6ed8-40cf-9d8c-b8c05308a89e"
+    }
+    */ }
+  body.dark .Calcite_Highlight_Blue_400 {
+    background-color: #005e95;
+    /*
+     {
+    Hex:"#005E95",
+    RGB:"r0 g95 b150",
+    guid:"c41634a1-1512-4547-9553-7bc9764beed6"
+    }
+    */ }
+  body.dark .Calcite_Highlight_Green_100 {
+    background-color: #cccccc;
+    /*
+     {
+    Hex:"#CFEDCC",
+    RGB:"r208 g238 b205",
+    guid"2cd4fa57-8564-49ca-b94f-ac70f2cf7258"
+    }
+    */ }
+  body.dark .Calcite_Highlight_Green_150 {
+    background-color: #cccccc;
+    /*
+     {
+    Hex:"#B0E2B0",
+    RGB:"r177 g227 b177",
+    guid:"d9795a5a-7bd2-4400-97de-ca31341a9052"
+    }
+    */ }
+  body.dark .Calcite_Highlight_Green_200 {
+    background-color: #cccccc;
+    /*
+     {
+    Hex:"#96CE96",
+    RGB:"r151 g207 b151",
+    guid:"bcd0fd45-c285-40af-891c-575ded969b43"
+    }
+    */ }
+  body.dark .Calcite_Highlight_Green_250 {
+    background-color: #cccccc;
+    /*
+     {
+    Hex:"#7DC17D",
+    RGB:"r126 g194 b126",
+    guid:"52ef3852-41d5-45cd-b553-47e730f54404"
+    }
+    */ }
+  body.dark .Calcite_Highlight_Green_300 {
+    background-color: #cccccc;
+    /*
+     {
+    Hex:"#7BB974",
+    RGB:"r124 g186 b117",
+    guid:"2e87a1a5-329b-4d62-b390-78c4f278d60e"
+    }
+    */ }
+  body.dark .Calcite_Highlight_Green_350 {
+    background-color: #cccccc;
+    /*
+     {
+    Hex:"#31872E",
+    RGB:"r49 g135 b46",
+    guid:"60da2746-4031-485b-9a54-74027c4c9421"
+    }
+    */ }
+  body.dark .Calcite_Highlight_Green_400 {
+    background-color: #cccccc;
+    /*
+     {
+    Hex:"#2B622B",
+    RGB:"r44 g99 b44",
+    guid:"1012ac72-462a-4a94-9fcc-79059a273eba"
+    }
+    */ }
+
+body.dark .Calcite_Vibrant_Blue_100 {
+  background-color: #c7e9ff;
+  /*
+   {
+  Hex:"#C7E9FF",
+  RGB:"r199 g233 b255",
+    guid:"f16ccaa6-04ab-4987-a1ec-4f3237839027"
+  }
+  */ }
+body.dark .Calcite_Vibrant_Blue_150 {
+  background-color: #69dcff;
+  /*
+   {
+  Hex:"#69DCFF",
+  RGB:"r105 g220 b255",
+    guid:"6f2a2e80-a057-4a0c-82d7-4cfd61c879a1"
+  }
+  */ }
+body.dark .Calcite_Vibrant_Blue_200 {
+  background-color: #00dee7;
+  /*
+   {
+  Hex:"#00DEE7",
+  RGB:"r0 g222 b231",
+    guid:"c601933c-ce51-41b6-b673-d806dc3f3e70"
+  }
+  */ }
+body.dark .Calcite_Vibrant_Blue_250 {
+  background-color: #b3e9f9;
+  /*
+   {
+  Hex:"#B3E9F9",
+  RGB:"r179 g233 b249",
+    guid:"04e45f44-5d64-4fd1-89e0-bfaa370ec07f"
+  }
+  */ }
+body.dark .Calcite_Vibrant_Yellow_100 {
+  background-color: #ffefb7;
+  /*
+   {
+  Hex:"#FFEFB7",
+  RGB:"r255 g239 b183",
+    guid:"a6c30ee4-200a-41f6-9aef-ad61262df6ad"
+  }
+  */ }
+body.dark .Calcite_Vibrant_Yellow_150 {
+  background-color: #fad817;
+  /*
+   {
+  Hex:"#FAD817",
+  RGB:"r250 g216 b23",
+    guid:"44e4a34c-79ae-4c80-872b-8931e39f3519"
+  }
+  */ }
+body.dark .Calcite_Vibrant_Yellow_200 {
+  background-color: #fff000;
+  /*
+   {
+  Hex:"#FFF000",
+  RGB:"r255 g240 b0",
+    guid:"584c655a-ab63-45eb-b900-51d2541f0404"
+  }
+  */ }
+body.dark .Calcite_Vibrant_Orange_100 {
+  background-color: #ffdab6;
+  /*
+   {
+  Hex:"#FFDAB6",
+  RGB:"r255 g217 b181",
+    guid:" "
+  }
+  */ }
+body.dark .Calcite_Vibrant_Orange_150 {
+  background-color: #ffbc6b;
+  /*
+   {
+  Hex:"#FFBC6D",
+  RGB:"r255 g187 b106",
+    guid:" "
+  }
+  */ }
+body.dark .Calcite_Vibrant_Orange_200 {
+  background-color: #ffcc00;
+  /*
+   {
+  Hex:"#FFCC00",
+  RGB:"r255 g203 b0",
+    guid:" "
+  }
+  */ }
+body.dark .Calcite_Vibrant_Green_100 {
+  background-color: #daffd9;
+  /*
+   {
+  Hex:"#DAFFD9",
+  RGB:"r218 g255 b217",
+    guid:"5b12373e-3bb1-4334-93fb-8bab6264e79e"
+  }
+  */ }
+body.dark .Calcite_Vibrant_Green_150 {
+  background-color: #71de6e;
+  /*
+   {
+  Hex:"#71DE6E",
+  RGB:"r113 g222 b110",
+    guid:"71c4d11c-1a9a-41b9-a3fd-988c3da79b8c"
+  }
+  */ }
+body.dark .Calcite_Vibrant_Green_200 {
+  background-color: #a5e800;
+  /*
+   {
+  Hex:"#A5E800",
+  RGB:"r165 g232 b0",
+    guid:"2a8512c5-beae-4889-b75a-9146e178dce1"
+  }
+  */ }
+body.dark .Calcite_Vibrant_Red_100 {
+  background-color: #ffc0b3;
+  /*
+   {
+  Hex:"#FFC0B3",
+  RGB:"r255 g192 b179",
+    guid:"463b658b-c27b-4323-a9f1-307a4aeec38e"
+  }
+  */ }
+body.dark .Calcite_Vibrant_Red_150 {
+  background-color: #ff642e;
+  /*
+   {
+  Hex:"#FF642E",
+  RGB:"r255 g100 b46",
+    guid:"a8f0ff9b-3205-4b82-be41-6c184c7bc3a6"
+  }
+  */ }
+body.dark .Calcite_Vibrant_Red_200 {
+  background-color: #de2900;
+  /*
+   {
+  Hex:"#DE2900",
+  RGB:"r222 g41 b0",
+    guid:"2144446b-9b48-46ba-a006-1c435c401d9b"
+  }
+  */ }
+body.dark .Calcite_Vibrant_Purple_100 {
+  background-color: #daccff;
+  /*
+   {
+  Hex:"#DACCFF",
+  RGB:"r218 g204 b255",
+    guid:"6dae4600-41dd-4239-bae6-ea589fbe0183"
+  }
+  */ }
+body.dark .Calcite_Vibrant_Purple_150 {
+  background-color: #b096ff;
+  /*
+   {
+  Hex:"#B096FF",
+  RGB:"r176 g150 b255",
+    guid:"0679b073-7f94-42db-99cf-9b2608501e0a"
+  }
+  */ }
+body.dark .Calcite_Vibrant_Purple_200 {
+  background-color: #f185ff;
+  /*
+   {
+  Hex:"#F185FF",
+  RGB:"r241 g133 b255",
+    guid:"124bfbab-0bba-4d05-9163-40f34a372f5f"
+  }
+  */ }
+body.dark .Calcite_Vibrant_Brown_100 {
+  background-color: #ffdbb3;
+  /*
+   {
+  Hex:"#FFDBB3",
+  RGB:"r255 g219 b179",
+    guid:"8a4fc6ef-b831-4c85-9c81-06686baad81b"
+  }
+  */ }
+body.dark .Calcite_Vibrant_Brown_150 {
+  background-color: #db8d2f;
+  /*
+   {
+  Hex:"#DB8D2F",
+  RGB:"r219 g141 b47",
+    guid:"45efb8bb-fdba-41d8-8e35-b8fe77869d81"
+  }
+  */ }
+body.dark .Calcite_Vibrant_Brown_200 {
+  background-color: #ffbc6b;
+  /*
+   {
+  Hex:"#FFBC6B",
+  RGB:"r255 g188 b107",
+    guid:"a59cae25-9fce-459e-80b0-eafdff499a00"
+  }
+  */ }
+
 /*# sourceMappingURL=complete.css.map */
