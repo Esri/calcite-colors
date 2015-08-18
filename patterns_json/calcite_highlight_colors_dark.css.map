@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AAeA,2BAA4B;EAC1B,gBAAgB,EC8Fe,OAAO;;;;;;;;;ADlFxC,2BAA4B;EAC1B,gBAAgB,ECkFe,OAAO;;;;;;;;;ADrExC,2BAA4B;EAC1B,gBAAgB,ECqEe,OAAO;;;;;;;;;ADxDxC,2BAA4B;EAC1B,gBAAgB,ECwDe,OAAO;;;;;;;;;AD3CxC,2BAA4B;EAC1B,gBAAgB,EC2Ce,OAAO;;;;;;;;;AD9BxC,2BAA4B;EAC1B,gBAAgB,EC8Be,OAAO;;;;;;;;;ADjBxC,2BAA4B;EAC1B,gBAAgB,ECiBe,OAAO;;;;;;;;;;ADDxC,4BAA6B;EAC3B,gBAAgB,ECCe,OAAO;;;;;;;;;ADWxC,4BAA6B;EAC3B,gBAAgB,ECXe,OAAO;;;;;;;;;ADwBxC,4BAA6B;EAC3B,gBAAgB,ECxBe,OAAO;;;;;;;;;ADqCxC,4BAA6B;EAC3B,gBAAgB,ECrCe,OAAO;;;;;;;;;ADkDxC,4BAA6B;EAC3B,gBAAgB,EClDe,OAAO;;;;;;;;;AD+DxC,4BAA6B;EAC3B,gBAAgB,EC/De,OAAO;;;;;;;;;AD4ExC,4BAA6B;EAC3B,gBAAgB,EC5Ee,OAAO",
+"mappings": "AAeA,2BAA4B;EAC1B,gBAAgB,EC8Fe,OAAO;;;;;;;;;;;ADhFxC,2BAA4B;EAC1B,gBAAgB,ECgFe,OAAO;;;;;;;;;;;ADjExC,2BAA4B;EAC1B,gBAAgB,ECiEe,OAAO;;;;;;;;;;;ADlDxC,2BAA4B;EAC1B,gBAAgB,ECkDe,OAAO;;;;;;;;;;;ADnCxC,2BAA4B;EAC1B,gBAAgB,ECmCe,OAAO;;;;;;;;;;;ADpBxC,2BAA4B;EAC1B,gBAAgB,ECoBe,OAAO;;;;;;;;;;;ADLxC,2BAA4B;EAC1B,gBAAgB,ECKe,OAAO;;;;;;;;;;;;ADaxC,4BAA6B;EAC3B,gBAAgB,ECbe,OAAO;;;;;;;;;;;AD2BxC,4BAA6B;EAC3B,gBAAgB,EC3Be,OAAO;;;;;;;;;;;AD0CxC,4BAA6B;EAC3B,gBAAgB,EC1Ce,OAAO;;;;;;;;;;;ADyDxC,4BAA6B;EAC3B,gBAAgB,ECzDe,OAAO;;;;;;;;;;;ADwExC,4BAA6B;EAC3B,gBAAgB,ECxEe,OAAO;;;;;;;;;;;ADuFxC,4BAA6B;EAC3B,gBAAgB,ECvFe,OAAO;;;;;;;;;;;ADsGxC,4BAA6B;EAC3B,gBAAgB,ECtGe,OAAO",
 "sources": ["scss/calcite_highlight_colors_dark.scss","../scss/variables_dark.scss"],
 "names": [],
 "file": "calcite_highlight_colors_dark.css"
