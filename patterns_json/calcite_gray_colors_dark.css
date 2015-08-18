@@ -2,10 +2,10 @@
   background-color: #ffffff;
   /*
    {
-  Hex:"#FFFFFF",
-  RGB:"r0 g0 b0",
+  Hex:"#232323",
+  RGB:"r35 g35 b35",
   guid:" ",
-  accessibility_white_text:"",
+  accessibility_white_text:"AAaa",
   accessibility_black_text:""
   }
   */ }
@@ -14,10 +14,10 @@
   background-color: #f8f8f8;
   /*
    {
-  Hex:"#F8F8F8",
-  RGB:"r248 g248 b248",
+  Hex:"#323232",
+  RGB:"r50 g50 b50",
   guid:" ",
-  accessibility_white_text:"",
+  accessibility_white_text:"AAaa",
   accessibility_black_text:""
   }
   */ }
@@ -26,10 +26,10 @@
   background-color: #f4f4f4;
   /*
    {
-  Hex:"#F4F4F4",
-  RGB:"r244 g244 b244",
+  Hex:"#353535",
+  RGB:"r53 g53 b53",
   guid:" ",
-  accessibility_white_text:"",
+  accessibility_white_text:"AAaa",
   accessibility_black_text:""
   }
   */ }
@@ -38,10 +38,10 @@
   background-color: #efefef;
   /*
    {
-  Hex:"#EFEFEF",
-  RGB:"r239 g239 b239",
+  Hex:"#3F3F3F",
+  RGB:"r63 g63 b63",
   guid:" ",
-  accessibility_white_text:"",
+  accessibility_white_text:"AAaa",
   accessibility_black_text:""
   }
   */ }
@@ -50,10 +50,10 @@
   background-color: #e7e7e7;
   /*
    {
-  Hex:"#E7E7E7",
-  RGB:"r231 g231 b231",
+  Hex:"#474747",
+  RGB:"r71 g71 b71",
   guid:" ",
-  accessibility_white_text:"",
+  accessibility_white_text:"AAaa",
   accessibility_black_text:""
   }
   */ }
@@ -62,10 +62,10 @@
   background-color: #e0e0e0;
   /*
    {
-  Hex:"#E0E0E0",
-  RGB:"r224 g224 b224",
+  Hex:"#4C4C4C",
+  RGB:"r76 g76 b76",
   guid:" ",
-  accessibility_white_text:"",
+  accessibility_white_text:"AAaa",
   accessibility_black_text:""
   }
   */ }
@@ -74,11 +74,11 @@
   background-color: #cccccc;
   /*
    {
-  Hex:"#CCCCCC",
-  RGB:"204 g204 b204",
+  Hex:"#5B5B5B",
+  RGB:"r91 g91 b91",
   guid:" ",
-  accessibility_white_text:"",
-  accessibility_black_text:""
+  accessibility_white_text:"AAaa",
+  accessibility_black_text:"AA"
   }
   */ }
 
@@ -86,11 +86,11 @@
   background-color: #a9a9a9;
   /*
    {
-  Hex:"#A9A9A9",
-  RGB:"r169 g169 b169",
+  Hex:"#656565",
+  RGB:"r101 g101 b101",
   guid:" ",
-  accessibility_white_text:"",
-  accessibility_black_text:""
+  accessibility_white_text:"AAaa",
+  accessibility_black_text:"AA"
   }
   */ }
 
@@ -98,9 +98,11 @@
   background-color: #959595;
   /*
    {
-  Hex:"#959595",
-  RGB:"r149 g149 b149",
-  guid:"172ca0df-3ace-4f3a-b00d-81b65b16b517"
+  Hex:"#777777",
+  RGB:"r119 g119 b119",
+  guid:" ",
+  accessibility_white_text:"AA",
+  accessibility_black_text:"AAaa"
   }
   */ }
 
@@ -108,11 +110,11 @@
   background-color: #828282;
   /*
    {
-  Hex:"#828282",
-  RGB:"r130 g130 b130",
+  Hex:"#898989",
+  RGB:"r137 g137 b137",
   guid:" ",
-  accessibility_white_text:"",
-  accessibility_black_text:""
+  accessibility_white_text:"AA",
+  accessibility_black_text:"AAaa"
   }
   */ }
 
@@ -120,11 +122,11 @@
   background-color: #6e6e6e;
   /*
    {
-  Hex:"#6E6E6E",
-  RGB:"r110 g110 b110",
+  Hex:"#9E9E9E",
+  RGB:"r158 g158 b158",
   guid:" ",
   accessibility_white_text:"",
-  accessibility_black_text:""
+  accessibility_black_text:"AAaa"
   }
   */ }
 
@@ -132,11 +134,11 @@
   background-color: #595959;
   /*
    {
-  Hex:"#595959",
-  RGB:"r89 g89 b89",
+  Hex:"#ADADAD",
+  RGB:"r173 g173 b173",
   guid:" ",
   accessibility_white_text:"",
-  accessibility_black_text:""
+  accessibility_black_text:"AAaa"
   }
   */ }
 
@@ -144,11 +146,11 @@
   background-color: #4c4c4c;
   /*
    {
-  Hex:"#4C4C4C",
-  RGB:"r76 g76 b76",
+  Hex:"#BCBCBC",
+  RGB:"r188 g188 b188",
   guid:" ",
   accessibility_white_text:"",
-  accessibility_black_text:""
+  accessibility_black_text:"AAaa"
   }
   */ }
 
@@ -156,11 +158,11 @@
   background-color: #323232;
   /*
    {
-  Hex:"#323232",
-  RGB:"r51 g51 b51",
+  Hex:"#D1D1D1",
+  RGB:"r209 g209 b209",
   guid:" ",
   accessibility_white_text:"",
-  accessibility_black_text:""
+  accessibility_black_text:"AAaa"
   }
   */ }
 

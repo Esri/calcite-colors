@@ -2,10 +2,10 @@
   background-color: #e2f1fb;
   /*
    {
-  Hex:"#E2F1FB",
-  RGB:"r226 g241 b251",
+  Hex:"#284965",
+  RGB:"r40 g73 b101",
   guid:" ",
-  accessibility_white_text:"",
+  accessibility_white_text:"AAaa",
   accessibility_black_text:""
   }
   */ }
@@ -14,11 +14,11 @@
   background-color: #c5e5f9;
   /*
    {
-  Hex:"#C5E5F9",
-  RGB:"r197 g229 b249",
+  Hex:"#3C6D98",
+  RGB:"r60 g109 b152",
   guid:" ",
-  accessibility_white_text:"",
-  accessibility_black_text:""
+  accessibility_white_text:"AAaa",
+  accessibility_black_text:"AA"
   }
   */ }
 
@@ -26,11 +26,11 @@
   background-color: #aadbfa;
   /*
    {
-  Hex:"#AADBFA",
-  RGB:"r170 g219 b250",
+  Hex:"#1061A5",
+  RGB:"r16 g97 b165",
   guid:" ",
-  accessibility_white_text:"",
-  accessibility_black_text:""
+  accessibility_white_text:"AAaa",
+  accessibility_black_text:"AA"
   }
   */ }
 
@@ -38,11 +38,11 @@
   background-color: #90cdf2;
   /*
    {
-  Hex:"#90CDF2",
-  RGB:"r144 g205 b242",
+  Hex:"#136FBF",
+  RGB:"r19 g111 b191",
   guid:" ",
-  accessibility_white_text:"",
-  accessibility_black_text:""
+  accessibility_white_text:"AAaa",
+  accessibility_black_text:"AA"
   }
   */ }
 
@@ -53,8 +53,8 @@
   Hex:"#80BCE0",
   RGB:"r128 g188 b224",
   guid:" ",
-  accessibility_white_text:"",
-  accessibility_black_text:""
+  accessibility_white_text:"AA",
+  accessibility_black_text:"AAaa"
   }
   */ }
 
@@ -62,11 +62,11 @@
   background-color: #0079c1;
   /*
    {
-  Hex:"#0079C1",
-  RGB:"r0 g122 b194",
+  Hex:"#2493F2",
+  RGB:"r36 g147 b242",
   guid:" ",
-  accessibility_white_text:"",
-  accessibility_black_text:""
+  accessibility_white_text:"AA",
+  accessibility_black_text:"AAaa"
   }
   */ }
 
@@ -74,20 +74,19 @@
   background-color: #005e95;
   /*
    {
-  Hex:"#005E95",
-  RGB:"r0 g95 b150",
+  Hex:"#3FA6FF",
+  RGB:"r63 g166 b255",
   guid:" ",
   accessibility_white_text:"",
-  accessibility_black_text:""
+  accessibility_black_text:"AAaa"
   }
   */ }
 
-/* -- Calcite Highlight Green -- */
 .Calcite_Highlight_Green_100 {
   background-color: #cccccc;
   /*
    {
-  Hex:"#CFEDCC",
+  Hex:"#CCCCCC",
   RGB:"r208 g238 b205",
   guid:" ",
   accessibility_white_text:"",
@@ -99,7 +98,7 @@
   background-color: #cccccc;
   /*
    {
-  Hex:"#B0E2B0",
+  Hex:"#CCCCCC",
   RGB:"r177 g227 b177",
   guid:" ",
   accessibility_white_text:"",
@@ -111,7 +110,7 @@
   background-color: #cccccc;
   /*
    {
-  Hex:"#96CE96",
+  Hex:"#CCCCCC",
   RGB:"r151 g207 b151",
   guid:" ",
   accessibility_white_text:"",
@@ -123,7 +122,7 @@
   background-color: #cccccc;
   /*
    {
-  Hex:"#7DC17D",
+  Hex:"#CCCCCC",
   RGB:"r126 g194 b126",
   guid:" ",
   accessibility_white_text:"",
@@ -135,7 +134,7 @@
   background-color: #cccccc;
   /*
    {
-  Hex:"#7BB974",
+  Hex:"#CCCCCC",
   RGB:"r124 g186 b117",
   guid:" ",
   accessibility_white_text:"",
@@ -147,7 +146,7 @@
   background-color: #cccccc;
   /*
    {
-  Hex:"#31872E",
+  Hex:"#CCCCCC",
   RGB:"r49 g135 b46",
   guid:" ",
   accessibility_white_text:"",
@@ -159,7 +158,7 @@
   background-color: #cccccc;
   /*
    {
-  Hex:"#2B622B",
+  Hex:"#CCCCCC",
   RGB:"r44 g99 b44",
   guid:" ",
   accessibility_white_text:"",
