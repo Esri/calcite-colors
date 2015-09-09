@@ -1,149 +1,150 @@
 
 // Esri Brand Colors
-$Brand_Blue_100:    #b9e0f7;   // previously blue 14
-$Brand_Blue_150:    #00b9f2;   // previously blue 13
-$Brand_Blue_200:    #007ac2;   // "Esri Blue", previously blue 12
-$Brand_Blue_250:    #004575;   // previously blue 11
+$Brand_Blue_100:    #b9e0f7;
+$Brand_Blue_150:    #00b9f2;
+$Brand_Blue_200:    #007ac2;
+$Brand_Blue_250:    #004575;
 
-$Brand_Yellow_100:  #ffec4f;   // previously yellow 22
+$Brand_Yellow_100:  #ffec4f;
 
-$Brand_Orange_100:  #f89927;   // previously orange 21
-$Brand_Orange_150:  #f36f20;   // previously orange 20
-$Brand_Orange_200:  #da4d1e;   // previously orange 19
+$Brand_Orange_100:  #f89927;
+$Brand_Orange_150:  #f36f20;
+$Brand_Orange_200:  #da4d1e;
 
-$Brand_Red_100:     #de2900;   // new color :)
+$Brand_Red_100:     #de2900;
 
-$Brand_Green_100:   #d1e391;   // previously green 18
-$Brand_Green_150:   #aad04b;   // previously green 17
-$Brand_Green_200:   #35ac46;   // "Esri Green", previously green 16
-$Brand_Green_250:   #2a7433;   // previously green 15
+$Brand_Green_100:   #d1e391;
+$Brand_Green_150:   #aad04b;
+$Brand_Green_200:   #35ac46;
+$Brand_Green_250:   #2a7433;
 
-$Brand_Purple_100:  #dfcce3;   // previously purple 26
-$Brand_Purple_150:  #b279b4;   // previously purple 25
-$Brand_Purple_200:  #8f499c;   // previously purple 24
-$Brand_Purple_250:  #6b1978;   // previously purple 23
+$Brand_Purple_100:  #dfcce3;
+$Brand_Purple_150:  #b279b4;
+$Brand_Purple_200:  #8f499c;
+$Brand_Purple_250:  #6b1978;
 
-$Brand_Brown_100:   #ecdcb9;   // previously brown 10
-$Brand_Brown_150:   #be9969;   // previously brown 9
-$Brand_Brown_200:   #7b4f1c;   // previously brown 8
-$Brand_Brown_250:   #523b20;   // previously brown 7
+$Brand_Brown_100:   #ecdcb9;
+$Brand_Brown_150:   #be9969;
+$Brand_Brown_200:   #7b4f1c;
+$Brand_Brown_250:   #523b20;
 
-$Brand_Gray_100:    #b4b4b4;   // previously gray 6, 35%
-$Brand_Gray_150:    #969696;   // previously gray 5, 50%
-$Brand_Gray_200:    #6e6e6e;   // previously gray 4, 75%
-$Brand_Gray_250:    #464646;   // previously gray 3, 88%
+$Brand_Gray_100:    #b4b4b4;
+$Brand_Gray_150:    #969696;
+$Brand_Gray_200:    #6e6e6e;
+$Brand_Gray_250:    #464646;
 
 // Calcite Core Colors Dark
-$Calcite_Blue_100: 	     #d2e9f9;
-$Calcite_Blue_150: 	     #bcdaed;
-$Calcite_Blue_200: 	     #6cb4e2;
-$Calcite_Blue_250: 	     #56a5d8;
-$Calcite_Blue_a100: 	 #cccccc;
-$Calcite_Blue_a150: 	 #cccccc;
-$Calcite_Blue_a200: 	 #cccccc;
-$Calcite_Blue_a250: 	 #cccccc;
-$Calcite_Yellow_100: 	 #f3edc7;  // previously Esri_Yellow1
-$Calcite_Yellow_150: 	 #efe397;  // previously Esri_Yellow2
-$Calcite_Yellow_200: 	 #e4d154;  // previously Esri_Yellow3
-$Calcite_Yellow_250: 	 #d8c34b;  // previously Esri_Yellow4
-$Calcite_Yellow_a100: 	 #cccccc;
-$Calcite_Yellow_a150: 	 #cccccc;
-$Calcite_Yellow_a200: 	 #cccccc;
-$Calcite_Yellow_a250: 	 #cccccc;
-$Calcite_Orange_100: 	 #fbe1c2;  // previously Esri_Orange1
-$Calcite_Orange_150: 	 #f6ca92;  // previously Esri_Orange2
-$Calcite_Orange_200: 	 #eda959;  // previously Esri_Orange3
-$Calcite_Orange_250: 	 #e79c47;  // previously Esri_Orange4
-$Calcite_Orange_a100: 	 #cccccc;
-$Calcite_Orange_a150: 	 #cccccc;
-$Calcite_Orange_a200: 	 #cccccc;
-$Calcite_Orange_a250: 	 #cccccc;
-$Calcite_Green_100: 	 #ddeedb;  // replaces Esri_Green1. Use in Success Messages with Calcite_Green_450
-$Calcite_Green_150: 	 #9bc19c;  // previously Esri_Green2
-$Calcite_Green_200: 	 #67a966;  // previously Esri_Green3
-$Calcite_Green_250: 	 #5a9359;  // previously Esri_Green4
-$Calcite_Green_a100: 	 #cccccc;
-$Calcite_Green_a150: 	 #cccccc;
-$Calcite_Green_a200: 	 #cccccc;
-$Calcite_Green_a250: 	 #cccccc;  // replaces Esri_Green5. Use in Success Messages with Calcite_Green_100
-$Calcite_Red_100: 	     #f3ded7;  // previously Esri_Red1
-$Calcite_Red_150: 	     #e4a793;  // previously Esri_Red2
-$Calcite_Red_200: 	     #c86a4a;  // previously Esri_Red3
-$Calcite_Red_250: 	     #c6542d;  // previously Esri_Red4
-$Calcite_Red_a100: 	     #cccccc;
-$Calcite_Red_a150: 	     #cccccc;  // aa AA | background with white text – passes accessibility
-$Calcite_Red_a200: 	     #cccccc;  // aa AA | background with white text – passes accessibility
-$Calcite_Red_a250: 	     #cccccc;  // aa AA | background with white text – passes accessibility
-$Calcite_Purple_100: 	 #e5e1ef;  // previously Esri_Purple1
-$Calcite_Purple_150: 	 #c4bcdc;  // previously Esri_Purple2
-$Calcite_Purple_200: 	 #9081bc;  // previously Esri_Purple3
-$Calcite_Purple_250: 	 #7b6ca7;  // previously Esri_Purple4
-$Calcite_Purple_a100: 	 #cccccc;
-$Calcite_Purple_a150: 	 #cccccc;
-$Calcite_Purple_a200: 	 #cccccc;
-$Calcite_Purple_a250: 	 #cccccc;
-$Calcite_Brown_100: 	 #e8ddd3;  // previously Esri_Brown1
-$Calcite_Brown_150: 	 #d2b38f;  // previously Esri_Brown2
-$Calcite_Brown_200: 	 #b78a54;  // previously Esri_Brown3
-$Calcite_Brown_250: 	 #a57946;  // previously Esri_Brown4
-$Calcite_Brown_a100: 	 #cccccc;
-$Calcite_Brown_a150: 	 #cccccc;  // replaces Esri_Yellow6. Use in Warning Messages
-$Calcite_Brown_a200: 	 #cccccc;
-$Calcite_Brown_a250: 	 #cccccc;
+$Calcite_Blue_100: 	     #1a4866;
+$Calcite_Blue_150: 	     #1d5d8c;
+$Calcite_Blue_200: 	     #3b8fc3;
+$Calcite_Blue_250: 	     #419ed9;
+$Calcite_Blue_a100: 	 #45a7e6;
+$Calcite_Blue_a150: 	 #60b7f0;
+$Calcite_Blue_a200: 	 #6ec1f5;
+$Calcite_Blue_a250: 	 #7dc8fa;
+$Calcite_Yellow_100: 	 #796916;
+$Calcite_Yellow_150: 	 #a28a00;
+$Calcite_Yellow_200: 	 #bda727;
+$Calcite_Yellow_250: 	 #ccb736;
+$Calcite_Yellow_a100: 	 #d6bd2a;
+$Calcite_Yellow_a150: 	 #e3c832;
+$Calcite_Yellow_a200: 	 #edd448;
+$Calcite_Yellow_a250: 	 #f5df62;
+$Calcite_Orange_100: 	 #754c23;
+$Calcite_Orange_150: 	 #a16520;
+$Calcite_Orange_200: 	 #d18734;
+$Calcite_Orange_250: 	 #e8963a;
+$Calcite_Orange_a100: 	 #f29833;
+$Calcite_Orange_a150: 	 #f29f3f;
+$Calcite_Orange_a200: 	 #f5aa53;
+$Calcite_Orange_a250: 	 #ffb461;
+$Calcite_Green_100: 	 #295429;
+$Calcite_Green_150: 	 #386f38;
+$Calcite_Green_200: 	 #4b944a;
+$Calcite_Green_250: 	 #58ad57;
+$Calcite_Green_a100: 	 #53b350;
+$Calcite_Green_a150: 	 #59bf57;
+$Calcite_Green_a200: 	 #67c966;
+$Calcite_Green_a250: 	 #74d173;
+$Calcite_Red_100: 	     #632822;
+$Calcite_Red_150: 	     #853218;
+$Calcite_Red_200: 	     #ab421f;
+$Calcite_Red_250: 	     #c75028;
+$Calcite_Red_a100: 	     #d15226;
+$Calcite_Red_a150: 	     #d65d33;
+$Calcite_Red_a200: 	     #e36a40;
+$Calcite_Red_a250: 	     #eb7953;
+$Calcite_Purple_100: 	 #3e6554;
+$Calcite_Purple_150: 	 #4c3e6e;
+$Calcite_Purple_200: 	 #61518c;
+$Calcite_Purple_250: 	 #8070aa;
+$Calcite_Purple_a100: 	 #846ebf;
+$Calcite_Purple_a150: 	 #927acc;
+$Calcite_Purple_a200: 	 #9b87d9;
+$Calcite_Purple_a250: 	 #a393d1;
+$Calcite_Brown_100: 	 #4b341d;
+$Calcite_Brown_150: 	 #67441f;
+$Calcite_Brown_200: 	 #8c5e2b;
+$Calcite_Brown_250: 	 #a67032;
+$Calcite_Brown_a100: 	 #b37936;
+$Calcite_Brown_a150: 	 #cc8a3d;
+$Calcite_Brown_a200: 	 #d9974c;
+$Calcite_Brown_a250: 	 #dea664;
 
 // Calcite Gray Colors Dark
-$Calcite_Gray_050:   #ffffff;  // 0%  Previously Esri_White
-$Calcite_Gray_100: 	 #f8f8f8;  // 3%, previously Esri_Gray100. background
-$Calcite_Gray_150: 	 #f4f4f4;  // 4%, previously Esri_Gray105
-$Calcite_Gray_200: 	 #efefef;  // 6%, previously Esri_Gray110
-$Calcite_Gray_250: 	 #e7e7e7;  // 10%, previously Esri_Gray115
-$Calcite_Gray_300: 	 #e0e0e0;  // 12%, previously Esri_Gray120
-$Calcite_Gray_350: 	 #cccccc;  // 20%, previously Esri_Gray125
-$Calcite_Gray_400: 	 #a9a9a9;  // 30%, previously Esri_Gray130
-$Calcite_Gray_450: 	 #959595;  // 40%, previously Esri_Gray135
-$Calcite_Gray_500: 	 #828282;  // 50%, previously Esri_Gray140
-$Calcite_Gray_550: 	 #6e6e6e;  // 56%, previously Esri_Gray145
-$Calcite_Gray_600: 	 #595959;  // 65%, previously Esri_Gray150
-$Calcite_Gray_650: 	 #4c4c4c;  // 70%, previously Esri_Gray155. body text
-$Calcite_Gray_700: 	 #323232;  // 80%, previously Esri_Gray160
+$Calcite_Gray_050:   #ffffff;  // 86%
+$Calcite_Gray_100: 	 #f8f8f8;  // 80%
+$Calcite_Gray_150: 	 #f4f4f4;  // 79%
+$Calcite_Gray_200: 	 #efefef;  // 75%
+$Calcite_Gray_250: 	 #e7e7e7;  // 72%
+$Calcite_Gray_300: 	 #e0e0e0;  // 70%
+$Calcite_Gray_350: 	 #cccccc;  // 64%
+$Calcite_Gray_400: 	 #a9a9a9;  // 60%
+$Calcite_Gray_450: 	 #959595;  // 53%
+$Calcite_Gray_500: 	 #828282;  // 46%
+$Calcite_Gray_550: 	 #6e6e6e;  // 38%
+$Calcite_Gray_600: 	 #595959;  // 32%
+$Calcite_Gray_650: 	 #4c4c4c;  // 26%
+$Calcite_Gray_700: 	 #323232;  // 18%
 
 // Calcite Hightlight Color Dark
-$Calcite_Highlight_Blue_100:     #e2f1fb; // hovered, previously Esri_Blue1. NOTE--Esri_Blue2 was removed in Calcite Colors v8.00 due to it being so similar to Calcite_Highlight_Blue_100 and 150
-$Calcite_Highlight_Blue_150:     #c5e5f9; // hovered & selected, previously Esri_Blue5
-$Calcite_Highlight_Blue_200:     #aadbfa; // selected (toggled), previously Esri_Blue6
-$Calcite_Highlight_Blue_250:     #90cdf2; // pressed, previously Esri_Blue7
-$Calcite_Highlight_Blue_300:     #80bce0; // border on hover, previously Esri_Blue3, previously 7FBBDF
-$Calcite_Highlight_Blue_350:     #0079c1; // previously Esri_Blue
-$Calcite_Highlight_Blue_400:     #005e95; // previously Esri_BlueDark
-$Calcite_Highlight_Green_100:    #cccccc; // hovered, previously Esri_Green11
-$Calcite_Highlight_Green_150:    #cccccc; // hovered & selected, previously Esri_Green15
-$Calcite_Highlight_Green_200:    #cccccc; // selected (toggled), previously Esri_Green16
-$Calcite_Highlight_Green_250:    #cccccc; // pressed, previously Esri_Green17
-$Calcite_Highlight_Green_300:    #cccccc; // border on hover, previously Esri_Green13
-$Calcite_Highlight_Green_350:    #cccccc; // previously Esri_Green
-$Calcite_Highlight_Green_400:    #cccccc; // previously Esri_GreenDark
+$Calcite_Highlight_Blue_100:     #e2f1fb; // hovered
+$Calcite_Highlight_Blue_150:     #c5e5f9; // hovered & selected
+$Calcite_Highlight_Blue_200:     #aadbfa; // selected (toggled)
+$Calcite_Highlight_Blue_250:     #90cdf2; // pressed
+$Calcite_Highlight_Blue_300:     #80bce0; // border on hover
+$Calcite_Highlight_Blue_350:     #0079c1; // active
+$Calcite_Highlight_Blue_400:     #005e95; // active accent
+$Calcite_Highlight_Green_100:    #1f581f; // hovered
+$Calcite_Highlight_Green_150:    #468b46; // hovered & selected
+$Calcite_Highlight_Green_200:    #247924; // selected (toggled)
+$Calcite_Highlight_Green_250:    #298b29; // pressed
+$Calcite_Highlight_Green_300:    #30a230; // border on hover
+$Calcite_Highlight_Green_350:    #33ac33; // active
+$Calcite_Highlight_Green_400:    #38be38; // active accent
 
 //Calcite Vibrant Colors Dark
 // For all Calcite Vibrant colors -- they should comprise <10% of the image area. Only use if additional contrast is needed.
 $Calcite_Vibrant_Blue_100:       #c7e9ff;
 $Calcite_Vibrant_Blue_150:       #69dcff;
 $Calcite_Vibrant_Blue_200:       #00dee7;
-$Calcite_Vibrant_Blue_250:       #b3e9f9; // only for use inside icons, to show "selection"
-$Calcite_Vibrant_Yellow_100:     #ffefb7; // replaces Esri_Yellow5. Use in Warning Messages along with Calcite_Brown_350, which replaces Esri_Yellow6
+$Calcite_Vibrant_Blue_250:       #b3e9f9; // only use inside icons, to show "selection"
+$Calcite_Vibrant_Yellow_100:     #ffefb7;
 $Calcite_Vibrant_Yellow_150:     #fad817;
 $Calcite_Vibrant_Yellow_200:     #fff000;
-$Calcite_Vibrant_Orange_100:     #ffdab6; // New as of 8/11/15
-$Calcite_Vibrant_Orange_150:     #ffbc6b; // New as of 8/11/15
-$Calcite_Vibrant_Orange_200:     #ffcc00; // New as of 8/11/15
+$Calcite_Vibrant_Orange_100:     #ffdab6;
+$Calcite_Vibrant_Orange_150:     #ffbc6b;
+$Calcite_Vibrant_Orange_200:     #ffcc00;
 $Calcite_Vibrant_Green_100:      #daffd9;
 $Calcite_Vibrant_Green_150:      #71de6e;
 $Calcite_Vibrant_Green_200:      #a5e800;
-$Calcite_Vibrant_Red_100:        #ffc0b3; // replaces Esri_Red5. Use in Error Messages with Calcite_Vibrant-Red_200
+$Calcite_Vibrant_Red_100:        #ffc0b3;
 $Calcite_Vibrant_Red_150:        #ff642e;
-$Calcite_Vibrant_Red_200:        #de2900; // replaces Esri_Red6. Use in Error Messages with Calcite_Vibrant-Red_100
+$Calcite_Vibrant_Red_200:        #de2900;
 $Calcite_Vibrant_Purple_100:     #daccff;
 $Calcite_Vibrant_Purple_150:     #b096ff;
 $Calcite_Vibrant_Purple_200:     #f185ff;
 $Calcite_Vibrant_Brown_100:      #ffdbb3;
 $Calcite_Vibrant_Brown_150:      #db8d2f;
 $Calcite_Vibrant_Brown_200:      #ffbc6b;
+

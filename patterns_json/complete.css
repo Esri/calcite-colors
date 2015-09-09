@@ -1063,7 +1063,7 @@ tags: "Calcite Gray,Calcite"
    {
   Hex:"#FFFFFF",
   RGB:"r0 g0 b0",
-  guid:" ",
+  guid:"ce3816ba-9d1f-4868-9741-923892cf8359",
   accessibility_white_text:"",
   accessibility_black_text:"AAaa"
   }
@@ -1323,7 +1323,7 @@ tags: "Calcite Vibrant,Calcite"
    {
   Hex:"#FFDAB6",
   RGB:"r255 g217 b181",
-  guid:" ",
+  guid:"97aade8f-6471-4d29-adb7-a51440e04ac5",
   accessibility_white_text:"",
   accessibility_black_text:"AAaa"
   }
@@ -1335,7 +1335,7 @@ tags: "Calcite Vibrant,Calcite"
    {
   Hex:"#FFBC6D",
   RGB:"r255 g187 b106",
-  guid:" ",
+  guid:"725e3a5a-dd72-4189-a64b-bc904d3ab4e2",
   accessibility_white_text:"",
   accessibility_black_text:"AAaa"
   }
@@ -1347,7 +1347,7 @@ tags: "Calcite Vibrant,Calcite"
    {
   Hex:"#FFCC00",
   RGB:"r255 g203 b0",
-  guid:" ",
+  guid:"a360d6ed-89b0-420b-b7a6-a7bda9e0eed3",
   accessibility_white_text:"",
   accessibility_black_text:"AAaa"
   }
@@ -1680,7 +1680,7 @@ body.dark .Calcite_Blue_100 {
    {
   Hex:"#194765",
   RGB:"r25 g71 b101",
-    guid:"",
+    guid:"13f7f404-7f22-4be3-b1a8-63e7d570d109",
     accessibility_white_text:"AAaa",
     accessibility_black_text:""
   }
@@ -1691,7 +1691,7 @@ body.dark .Calcite_Blue_150 {
    {
   Hex:"#1C5C8B",
   RGB:"r28 g92 b139",
-    guid:"",
+    guid:"ba344091-1d38-4d04-9441-8c3d412e7a26",
     accessibility_white_text:"AAaa",
     accessibility_black_text:""
   }
@@ -1702,7 +1702,7 @@ body.dark .Calcite_Blue_200 {
    {
   Hex:"#3A8EC2",
   RGB:"r58 g142 b194",
-    guid:"",
+    guid:"f32f5d5f-6f08-4abb-ad7a-eea60a700409",
     accessibility_white_text:"AA",
     accessibility_black_text:"AAaa"
   }
@@ -1713,51 +1713,51 @@ body.dark .Calcite_Blue_250 {
    {
   Hex:"#409DD8",
   RGB:"r64 g157 b216",
-    guid:"",
+    guid:"0a37e721-ad68-4004-bf27-e6bbb9832c6c",
     accessibility_white_text:"",
     accessibility_black_text:"AAaa"
   }
   */ }
 body.dark .Calcite_Blue_a100 {
-  background-color: #cccccc;
+  background-color: #45a7e6;
   /*
    {
   Hex:"#CCCCCC",
   RGB:"r204 g204 b204",
-    guid:"",
+    guid:"d0f45c43-173a-4107-8b6d-e159dfa33449",
     accessibility_white_text:"",
     accessibility_black_text:""
   }
   */ }
 body.dark .Calcite_Blue_a150 {
-  background-color: #cccccc;
+  background-color: #60b7f0;
   /*
    {
   Hex:"#CCCCCC",
   RGB:"r204 g204 b204",
-    guid:"",
+    guid:"8e6f8d0e-919e-4fcc-a262-1a773d993a45",
     accessibility_white_text:"",
     accessibility_black_text:""
   }
   */ }
 body.dark .Calcite_Blue_a200 {
-  background-color: #cccccc;
+  background-color: #6ec1f5;
   /*
    {
   Hex:"#CCCCCC",
   RGB:"r204 g204 b204",
-    guid:"",
+    guid:"6ac6da98-5268-4a4d-88cd-c041582cf039",
     accessibility_white_text:"",
     accessibility_black_text:""
   }
   */ }
 body.dark .Calcite_Blue_a250 {
-  background-color: #cccccc;
+  background-color: #7dc8fa;
   /*
    {
   Hex:"#CCCCCC",
   RGB:"r204 g204 b204",
-    guid:"",
+    guid:"f08d8462-ddfc-483e-9a2f-77b060a98658",
     accessibility_white_text:"",
     accessibility_black_text:""
   }
@@ -1768,7 +1768,7 @@ body.dark .Calcite_Yellow_100 {
    {
   Hex:"#786815",
   RGB:"r120 g104 b21",
-    guid:"",
+    guid:"96b1f515-4816-4845-9f20-4cec1bb6b15b",
     accessibility_white_text:"AAaa",
     accessibility_black_text:"AA"
   }
@@ -1779,7 +1779,7 @@ body.dark .Calcite_Yellow_150 {
    {
   Hex:"#A18900",
   RGB:"r161 g137 b0",
-    guid:"",
+    guid:"eb1cb7b1-e500-42ec-aaa1-4c164dd9d766",
     accessibility_white_text:"AA",
     accessibility_black_text:"AAaa"
   }
@@ -1790,7 +1790,7 @@ body.dark .Calcite_Yellow_200 {
    {
   Hex:"#BCA626",
   RGB:"r188 g166 b38",
-    guid:"",
+    guid:"1a3663ed-23c0-47f9-aee0-71cf058e5300",
     accessibility_white_text:"",
     accessibility_black_text:"AAaa"
   }
@@ -1801,51 +1801,51 @@ body.dark .Calcite_Yellow_250 {
    {
   Hex:"#CBB635",
   RGB:"r203 g182 b53",
-    guid:"",
+    guid:"7c241ac9-b0d7-4a35-8de6-33ea53c8e470",
     accessibility_white_text:"",
     accessibility_black_text:"AAaa"
   }
   */ }
 body.dark .Calcite_Yellow_a100 {
-  background-color: #cccccc;
+  background-color: #d6bd2a;
   /*
    {
   Hex:"#CCCCCC",
   RGB:"r204 g204 b204",
-    guid:"",
+    guid:"0bbe3546-fc84-42d1-a741-56e42599dc9a",
     accessibility_white_text:"",
     accessibility_black_text:""
   }
   */ }
 body.dark .Calcite_Yellow_a150 {
-  background-color: #cccccc;
+  background-color: #e3c832;
   /*
    {
   Hex:"#CCCCCC",
   RGB:"r204 g204 b204",
-    guid:"",
+    guid:"d29fd5e2-1e11-4106-ad89-ffe75fa5de90",
     accessibility_white_text:"",
     accessibility_black_text:""
   }
   */ }
 body.dark .Calcite_Yellow_a200 {
-  background-color: #cccccc;
+  background-color: #edd448;
   /*
    {
   Hex:"#CCCCCC",
   RGB:"r204 g204 b204",
-    guid:"",
+    guid:"04c355b9-1cc1-4b31-a4dc-e4db5a028858",
     accessibility_white_text:"",
     accessibility_black_text:""
   }
   */ }
 body.dark .Calcite_Yellow_a250 {
-  background-color: #cccccc;
+  background-color: #f5df62;
   /*
    {
   Hex:"#CCCCCC",
   RGB:"r204 g204 b204",
-    guid:"",
+    guid:"270e0bb5-979c-42a6-9126-857042c36cd7",
     accessibility_white_text:"",
     accessibility_black_text:""
   }
@@ -1856,7 +1856,7 @@ body.dark .Calcite_Orange_100 {
    {
   Hex:"#744B22",
   RGB:"r116 g75 b34",
-    guid:"",
+    guid:"10bc24d0-c2a6-4327-9960-ced18032ed2e",
     accessibility_white_text:"AAaa",
     accessibility_black_text:""
   }
@@ -1867,7 +1867,7 @@ body.dark .Calcite_Orange_150 {
    {
   Hex:"#A0641F",
   RGB:"r160 g100 b31",
-    guid:"",
+    guid:"ea1d5847-9320-4aac-98ec-198e701bf976",
     accessibility_white_text:"AAaa",
     accessibility_black_text:"AA"
   }
@@ -1878,7 +1878,7 @@ body.dark .Calcite_Orange_200 {
    {
   Hex:"#D08633",
   RGB:"r208 g134 b51",
-    guid:"",
+    guid:"5e84a63b-02c0-4513-b989-08720832737a",
     accessibility_white_text:"",
     accessibility_black_text:"AAaa"
   }
@@ -1889,51 +1889,51 @@ body.dark .Calcite_Orange_250 {
    {
   Hex:"#E79539",
   RGB:"r231 g149 b57",
-    guid:"",
+    guid:"d16d400d-f2af-495d-a7be-db87753bba72",
     accessibility_white_text:"",
     accessibility_black_text:"AAaa"
   }
   */ }
 body.dark .Calcite_Orange_a100 {
-  background-color: #cccccc;
+  background-color: #f29833;
   /*
    {
   Hex:"#CCCCCC",
   RGB:"r204 g204 b204",
-    guid:"",
+    guid:"4d5cd545-83e6-46a8-bd94-6a9e99d90026",
     accessibility_white_text:"",
     accessibility_black_text:""
   }
   */ }
 body.dark .Calcite_Orange_a150 {
-  background-color: #cccccc;
+  background-color: #f29f3f;
   /*
    {
   Hex:"#CCCCCC",
   RGB:"r204 g204 b204",
-    guid:"",
+    guid:"75e2a476-8da6-45c3-adc0-4d7d500ad12b",
     accessibility_white_text:"",
     accessibility_black_text:""
   }
   */ }
 body.dark .Calcite_Orange_a200 {
-  background-color: #cccccc;
+  background-color: #f5aa53;
   /*
    {
   Hex:"#CCCCCC",
   RGB:"r204 g204 b204",
-    guid:"",
+    guid:"0d4c57cd-77f1-46c6-82dd-bcdcf3107cb2",
     accessibility_white_text:"",
     accessibility_black_text:""
   }
   */ }
 body.dark .Calcite_Orange_a250 {
-  background-color: #cccccc;
+  background-color: #ffb461;
   /*
    {
   Hex:"#CCCCCC",
   RGB:"r204 g204 b204",
-    guid:"",
+    guid:"51296e7e-3646-4686-865a-33f29a683a7b",
     accessibility_white_text:"",
     accessibility_black_text:""
   }
@@ -1944,7 +1944,7 @@ body.dark .Calcite_Green_100 {
    {
   Hex:"#285328",
   RGB:"r40 g83 b40",
-    guid:"",
+    guid:"0c9ebb2b-a11a-4eff-a004-8ebe8f7a864d",
     accessibility_white_text:"AAaa",
     accessibility_black_text:""
   }
@@ -1955,7 +1955,7 @@ body.dark .Calcite_Green_150 {
    {
   Hex:"#376E37",
   RGB:"r55 g110 b55",
-    guid:"",
+    guid:"f34e66a9-cebe-4c92-a715-5dcfec9f4cb8",
     accessibility_white_text:"AAaa",
     accessibility_black_text:"AA"
   }
@@ -1966,7 +1966,7 @@ body.dark .Calcite_Green_200 {
    {
   Hex:"#4A9349",
   RGB:"r74 g147 b73",
-    guid:"",
+    guid:"31c206df-af65-41c9-823d-617d733cd870",
     accessibility_white_text:"AA",
     accessibility_black_text:"AAaa"
   }
@@ -1977,51 +1977,51 @@ body.dark .Calcite_Green_250 {
    {
   Hex:"#57AC56",
   RGB:"r87 g172 b86",
-    guid:"",
+    guid:"a487cb84-4ec0-407e-a094-20d22ab88747",
     accessibility_white_text:"",
     accessibility_black_text:"AAaa"
   }
   */ }
 body.dark .Calcite_Green_a100 {
-  background-color: #cccccc;
+  background-color: #53b350;
   /*
    {
   Hex:"#CCCCCC",
   RGB:"r204 g204 b204",
-    guid:"",
+    guid:"f4618a95-f0d3-4e29-aba2-719b9b6e6ba4",
     accessibility_white_text:"",
     accessibility_black_text:""
   }
   */ }
 body.dark .Calcite_Green_a150 {
-  background-color: #cccccc;
+  background-color: #59bf57;
   /*
    {
   Hex:"#CCCCCC",
   RGB:"r204 g204 b204",
-    guid:"",
+    guid:"dbe8f620-e3bf-4a0f-9336-50b2177d3a94",
     accessibility_white_text:"",
     accessibility_black_text:""
   }
   */ }
 body.dark .Calcite_Green_a200 {
-  background-color: #cccccc;
+  background-color: #67c966;
   /*
    {
   Hex:"#CCCCCC",
   RGB:"r204 g204 b204",
-    guid:"",
+    guid:"2c4234a7-0d16-40b1-ac78-d8a0b2434613",
     accessibility_white_text:"",
     accessibility_black_text:""
   }
   */ }
 body.dark .Calcite_Green_a250 {
-  background-color: #cccccc;
+  background-color: #74d173;
   /*
    {
   Hex:"#CCCCCC",
   RGB:"r204 g204 b204",
-    guid:"",
+    guid:"74206a10-7562-4efa-8bfd-1185fb3251aa",
     accessibility_white_text:"",
     accessibility_black_text:""
   }
@@ -2032,7 +2032,7 @@ body.dark .Calcite_Red_100 {
    {
   Hex:"#622721",
   RGB:"r98 g39 b33",
-    guid:"",
+    guid:"aab5ddb2-634b-4752-9d52-2efae2d22d73",
     accessibility_white_text:"AAaa",
     accessibility_black_text:""
   }
@@ -2043,7 +2043,7 @@ body.dark .Calcite_Red_150 {
    {
   Hex:"#843117",
   RGB:"r132 g49 b23",
-    guid:"",
+    guid:"e9791e86-f31c-4dd9-8be7-4eba9d3b61cb",
     accessibility_white_text:"AAaa",
     accessibility_black_text:""
   }
@@ -2054,7 +2054,7 @@ body.dark .Calcite_Red_200 {
    {
   Hex:"#AA411E",
   RGB:"r170 g65 b30",
-    guid:"",
+    guid:"2f77f9a5-ecc7-4940-8cb9-131cd88bd597",
     accessibility_white_text:"AAaa",
     accessibility_black_text:"AA"
   }
@@ -2065,51 +2065,51 @@ body.dark .Calcite_Red_250 {
    {
   Hex:"#C64F27",
   RGB:"r198 g79 b39",
-    guid:"",
+    guid:"647617d4-e986-49f9-9055-4a9277b45532",
     accessibility_white_text:"AAaa",
     accessibility_black_text:"AAaa"
   }
   */ }
 body.dark .Calcite_Red_a100 {
-  background-color: #cccccc;
+  background-color: #d15226;
   /*
    {
   Hex:"#CCCCCC",
   RGB:"r204 g204 b204",
-    guid:"",
+    guid:"ec36a8f5-b27f-4b45-a937-0ef41be84866",
     accessibility_white_text:"",
     accessibility_black_text:""
   }
   */ }
 body.dark .Calcite_Red_a150 {
-  background-color: #cccccc;
+  background-color: #d65d33;
   /*
    {
   Hex:"#CCCCCC",
   RGB:"r204 g204 b204",
-    guid:"",
+    guid:"8d721bd3-479c-4006-9b86-f2af7f02dba9",
     accessibility_white_text:"",
     accessibility_black_text:""
   }
   */ }
 body.dark .Calcite_Red_a200 {
-  background-color: #cccccc;
+  background-color: #e36a40;
   /*
    {
   Hex:"#CCCCCC",
   RGB:"r204 g204 b204",
-    guid:"",
+    guid:"f0e4e732-25b2-4556-86ca-0dfa9692e77a",
     accessibility_white_text:"",
     accessibility_black_text:""
   }
   */ }
 body.dark .Calcite_Red_a250 {
-  background-color: #cccccc;
+  background-color: #eb7953;
   /*
    {
   Hex:"#CCCCCC",
   RGB:"r204 g204 b204",
-    guid:"",
+    guid:"a5e7ae65-2f04-496a-9042-c68071c36b87",
     accessibility_white_text:"",
     accessibility_black_text:""
   }
@@ -2120,7 +2120,7 @@ body.dark .Calcite_Purple_100 {
    {
   Hex:"#3D3553",
   RGB:"r61 g53 b83",
-    guid:"",
+    guid:"97db6f2e-40f0-4abb-be42-b3e98b232d3d",
     accessibility_white_text:"AAaa",
     accessibility_black_text:""
   }
@@ -2131,7 +2131,7 @@ body.dark .Calcite_Purple_150 {
    {
   Hex:"#4B3D6D",
   RGB:"r75 g61 b109",
-    guid:"",
+    guid:"8cb08557-9a65-4751-894c-2c3d417d157d",
     accessibility_white_text:"AAaa",
     accessibility_black_text:""
   }
@@ -2142,7 +2142,7 @@ body.dark .Calcite_Purple_200 {
    {
   Hex:"#60508B",
   RGB:"r96 g80 b139",
-    guid:"",
+    guid:"27291eee-8749-4c47-b4b0-7b9c6f7fce65",
     accessibility_white_text:"AAaa",
     accessibility_black_text:"AA"
   }
@@ -2153,51 +2153,51 @@ body.dark .Calcite_Purple_250 {
    {
   Hex:"#7F6FA9",
   RGB:"r127 g111 b169",
-    guid:"",
+    guid:"99825edd-7b96-45dc-91e0-6ddd52271e62",
     accessibility_white_text:"AA",
     accessibility_black_text:"AAaa"
   }
   */ }
 body.dark .Calcite_Purple_a100 {
-  background-color: #cccccc;
+  background-color: #846ebf;
   /*
    {
   Hex:"#CCCCCC",
   RGB:"r204 g204 b204",
-    guid:"",
+    guid:"062f96f8-4251-43ab-8d47-0aaeff26ddb3",
     accessibility_white_text:"",
     accessibility_black_text:""
   }
   */ }
 body.dark .Calcite_Purple_a150 {
-  background-color: #cccccc;
+  background-color: #927acc;
   /*
    {
   Hex:"#CCCCCC",
   RGB:"r204 g204 b204",
-    guid:"",
+    guid:"dd3debdb-695d-4573-ad3f-7b2c1c4bf4c0",
     accessibility_white_text:"",
     accessibility_black_text:""
   }
   */ }
 body.dark .Calcite_Purple_a200 {
-  background-color: #cccccc;
+  background-color: #9b87d9;
   /*
    {
   Hex:"#CCCCCC",
   RGB:"r204 g204 b204",
-    guid:"",
+    guid:"63bb3eb0-0afb-414e-989a-eb767edfe051",
     accessibility_white_text:"",
     accessibility_black_text:""
   }
   */ }
 body.dark .Calcite_Purple_a250 {
-  background-color: #cccccc;
+  background-color: #a393d1;
   /*
    {
   Hex:"#CCCCCC",
   RGB:"r204 g204 b204",
-    guid:"",
+    guid:"996dbe04-551d-42c5-ac48-c8d332a08fc5",
     accessibility_white_text:"",
     accessibility_black_text:""
   }
@@ -2208,7 +2208,7 @@ body.dark .Calcite_Brown_100 {
    {
   Hex:"#4A331C",
   RGB:"r74 g51 b28",
-    guid:"",
+    guid:"e1be3ec0-54a0-4743-bf47-abc26731417e",
     accessibility_white_text:"AAaa",
     accessibility_black_text:""
   }
@@ -2219,7 +2219,7 @@ body.dark .Calcite_Brown_150 {
    {
   Hex:"#66431E",
   RGB:"r102 g67 b30",
-    guid:"",
+    guid:"61f29613-6817-4852-8bde-a70fc4cd0276",
     accessibility_white_text:"AAaa",
     accessibility_black_text:""
   }
@@ -2230,7 +2230,7 @@ body.dark .Calcite_Brown_200 {
    {
   Hex:"#8B5D2A",
   RGB:"r139 g93 b42",
-    guid:"",
+    guid:"b6d25db6-455a-4603-aae0-2727b1999aa2",
     accessibility_white_text:"AAaa",
     accessibility_black_text:"AA"
   }
@@ -2241,51 +2241,51 @@ body.dark .Calcite_Brown_250 {
    {
   Hex:"#A56F31",
   RGB:"r65 g111 b49",
-    guid:"",
+    guid:"e6f939eb-ae27-4437-92cf-06473463e65d",
     accessibility_white_text:"AA",
     accessibility_black_text:"AAaa"
   }
   */ }
 body.dark .Calcite_Brown_a100 {
-  background-color: #cccccc;
+  background-color: #b37936;
   /*
    {
   Hex:"#CCCCCC",
   RGB:"r204 g204 b204",
-    guid:"",
+    guid:"1999a103-35ca-4b80-8a67-d3cbeca8225c",
     accessibility_white_text:"",
     accessibility_black_text:""
   }
   */ }
 body.dark .Calcite_Brown_a150 {
-  background-color: #cccccc;
+  background-color: #cc8a3d;
   /*
    {
   Hex:"#CCCCCC",
   RGB:"r204 g204 b204",
-    guid:"",
+    guid:"fa114b3d-2ce1-4d1d-b0b2-a1743dda8f88",
     accessibility_white_text:"",
     accessibility_black_text:""
   }
   */ }
 body.dark .Calcite_Brown_a200 {
-  background-color: #cccccc;
+  background-color: #d9974c;
   /*
    {
   Hex:"#CCCCCC",
   RGB:"r204 g204 b204",
-    guid:"",
+    guid:"3bdc321f-a3ca-4b74-8bc6-d7ad4afb0ae5",
     accessibility_white_text:"",
     accessibility_black_text:""
   }
   */ }
 body.dark .Calcite_Brown_a250 {
-  background-color: #cccccc;
+  background-color: #dea664;
   /*
    {
   Hex:"#CCCCCC",
   RGB:"r204 g204 b204",
-    guid:"",
+    guid:"2fe3c649-8ff6-4196-bb16-6a08317ebdfd",
     accessibility_white_text:"",
     accessibility_black_text:""
   }
@@ -2297,7 +2297,7 @@ body.dark .Calcite_Gray_050 {
    {
   Hex:"#232323",
   RGB:"r35 g35 b35",
-  guid:" ",
+  guid:"e6e0234a-c28d-4edd-a7d0-b40b4605bdfc",
   accessibility_white_text:"AAaa",
   accessibility_black_text:""
   }
@@ -2308,7 +2308,7 @@ body.dark .Calcite_Gray_100 {
    {
   Hex:"#323232",
   RGB:"r50 g50 b50",
-  guid:" ",
+  guid:"b60836ad-9cef-4ade-8523-19235537650a",
   accessibility_white_text:"AAaa",
   accessibility_black_text:""
   }
@@ -2319,7 +2319,7 @@ body.dark .Calcite_Gray_150 {
    {
   Hex:"#353535",
   RGB:"r53 g53 b53",
-  guid:" ",
+  guid:"3432c105-8cdb-4907-8963-faf75c927f03",
   accessibility_white_text:"AAaa",
   accessibility_black_text:""
   }
@@ -2330,7 +2330,7 @@ body.dark .Calcite_Gray_200 {
    {
   Hex:"#3F3F3F",
   RGB:"r63 g63 b63",
-  guid:" ",
+  guid:"b84bf4f6-1cae-459b-930a-5f5fcc0814d9",
   accessibility_white_text:"AAaa",
   accessibility_black_text:""
   }
@@ -2341,7 +2341,7 @@ body.dark .Calcite_Gray_250 {
    {
   Hex:"#474747",
   RGB:"r71 g71 b71",
-  guid:" ",
+  guid:"a55c42af-16f0-49d3-be7e-e104a373823a",
   accessibility_white_text:"AAaa",
   accessibility_black_text:""
   }
@@ -2352,7 +2352,7 @@ body.dark .Calcite_Gray_300 {
    {
   Hex:"#4C4C4C",
   RGB:"r76 g76 b76",
-  guid:" ",
+  guid:"5a10d414-5c14-47f9-9f35-0c3eadfc0066",
   accessibility_white_text:"AAaa",
   accessibility_black_text:""
   }
@@ -2363,7 +2363,7 @@ body.dark .Calcite_Gray_350 {
    {
   Hex:"#5B5B5B",
   RGB:"r91 g91 b91",
-  guid:" ",
+  guid:"9d182d36-1287-4045-a30c-c4b41136e8ce",
   accessibility_white_text:"AAaa",
   accessibility_black_text:"AA"
   }
@@ -2374,7 +2374,7 @@ body.dark .Calcite_Gray_400 {
    {
   Hex:"#656565",
   RGB:"r101 g101 b101",
-  guid:" ",
+  guid:"363105b0-331d-45fc-84a2-7a3f78ad9147",
   accessibility_white_text:"AAaa",
   accessibility_black_text:"AA"
   }
@@ -2385,7 +2385,7 @@ body.dark .Calcite_Gray_450 {
    {
   Hex:"#777777",
   RGB:"r119 g119 b119",
-  guid:" ",
+  guid:"88be1c15-6196-4fe6-ab22-a68c85f73906",
   accessibility_white_text:"AA",
   accessibility_black_text:"AAaa"
   }
@@ -2396,7 +2396,7 @@ body.dark .Calcite_Gray_500 {
    {
   Hex:"#898989",
   RGB:"r137 g137 b137",
-  guid:" ",
+  guid:"83e3bd4a-d5ef-4138-b154-fadfd814b68b",
   accessibility_white_text:"AA",
   accessibility_black_text:"AAaa"
   }
@@ -2407,7 +2407,7 @@ body.dark .Calcite_Gray_550 {
    {
   Hex:"#9E9E9E",
   RGB:"r158 g158 b158",
-  guid:" ",
+  guid:"1797e19d-e393-46b9-8060-1fa22d0cf09a",
   accessibility_white_text:"",
   accessibility_black_text:"AAaa"
   }
@@ -2418,7 +2418,7 @@ body.dark .Calcite_Gray_600 {
    {
   Hex:"#ADADAD",
   RGB:"r173 g173 b173",
-  guid:" ",
+  guid:"23a8cfb8-5e9d-4571-8766-d4a8462b60f1",
   accessibility_white_text:"",
   accessibility_black_text:"AAaa"
   }
@@ -2429,7 +2429,7 @@ body.dark .Calcite_Gray_650 {
    {
   Hex:"#BCBCBC",
   RGB:"r188 g188 b188",
-  guid:" ",
+  guid:"c29b67a2-9131-49d5-ab80-3ee85860cc7b",
   accessibility_white_text:"",
   accessibility_black_text:"AAaa"
   }
@@ -2440,7 +2440,7 @@ body.dark .Calcite_Gray_700 {
    {
   Hex:"#D1D1D1",
   RGB:"r209 g209 b209",
-  guid:" ",
+  guid:"cc981671-db23-4d82-89b7-58e591931755",
   accessibility_white_text:"",
   accessibility_black_text:"AAaa"
   }
@@ -2452,7 +2452,7 @@ body.dark .Calcite_Highlight_Blue_100 {
    {
   Hex:"#284965",
   RGB:"r40 g73 b101",
-  guid:" ",
+  guid:"9d9b40c8-bcf8-4daf-bc2e-cda7a945dbfe",
   accessibility_white_text:"AAaa",
   accessibility_black_text:""
   }
@@ -2463,7 +2463,7 @@ body.dark .Calcite_Highlight_Blue_150 {
    {
   Hex:"#3C6D98",
   RGB:"r60 g109 b152",
-  guid:" ",
+  guid:"abff3827-47ce-48cd-ad38-3fdd15fdf403",
   accessibility_white_text:"AAaa",
   accessibility_black_text:"AA"
   }
@@ -2474,7 +2474,7 @@ body.dark .Calcite_Highlight_Blue_200 {
    {
   Hex:"#1061A5",
   RGB:"r16 g97 b165",
-  guid:" ",
+  guid:"7eb5c97a-acb0-402c-9144-efebee945178",
   accessibility_white_text:"AAaa",
   accessibility_black_text:"AA"
   }
@@ -2485,7 +2485,7 @@ body.dark .Calcite_Highlight_Blue_250 {
    {
   Hex:"#136FBF",
   RGB:"r19 g111 b191",
-  guid:" ",
+  guid:"0cb9beea-9b8c-4c65-9248-4a5b18531fba",
   accessibility_white_text:"AAaa",
   accessibility_black_text:"AA"
   }
@@ -2496,7 +2496,7 @@ body.dark .Calcite_Highlight_Blue_300 {
    {
   Hex:"#80BCE0",
   RGB:"r128 g188 b224",
-  guid:" ",
+  guid:"38f2919c-06ad-460a-8b0c-0a744db64124",
   accessibility_white_text:"AA",
   accessibility_black_text:"AAaa"
   }
@@ -2507,7 +2507,7 @@ body.dark .Calcite_Highlight_Blue_350 {
    {
   Hex:"#2493F2",
   RGB:"r36 g147 b242",
-  guid:" ",
+  guid:"2ca7fdf2-ec0c-476d-87a9-9f380f87e8e0",
   accessibility_white_text:"AA",
   accessibility_black_text:"AAaa"
   }
@@ -2518,86 +2518,86 @@ body.dark .Calcite_Highlight_Blue_400 {
    {
   Hex:"#3FA6FF",
   RGB:"r63 g166 b255",
-  guid:" ",
+  guid:"0e23bbec-ea9a-4141-8ff5-85eff51dcd02",
   accessibility_white_text:"",
   accessibility_black_text:"AAaa"
   }
   */ }
 body.dark .Calcite_Highlight_Green_100 {
-  background-color: #cccccc;
+  background-color: #1f581f;
   /*
    {
-  Hex:"#CCCCCC",
-  RGB:"r208 g238 b205",
-  guid:" ",
-  accessibility_white_text:"",
-  accessibility_black_text:""
+  Hex:"#1f581f",
+  RGB:"r31 g88 b31",
+  guid:"7afcbda4-d694-4058-84ba-3f088eea4e7c",
+  accessibility_white_text:"AAaa",
+  accessibility_black_text:"AA"
   }
   */ }
 body.dark .Calcite_Highlight_Green_150 {
-  background-color: #cccccc;
+  background-color: #468b46;
   /*
    {
-  Hex:"#CCCCCC",
-  RGB:"r177 g227 b177",
-  guid:" ",
-  accessibility_white_text:"",
-  accessibility_black_text:""
+  Hex:"#468b46",
+  RGB:"r70 g139 b70",
+  guid:"434a4524-83a7-44e4-abbf-2b0e138deff3",
+  accessibility_white_text:"AA",
+  accessibility_black_text:"AAaa"
   }
   */ }
 body.dark .Calcite_Highlight_Green_200 {
-  background-color: #cccccc;
+  background-color: #247924;
   /*
    {
-  Hex:"#CCCCCC",
-  RGB:"r151 g207 b151",
-  guid:" ",
-  accessibility_white_text:"",
-  accessibility_black_text:""
+  Hex:"#247924",
+  RGB:"r36 g121 b36",
+  guid:"c631a293-e5f6-46bf-973b-979c870239f7",
+  accessibility_white_text:"AAaa",
+  accessibility_black_text:"AA"
   }
   */ }
 body.dark .Calcite_Highlight_Green_250 {
-  background-color: #cccccc;
+  background-color: #298b29;
   /*
    {
-  Hex:"#CCCCCC",
-  RGB:"r126 g194 b126",
-  guid:" ",
-  accessibility_white_text:"",
-  accessibility_black_text:""
+  Hex:"#298b29",
+  RGB:"r41 g139 b41",
+  guid:"fb0fa22b-7ef8-4658-9c13-b657587aacbf",
+  accessibility_white_text:"AA",
+  accessibility_black_text:"AAaa"
   }
   */ }
 body.dark .Calcite_Highlight_Green_300 {
-  background-color: #cccccc;
+  background-color: #30a230;
   /*
    {
-  Hex:"#CCCCCC",
-  RGB:"r124 g186 b117",
-  guid:" ",
-  accessibility_white_text:"",
-  accessibility_black_text:""
+  Hex:"#30a230",
+  RGB:"r48 g162 b48",
+  guid:"326cee71-a89f-4d7c-8eaa-3089d1587f40",
+  accessibility_white_text:"AA",
+  accessibility_black_text:"AAaa"
   }
   */ }
 body.dark .Calcite_Highlight_Green_350 {
-  background-color: #cccccc;
+  background-color: #33ac33;
   /*
    {
-  Hex:"#CCCCCC",
-  RGB:"r49 g135 b46",
-  guid:" ",
+  Hex:"#33ac33",
+  RGB:"r51 g172 b51",
+  guid:"75d53b8a-d9e6-42e4-87f8-b8c0e6b14b04",
   accessibility_white_text:"",
-  accessibility_black_text:""
+  accessibility_black_text:"AAaa"
   }
   */ }
 body.dark .Calcite_Highlight_Green_400 {
-  background-color: #cccccc;
+  background-color: #38be38;
   /*
    {
-  Hex:"#CCCCCC",
-  RGB:"r44 g99 b44",
-  guid:" ",
+  Hex:"#38be38",
+  RGB:"r56 g190 b56",
+  guid:"63b45775-fd77-49b8-a86b-a8fdd0b24d14",
   accessibility_white_text:"",
-  accessibility_black_text:""
+  accessibility_black_text:"AAaa"
   }
   */ }
 
@@ -2607,7 +2607,7 @@ body.dark .Calcite_Vibrant_Blue_100 {
    {
   Hex:"#1275BE",
   RGB:"r18 g117 b190",
-  guid:" ",
+  guid:"cd7d5208-4b1d-4ded-a32c-d255f3abb3a7",
   accessibility_white_text:"AAaa",
   accessibility_black_text:"AA"
   }
@@ -2618,7 +2618,7 @@ body.dark .Calcite_Vibrant_Blue_150 {
    {
   Hex:"#0088EF",
   RGB:"r0 g136 b239",
-  guid:" ",
+  guid:"9d362f4a-4df1-4912-93fe-6ba8a5811b36",
   accessibility_white_text:"AA",
   accessibility_black_text:"AAaa"
   }
@@ -2629,7 +2629,7 @@ body.dark .Calcite_Vibrant_Blue_200 {
    {
   Hex:"#00BFEF",
   RGB:"r0 g191 b239",
-  guid:" ",
+  guid:"0de86406-710c-4887-9712-e12a7dfa0362",
   accessibility_white_text:"",
   accessibility_black_text:"AAaa"
   }
@@ -2640,7 +2640,7 @@ body.dark .Calcite_Vibrant_Blue_250 {
    {
   Hex:"#00B4BC",
   RGB:"r0 g180 b188",
-  guid:" ",
+  guid:"80bd24b8-df54-4d1a-8ebb-26e834eefd63",
   accessibility_white_text:"",
   accessibility_black_text:"AAaa"
   }
@@ -2651,7 +2651,7 @@ body.dark .Calcite_Vibrant_Yellow_100 {
    {
   Hex:"#917B00",
   RGB:"r145 g123 b0",
-  guid:" ",
+  guid:"1f92d8db-ac14-40c1-83d0-1d5db3b17548",
   accessibility_white_text:"AA",
   accessibility_black_text:"AAaa"
   }
@@ -2662,7 +2662,7 @@ body.dark .Calcite_Vibrant_Yellow_150 {
    {
   Hex:"#C7A900",
   RGB:"r199 g169 b0",
-  guid:" ",
+  guid:"0c11a9d9-54d7-4844-a66a-aa957b72b435",
   accessibility_white_text:"",
   accessibility_black_text:"AAaa"
   }
@@ -2673,7 +2673,7 @@ body.dark .Calcite_Vibrant_Yellow_200 {
    {
   Hex:"#FFD800",
   RGB:"r255 g216 b0",
-  guid:" ",
+  guid:"ef5dd2fc-2972-498e-9f03-9a55922bb597",
   accessibility_white_text:"",
   accessibility_black_text:"AAaa"
   }
@@ -2684,7 +2684,7 @@ body.dark .Calcite_Vibrant_Orange_100 {
    {
     Hex:"#A05500",
   RGB:"r160 g85 b0",
-  guid:" ",
+  guid:"71388981-779b-4fa2-b373-c98a7c8dd9e2",
   accessibility_white_text:"AAaa",
   accessibility_black_text:"AA"
   }
@@ -2695,7 +2695,7 @@ body.dark .Calcite_Vibrant_Orange_150 {
    {
   Hex:"#CE7C1E",
   RGB:"r206 g124 b30",
-  guid:" ",
+  guid:"e1008f42-2e5f-495f-a7ec-e69eb4dafb18",
   accessibility_white_text:"AA",
   accessibility_black_text:"AAaa"
   }
@@ -2706,7 +2706,7 @@ body.dark .Calcite_Vibrant_Orange_200 {
    {
   Hex:"#FFC314",
   RGB:"r255 g195 b20",
-  guid:" ",
+  guid:"1d148e0c-418d-43f2-9e01-9994606cde2e",
   accessibility_white_text:"",
   accessibility_black_text:"AAaa"
   }
@@ -2717,7 +2717,7 @@ body.dark .Calcite_Vibrant_Green_100 {
    {
   Hex:"#376E37",
   RGB:"r55 g110 b55",
-  guid:" ",
+  guid:"ea2bead1-e919-4684-a4ae-66b6be54dd32",
   accessibility_white_text:"AAaa",
   accessibility_black_text:"AA"
   }
@@ -2728,7 +2728,7 @@ body.dark .Calcite_Vibrant_Green_150 {
    {
   Hex:"#58D051",
   RGB:"r88 g208 b81",
-  guid:" ",
+  guid:"34de12dc-c22a-4f9a-9d36-9efb45cff4c6",
   accessibility_white_text:"",
   accessibility_black_text:"AAaa"
   }
@@ -2739,7 +2739,7 @@ body.dark .Calcite_Vibrant_Green_200 {
    {
   Hex:"#A4E700",
   RGB:"r164 g231 b0",
-  guid:" ",
+  guid:"8959874c-3160-40b1-a9cc-bfdc7800b520",
   accessibility_white_text:"",
   accessibility_black_text:"AAaa"
   }
@@ -2750,7 +2750,7 @@ body.dark .Calcite_Vibrant_Red_100 {
    {
   Hex:"#741C00",
   RGB:"r116 g28 b0",
-  guid:" ",
+  guid:"ccf3b82c-1feb-4951-8059-2b0c5ddda49a",
   accessibility_white_text:"AAaa",
   accessibility_black_text:""
   }
@@ -2761,7 +2761,7 @@ body.dark .Calcite_Vibrant_Red_150 {
    {
   Hex:"#983415",
   RGB:"r152 g52 b21",
-  guid:" ",
+  guid:"be7392cc-0de9-4741-9f65-0f1bc65baac1",
   accessibility_white_text:"AAaa",
   accessibility_black_text:""
   }
@@ -2772,7 +2772,7 @@ body.dark .Calcite_Vibrant_Red_200 {
    {
   Hex:"#E55B2D",
   RGB:"r229 g91 b45",
-  guid:" ",
+  guid:"b874b8ed-3493-4a6d-913a-d7d00801f893",
   accessibility_white_text:"AA",
   accessibility_black_text:"AAaa"
   }
@@ -2783,7 +2783,7 @@ body.dark .Calcite_Vibrant_Purple_100 {
    {
   Hex:"#4F3590",
   RGB:"r79 g53 b144",
-  guid:" ",
+  guid:"beb0f9ad-3d3a-4231-89b4-344ed3567802",
   accessibility_white_text:"AAaa",
   accessibility_black_text:""
   }
@@ -2794,7 +2794,7 @@ body.dark .Calcite_Vibrant_Purple_150 {
    {
   Hex:"#744ED3",
   RGB:"r116 g78 b211",
-  guid:" ",
+  guid:"fb718f2f-104d-4299-adae-a39165c2c90a",
   accessibility_white_text:"AAaa",
   accessibility_black_text:"AA"
   }
@@ -2805,7 +2805,7 @@ body.dark .Calcite_Vibrant_Purple_200 {
    {
   Hex:"#9A4AA5",
   RGB:"r154 g74 b65",
-  guid:" ",
+  guid:"b5863254-85f6-479b-aa78-2c35796a6365",
   accessibility_white_text:"AAaa",
   accessibility_black_text:"AA"
   }
@@ -2816,7 +2816,7 @@ body.dark .Calcite_Vibrant_Brown_100 {
    {
   Hex:"#663C0F",
   RGB:"r102 g60 b15",
-  guid:" ",
+  guid:"d6abdd92-ea9d-4d39-9190-4d1ab1c6e81c",
   accessibility_white_text:"AAaa",
   accessibility_black_text:""
   }
@@ -2827,7 +2827,7 @@ body.dark .Calcite_Vibrant_Brown_150 {
    {
   Hex:"#985C17",
   RGB:"r152 g92 b23",
-  guid:" ",
+  guid:"024d248d-7fff-4a37-afae-d715bae79065",
   accessibility_white_text:"AAaa",
   accessibility_black_text:"AA"
   }
@@ -2838,7 +2838,7 @@ body.dark .Calcite_Vibrant_Brown_200 {
    {
   Hex:"#D38B38",
   RGB:"r211 g139 b56",
-  guid:" ",
+  guid:"8e60415c-3325-40b8-9dee-37eb5d53be08",
   accessibility_white_text:"",
   accessibility_black_text:"AAaa"
   }
