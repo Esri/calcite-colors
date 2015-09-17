@@ -74,7 +74,7 @@ $Calcite_Red_a100: 	     #d15226;
 $Calcite_Red_a150: 	     #d65d33;
 $Calcite_Red_a200: 	     #e36a40;
 $Calcite_Red_a250: 	     #eb7953;
-$Calcite_Purple_100: 	 #3e6554;
+$Calcite_Purple_100: 	 #3e3654;
 $Calcite_Purple_150: 	 #4c3e6e;
 $Calcite_Purple_200: 	 #61518c;
 $Calcite_Purple_250: 	 #8070aa;
@@ -92,59 +92,59 @@ $Calcite_Brown_a200: 	 #d9974c;
 $Calcite_Brown_a250: 	 #dea664;
 
 // Calcite Gray Colors Dark
-$Calcite_Gray_050:   #ffffff;  // 86%
-$Calcite_Gray_100: 	 #f8f8f8;  // 80%
-$Calcite_Gray_150: 	 #f4f4f4;  // 79%
-$Calcite_Gray_200: 	 #efefef;  // 75%
-$Calcite_Gray_250: 	 #e7e7e7;  // 72%
-$Calcite_Gray_300: 	 #e0e0e0;  // 70%
-$Calcite_Gray_350: 	 #cccccc;  // 64%
-$Calcite_Gray_400: 	 #a9a9a9;  // 60%
-$Calcite_Gray_450: 	 #959595;  // 53%
-$Calcite_Gray_500: 	 #828282;  // 46%
-$Calcite_Gray_550: 	 #6e6e6e;  // 38%
-$Calcite_Gray_600: 	 #595959;  // 32%
-$Calcite_Gray_650: 	 #4c4c4c;  // 26%
-$Calcite_Gray_700: 	 #323232;  // 18%
+$Calcite_Gray_050:   #242424;  // 86%
+$Calcite_Gray_100: 	 #333333;  // 80%
+$Calcite_Gray_150: 	 #363636;  // 79%
+$Calcite_Gray_200: 	 #404040;  // 75%
+$Calcite_Gray_250: 	 #474747;  // 72%
+$Calcite_Gray_300: 	 #4c4c4c;  // 70%
+$Calcite_Gray_350: 	 #5c5c5c;  // 64%
+$Calcite_Gray_400: 	 #666666;  // 60%
+$Calcite_Gray_450: 	 #787878;  // 53%
+$Calcite_Gray_500: 	 #8a8a8a;  // 46%
+$Calcite_Gray_550: 	 #9e9e9e;  // 38%
+$Calcite_Gray_600: 	 #adadad;  // 32%
+$Calcite_Gray_650: 	 #bdbdbd;  // 26%
+$Calcite_Gray_700: 	 #d1d1d1;  // 18%
 
 // Calcite Hightlight Color Dark
-$Calcite_Highlight_Blue_100:     #e2f1fb; // hovered
-$Calcite_Highlight_Blue_150:     #c5e5f9; // hovered & selected
-$Calcite_Highlight_Blue_200:     #aadbfa; // selected (toggled)
-$Calcite_Highlight_Blue_250:     #90cdf2; // pressed
-$Calcite_Highlight_Blue_300:     #80bce0; // border on hover
-$Calcite_Highlight_Blue_350:     #0079c1; // active
-$Calcite_Highlight_Blue_400:     #005e95; // active accent
-$Calcite_Highlight_Green_100:    #1f581f; // hovered
-$Calcite_Highlight_Green_150:    #468b46; // hovered & selected
-$Calcite_Highlight_Green_200:    #247924; // selected (toggled)
-$Calcite_Highlight_Green_250:    #298b29; // pressed
-$Calcite_Highlight_Green_300:    #30a230; // border on hover
-$Calcite_Highlight_Green_350:    #33ac33; // active
-$Calcite_Highlight_Green_400:    #38be38; // active accent
+$Calcite_Highlight_Blue_100:     #294a66; // hovered
+$Calcite_Highlight_Blue_150:     #3d6e99; // hovered & selected
+$Calcite_Highlight_Blue_200:     #1061a6; // selected (toggled)
+$Calcite_Highlight_Blue_250:     #136fbf; // pressed
+$Calcite_Highlight_Blue_300:     #2183d9; // border on hover
+$Calcite_Highlight_Blue_350:     #2493f2; // active
+$Calcite_Highlight_Blue_400:     #40a7ff; // active accent
+$Calcite_Highlight_Green_100:    #205920; // hovered
+$Calcite_Highlight_Green_150:    #478c47; // hovered & selected
+$Calcite_Highlight_Green_200:    #257a25; // selected (toggled)
+$Calcite_Highlight_Green_250:    #2a8c2a; // pressed
+$Calcite_Highlight_Green_300:    #31a331; // border on hover
+$Calcite_Highlight_Green_350:    #34ad34; // active
+$Calcite_Highlight_Green_400:    #39bf39; // active accent
 
 //Calcite Vibrant Colors Dark
 // For all Calcite Vibrant colors -- they should comprise <10% of the image area. Only use if additional contrast is needed.
-$Calcite_Vibrant_Blue_100:       #c7e9ff;
-$Calcite_Vibrant_Blue_150:       #69dcff;
-$Calcite_Vibrant_Blue_200:       #00dee7;
-$Calcite_Vibrant_Blue_250:       #b3e9f9; // only use inside icons, to show "selection"
-$Calcite_Vibrant_Yellow_100:     #ffefb7;
-$Calcite_Vibrant_Yellow_150:     #fad817;
-$Calcite_Vibrant_Yellow_200:     #fff000;
-$Calcite_Vibrant_Orange_100:     #ffdab6;
-$Calcite_Vibrant_Orange_150:     #ffbc6b;
-$Calcite_Vibrant_Orange_200:     #ffcc00;
-$Calcite_Vibrant_Green_100:      #daffd9;
-$Calcite_Vibrant_Green_150:      #71de6e;
-$Calcite_Vibrant_Green_200:      #a5e800;
-$Calcite_Vibrant_Red_100:        #ffc0b3;
-$Calcite_Vibrant_Red_150:        #ff642e;
-$Calcite_Vibrant_Red_200:        #de2900;
-$Calcite_Vibrant_Purple_100:     #daccff;
-$Calcite_Vibrant_Purple_150:     #b096ff;
-$Calcite_Vibrant_Purple_200:     #f185ff;
-$Calcite_Vibrant_Brown_100:      #ffdbb3;
-$Calcite_Vibrant_Brown_150:      #db8d2f;
-$Calcite_Vibrant_Brown_200:      #ffbc6b;
+$Calcite_Vibrant_Blue_100:       #1376bf;
+$Calcite_Vibrant_Blue_150:       #0089f0;
+$Calcite_Vibrant_Blue_200:       #00c0f0;
+$Calcite_Vibrant_Blue_250:       #00b5b9; // only use inside icons, to show "selection"
+$Calcite_Vibrant_Yellow_100:     #917b00;
+$Calcite_Vibrant_Yellow_150:     #c7a900;
+$Calcite_Vibrant_Yellow_200:     #ffd800;
+$Calcite_Vibrant_Orange_100:     #a15600;
+$Calcite_Vibrant_Orange_150:     #cf7d1f;
+$Calcite_Vibrant_Orange_200:     #ffc415;
+$Calcite_Vibrant_Green_100:      #386f38;
+$Calcite_Vibrant_Green_150:      #59d152;
+$Calcite_Vibrant_Green_200:      #85e800;
+$Calcite_Vibrant_Red_100:        #751d00;
+$Calcite_Vibrant_Red_150:        #993516;
+$Calcite_Vibrant_Red_200:        #e65c2e;
+$Calcite_Vibrant_Purple_100:     #503691;
+$Calcite_Vibrant_Purple_150:     #754fd4;
+$Calcite_Vibrant_Purple_200:     #9b4ba6;
+$Calcite_Vibrant_Brown_100:      #673d10;
+$Calcite_Vibrant_Brown_150:      #995d18;
+$Calcite_Vibrant_Brown_200:      #df8c39;
 

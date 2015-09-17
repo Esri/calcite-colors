@@ -1675,7 +1675,7 @@ tags: "Calcite Highlight,Calcite"
   */ }
 
 body.dark .Calcite_Blue_100 {
-  background-color: #d2e9f9;
+  background-color: #1a4866;
   /*
    {
   Hex:"#194765",
@@ -1686,7 +1686,7 @@ body.dark .Calcite_Blue_100 {
   }
   */ }
 body.dark .Calcite_Blue_150 {
-  background-color: #bcdaed;
+  background-color: #1d5d8c;
   /*
    {
   Hex:"#1C5C8B",
@@ -1697,7 +1697,7 @@ body.dark .Calcite_Blue_150 {
   }
   */ }
 body.dark .Calcite_Blue_200 {
-  background-color: #6cb4e2;
+  background-color: #3b8fc3;
   /*
    {
   Hex:"#3A8EC2",
@@ -1708,7 +1708,7 @@ body.dark .Calcite_Blue_200 {
   }
   */ }
 body.dark .Calcite_Blue_250 {
-  background-color: #56a5d8;
+  background-color: #419ed9;
   /*
    {
   Hex:"#409DD8",
@@ -1763,7 +1763,7 @@ body.dark .Calcite_Blue_a250 {
   }
   */ }
 body.dark .Calcite_Yellow_100 {
-  background-color: #f3edc7;
+  background-color: #796916;
   /*
    {
   Hex:"#786815",
@@ -1774,7 +1774,7 @@ body.dark .Calcite_Yellow_100 {
   }
   */ }
 body.dark .Calcite_Yellow_150 {
-  background-color: #efe397;
+  background-color: #a28a00;
   /*
    {
   Hex:"#A18900",
@@ -1785,7 +1785,7 @@ body.dark .Calcite_Yellow_150 {
   }
   */ }
 body.dark .Calcite_Yellow_200 {
-  background-color: #e4d154;
+  background-color: #bda727;
   /*
    {
   Hex:"#BCA626",
@@ -1796,7 +1796,7 @@ body.dark .Calcite_Yellow_200 {
   }
   */ }
 body.dark .Calcite_Yellow_250 {
-  background-color: #d8c34b;
+  background-color: #ccb736;
   /*
    {
   Hex:"#CBB635",
@@ -1851,7 +1851,7 @@ body.dark .Calcite_Yellow_a250 {
   }
   */ }
 body.dark .Calcite_Orange_100 {
-  background-color: #fbe1c2;
+  background-color: #754c23;
   /*
    {
   Hex:"#744B22",
@@ -1862,7 +1862,7 @@ body.dark .Calcite_Orange_100 {
   }
   */ }
 body.dark .Calcite_Orange_150 {
-  background-color: #f6ca92;
+  background-color: #a16520;
   /*
    {
   Hex:"#A0641F",
@@ -1873,7 +1873,7 @@ body.dark .Calcite_Orange_150 {
   }
   */ }
 body.dark .Calcite_Orange_200 {
-  background-color: #eda959;
+  background-color: #d18734;
   /*
    {
   Hex:"#D08633",
@@ -1884,7 +1884,7 @@ body.dark .Calcite_Orange_200 {
   }
   */ }
 body.dark .Calcite_Orange_250 {
-  background-color: #e79c47;
+  background-color: #e8963a;
   /*
    {
   Hex:"#E79539",
@@ -1939,7 +1939,7 @@ body.dark .Calcite_Orange_a250 {
   }
   */ }
 body.dark .Calcite_Green_100 {
-  background-color: #ddeedb;
+  background-color: #295429;
   /*
    {
   Hex:"#285328",
@@ -1950,7 +1950,7 @@ body.dark .Calcite_Green_100 {
   }
   */ }
 body.dark .Calcite_Green_150 {
-  background-color: #9bc19c;
+  background-color: #386f38;
   /*
    {
   Hex:"#376E37",
@@ -1961,7 +1961,7 @@ body.dark .Calcite_Green_150 {
   }
   */ }
 body.dark .Calcite_Green_200 {
-  background-color: #67a966;
+  background-color: #4b944a;
   /*
    {
   Hex:"#4A9349",
@@ -1972,7 +1972,7 @@ body.dark .Calcite_Green_200 {
   }
   */ }
 body.dark .Calcite_Green_250 {
-  background-color: #5a9359;
+  background-color: #58ad57;
   /*
    {
   Hex:"#57AC56",
@@ -2027,7 +2027,7 @@ body.dark .Calcite_Green_a250 {
   }
   */ }
 body.dark .Calcite_Red_100 {
-  background-color: #f3ded7;
+  background-color: #632822;
   /*
    {
   Hex:"#622721",
@@ -2038,7 +2038,7 @@ body.dark .Calcite_Red_100 {
   }
   */ }
 body.dark .Calcite_Red_150 {
-  background-color: #e4a793;
+  background-color: #853218;
   /*
    {
   Hex:"#843117",
@@ -2049,7 +2049,7 @@ body.dark .Calcite_Red_150 {
   }
   */ }
 body.dark .Calcite_Red_200 {
-  background-color: #c86a4a;
+  background-color: #ab421f;
   /*
    {
   Hex:"#AA411E",
@@ -2060,7 +2060,7 @@ body.dark .Calcite_Red_200 {
   }
   */ }
 body.dark .Calcite_Red_250 {
-  background-color: #c6542d;
+  background-color: #c75028;
   /*
    {
   Hex:"#C64F27",
@@ -2115,7 +2115,7 @@ body.dark .Calcite_Red_a250 {
   }
   */ }
 body.dark .Calcite_Purple_100 {
-  background-color: #e5e1ef;
+  background-color: #3e3654;
   /*
    {
   Hex:"#3D3553",
@@ -2126,7 +2126,7 @@ body.dark .Calcite_Purple_100 {
   }
   */ }
 body.dark .Calcite_Purple_150 {
-  background-color: #c4bcdc;
+  background-color: #4c3e6e;
   /*
    {
   Hex:"#4B3D6D",
@@ -2137,7 +2137,7 @@ body.dark .Calcite_Purple_150 {
   }
   */ }
 body.dark .Calcite_Purple_200 {
-  background-color: #9081bc;
+  background-color: #61518c;
   /*
    {
   Hex:"#60508B",
@@ -2148,7 +2148,7 @@ body.dark .Calcite_Purple_200 {
   }
   */ }
 body.dark .Calcite_Purple_250 {
-  background-color: #7b6ca7;
+  background-color: #8070aa;
   /*
    {
   Hex:"#7F6FA9",
@@ -2203,7 +2203,7 @@ body.dark .Calcite_Purple_a250 {
   }
   */ }
 body.dark .Calcite_Brown_100 {
-  background-color: #e8ddd3;
+  background-color: #4b341d;
   /*
    {
   Hex:"#4A331C",
@@ -2214,7 +2214,7 @@ body.dark .Calcite_Brown_100 {
   }
   */ }
 body.dark .Calcite_Brown_150 {
-  background-color: #d2b38f;
+  background-color: #67441f;
   /*
    {
   Hex:"#66431E",
@@ -2225,7 +2225,7 @@ body.dark .Calcite_Brown_150 {
   }
   */ }
 body.dark .Calcite_Brown_200 {
-  background-color: #b78a54;
+  background-color: #8c5e2b;
   /*
    {
   Hex:"#8B5D2A",
@@ -2236,7 +2236,7 @@ body.dark .Calcite_Brown_200 {
   }
   */ }
 body.dark .Calcite_Brown_250 {
-  background-color: #a57946;
+  background-color: #a67032;
   /*
    {
   Hex:"#A56F31",
@@ -2292,7 +2292,7 @@ body.dark .Calcite_Brown_a250 {
   */ }
 
 body.dark .Calcite_Gray_050 {
-  background-color: #ffffff;
+  background-color: #242424;
   /*
    {
   Hex:"#232323",
@@ -2303,7 +2303,7 @@ body.dark .Calcite_Gray_050 {
   }
   */ }
 body.dark .Calcite_Gray_100 {
-  background-color: #f8f8f8;
+  background-color: #333333;
   /*
    {
   Hex:"#323232",
@@ -2314,7 +2314,7 @@ body.dark .Calcite_Gray_100 {
   }
   */ }
 body.dark .Calcite_Gray_150 {
-  background-color: #f4f4f4;
+  background-color: #363636;
   /*
    {
   Hex:"#353535",
@@ -2325,7 +2325,7 @@ body.dark .Calcite_Gray_150 {
   }
   */ }
 body.dark .Calcite_Gray_200 {
-  background-color: #efefef;
+  background-color: #404040;
   /*
    {
   Hex:"#3F3F3F",
@@ -2336,7 +2336,7 @@ body.dark .Calcite_Gray_200 {
   }
   */ }
 body.dark .Calcite_Gray_250 {
-  background-color: #e7e7e7;
+  background-color: #474747;
   /*
    {
   Hex:"#474747",
@@ -2347,7 +2347,7 @@ body.dark .Calcite_Gray_250 {
   }
   */ }
 body.dark .Calcite_Gray_300 {
-  background-color: #e0e0e0;
+  background-color: #4c4c4c;
   /*
    {
   Hex:"#4C4C4C",
@@ -2358,7 +2358,7 @@ body.dark .Calcite_Gray_300 {
   }
   */ }
 body.dark .Calcite_Gray_350 {
-  background-color: #cccccc;
+  background-color: #5c5c5c;
   /*
    {
   Hex:"#5B5B5B",
@@ -2369,7 +2369,7 @@ body.dark .Calcite_Gray_350 {
   }
   */ }
 body.dark .Calcite_Gray_400 {
-  background-color: #a9a9a9;
+  background-color: #666666;
   /*
    {
   Hex:"#656565",
@@ -2380,7 +2380,7 @@ body.dark .Calcite_Gray_400 {
   }
   */ }
 body.dark .Calcite_Gray_450 {
-  background-color: #959595;
+  background-color: #787878;
   /*
    {
   Hex:"#777777",
@@ -2391,7 +2391,7 @@ body.dark .Calcite_Gray_450 {
   }
   */ }
 body.dark .Calcite_Gray_500 {
-  background-color: #828282;
+  background-color: #8a8a8a;
   /*
    {
   Hex:"#898989",
@@ -2402,7 +2402,7 @@ body.dark .Calcite_Gray_500 {
   }
   */ }
 body.dark .Calcite_Gray_550 {
-  background-color: #6e6e6e;
+  background-color: #9e9e9e;
   /*
    {
   Hex:"#9E9E9E",
@@ -2413,7 +2413,7 @@ body.dark .Calcite_Gray_550 {
   }
   */ }
 body.dark .Calcite_Gray_600 {
-  background-color: #595959;
+  background-color: #adadad;
   /*
    {
   Hex:"#ADADAD",
@@ -2424,7 +2424,7 @@ body.dark .Calcite_Gray_600 {
   }
   */ }
 body.dark .Calcite_Gray_650 {
-  background-color: #4c4c4c;
+  background-color: #bdbdbd;
   /*
    {
   Hex:"#BCBCBC",
@@ -2435,7 +2435,7 @@ body.dark .Calcite_Gray_650 {
   }
   */ }
 body.dark .Calcite_Gray_700 {
-  background-color: #323232;
+  background-color: #d1d1d1;
   /*
    {
   Hex:"#D1D1D1",
@@ -2447,7 +2447,7 @@ body.dark .Calcite_Gray_700 {
   */ }
 
 body.dark .Calcite_Highlight_Blue_100 {
-  background-color: #e2f1fb;
+  background-color: #294a66;
   /*
    {
   Hex:"#284965",
@@ -2458,7 +2458,7 @@ body.dark .Calcite_Highlight_Blue_100 {
   }
   */ }
 body.dark .Calcite_Highlight_Blue_150 {
-  background-color: #c5e5f9;
+  background-color: #3d6e99;
   /*
    {
   Hex:"#3C6D98",
@@ -2469,7 +2469,7 @@ body.dark .Calcite_Highlight_Blue_150 {
   }
   */ }
 body.dark .Calcite_Highlight_Blue_200 {
-  background-color: #aadbfa;
+  background-color: #1061a6;
   /*
    {
   Hex:"#1061A5",
@@ -2480,7 +2480,7 @@ body.dark .Calcite_Highlight_Blue_200 {
   }
   */ }
 body.dark .Calcite_Highlight_Blue_250 {
-  background-color: #90cdf2;
+  background-color: #136fbf;
   /*
    {
   Hex:"#136FBF",
@@ -2491,7 +2491,7 @@ body.dark .Calcite_Highlight_Blue_250 {
   }
   */ }
 body.dark .Calcite_Highlight_Blue_300 {
-  background-color: #80bce0;
+  background-color: #2183d9;
   /*
    {
   Hex:"#80BCE0",
@@ -2502,7 +2502,7 @@ body.dark .Calcite_Highlight_Blue_300 {
   }
   */ }
 body.dark .Calcite_Highlight_Blue_350 {
-  background-color: #0079c1;
+  background-color: #2493f2;
   /*
    {
   Hex:"#2493F2",
@@ -2513,7 +2513,7 @@ body.dark .Calcite_Highlight_Blue_350 {
   }
   */ }
 body.dark .Calcite_Highlight_Blue_400 {
-  background-color: #005e95;
+  background-color: #40a7ff;
   /*
    {
   Hex:"#3FA6FF",
@@ -2524,7 +2524,7 @@ body.dark .Calcite_Highlight_Blue_400 {
   }
   */ }
 body.dark .Calcite_Highlight_Green_100 {
-  background-color: #1f581f;
+  background-color: #205920;
   /*
    {
   Hex:"#1f581f",
@@ -2535,7 +2535,7 @@ body.dark .Calcite_Highlight_Green_100 {
   }
   */ }
 body.dark .Calcite_Highlight_Green_150 {
-  background-color: #468b46;
+  background-color: #478c47;
   /*
    {
   Hex:"#468b46",
@@ -2546,7 +2546,7 @@ body.dark .Calcite_Highlight_Green_150 {
   }
   */ }
 body.dark .Calcite_Highlight_Green_200 {
-  background-color: #247924;
+  background-color: #257a25;
   /*
    {
   Hex:"#247924",
@@ -2557,7 +2557,7 @@ body.dark .Calcite_Highlight_Green_200 {
   }
   */ }
 body.dark .Calcite_Highlight_Green_250 {
-  background-color: #298b29;
+  background-color: #2a8c2a;
   /*
    {
   Hex:"#298b29",
@@ -2568,7 +2568,7 @@ body.dark .Calcite_Highlight_Green_250 {
   }
   */ }
 body.dark .Calcite_Highlight_Green_300 {
-  background-color: #30a230;
+  background-color: #31a331;
   /*
    {
   Hex:"#30a230",
@@ -2579,7 +2579,7 @@ body.dark .Calcite_Highlight_Green_300 {
   }
   */ }
 body.dark .Calcite_Highlight_Green_350 {
-  background-color: #33ac33;
+  background-color: #34ad34;
   /*
    {
   Hex:"#33ac33",
@@ -2590,7 +2590,7 @@ body.dark .Calcite_Highlight_Green_350 {
   }
   */ }
 body.dark .Calcite_Highlight_Green_400 {
-  background-color: #38be38;
+  background-color: #39bf39;
   /*
    {
   Hex:"#38be38",
@@ -2602,7 +2602,7 @@ body.dark .Calcite_Highlight_Green_400 {
   */ }
 
 body.dark .Calcite_Vibrant_Blue_100 {
-  background-color: #c7e9ff;
+  background-color: #1376bf;
   /*
    {
   Hex:"#1275BE",
@@ -2613,7 +2613,7 @@ body.dark .Calcite_Vibrant_Blue_100 {
   }
   */ }
 body.dark .Calcite_Vibrant_Blue_150 {
-  background-color: #69dcff;
+  background-color: #0089f0;
   /*
    {
   Hex:"#0088EF",
@@ -2624,7 +2624,7 @@ body.dark .Calcite_Vibrant_Blue_150 {
   }
   */ }
 body.dark .Calcite_Vibrant_Blue_200 {
-  background-color: #00dee7;
+  background-color: #00c0f0;
   /*
    {
   Hex:"#00BFEF",
@@ -2635,7 +2635,7 @@ body.dark .Calcite_Vibrant_Blue_200 {
   }
   */ }
 body.dark .Calcite_Vibrant_Blue_250 {
-  background-color: #b3e9f9;
+  background-color: #00b5b9;
   /*
    {
   Hex:"#00B4BC",
@@ -2646,7 +2646,7 @@ body.dark .Calcite_Vibrant_Blue_250 {
   }
   */ }
 body.dark .Calcite_Vibrant_Yellow_100 {
-  background-color: #ffefb7;
+  background-color: #917b00;
   /*
    {
   Hex:"#917B00",
@@ -2657,7 +2657,7 @@ body.dark .Calcite_Vibrant_Yellow_100 {
   }
   */ }
 body.dark .Calcite_Vibrant_Yellow_150 {
-  background-color: #fad817;
+  background-color: #c7a900;
   /*
    {
   Hex:"#C7A900",
@@ -2668,7 +2668,7 @@ body.dark .Calcite_Vibrant_Yellow_150 {
   }
   */ }
 body.dark .Calcite_Vibrant_Yellow_200 {
-  background-color: #fff000;
+  background-color: #ffd800;
   /*
    {
   Hex:"#FFD800",
@@ -2679,7 +2679,7 @@ body.dark .Calcite_Vibrant_Yellow_200 {
   }
   */ }
 body.dark .Calcite_Vibrant_Orange_100 {
-  background-color: #ffdab6;
+  background-color: #a15600;
   /*
    {
     Hex:"#A05500",
@@ -2690,7 +2690,7 @@ body.dark .Calcite_Vibrant_Orange_100 {
   }
   */ }
 body.dark .Calcite_Vibrant_Orange_150 {
-  background-color: #ffbc6b;
+  background-color: #cf7d1f;
   /*
    {
   Hex:"#CE7C1E",
@@ -2701,7 +2701,7 @@ body.dark .Calcite_Vibrant_Orange_150 {
   }
   */ }
 body.dark .Calcite_Vibrant_Orange_200 {
-  background-color: #ffcc00;
+  background-color: #ffc415;
   /*
    {
   Hex:"#FFC314",
@@ -2712,7 +2712,7 @@ body.dark .Calcite_Vibrant_Orange_200 {
   }
   */ }
 body.dark .Calcite_Vibrant_Green_100 {
-  background-color: #daffd9;
+  background-color: #386f38;
   /*
    {
   Hex:"#376E37",
@@ -2723,7 +2723,7 @@ body.dark .Calcite_Vibrant_Green_100 {
   }
   */ }
 body.dark .Calcite_Vibrant_Green_150 {
-  background-color: #71de6e;
+  background-color: #59d152;
   /*
    {
   Hex:"#58D051",
@@ -2734,7 +2734,7 @@ body.dark .Calcite_Vibrant_Green_150 {
   }
   */ }
 body.dark .Calcite_Vibrant_Green_200 {
-  background-color: #a5e800;
+  background-color: #85e800;
   /*
    {
   Hex:"#A4E700",
@@ -2745,7 +2745,7 @@ body.dark .Calcite_Vibrant_Green_200 {
   }
   */ }
 body.dark .Calcite_Vibrant_Red_100 {
-  background-color: #ffc0b3;
+  background-color: #751d00;
   /*
    {
   Hex:"#741C00",
@@ -2756,7 +2756,7 @@ body.dark .Calcite_Vibrant_Red_100 {
   }
   */ }
 body.dark .Calcite_Vibrant_Red_150 {
-  background-color: #ff642e;
+  background-color: #993516;
   /*
    {
   Hex:"#983415",
@@ -2767,7 +2767,7 @@ body.dark .Calcite_Vibrant_Red_150 {
   }
   */ }
 body.dark .Calcite_Vibrant_Red_200 {
-  background-color: #de2900;
+  background-color: #e65c2e;
   /*
    {
   Hex:"#E55B2D",
@@ -2778,7 +2778,7 @@ body.dark .Calcite_Vibrant_Red_200 {
   }
   */ }
 body.dark .Calcite_Vibrant_Purple_100 {
-  background-color: #daccff;
+  background-color: #503691;
   /*
    {
   Hex:"#4F3590",
@@ -2789,7 +2789,7 @@ body.dark .Calcite_Vibrant_Purple_100 {
   }
   */ }
 body.dark .Calcite_Vibrant_Purple_150 {
-  background-color: #b096ff;
+  background-color: #754fd4;
   /*
    {
   Hex:"#744ED3",
@@ -2800,7 +2800,7 @@ body.dark .Calcite_Vibrant_Purple_150 {
   }
   */ }
 body.dark .Calcite_Vibrant_Purple_200 {
-  background-color: #f185ff;
+  background-color: #9b4ba6;
   /*
    {
   Hex:"#9A4AA5",
@@ -2811,7 +2811,7 @@ body.dark .Calcite_Vibrant_Purple_200 {
   }
   */ }
 body.dark .Calcite_Vibrant_Brown_100 {
-  background-color: #ffdbb3;
+  background-color: #673d10;
   /*
    {
   Hex:"#663C0F",
@@ -2822,7 +2822,7 @@ body.dark .Calcite_Vibrant_Brown_100 {
   }
   */ }
 body.dark .Calcite_Vibrant_Brown_150 {
-  background-color: #db8d2f;
+  background-color: #995d18;
   /*
    {
   Hex:"#985C17",
@@ -2833,7 +2833,7 @@ body.dark .Calcite_Vibrant_Brown_150 {
   }
   */ }
 body.dark .Calcite_Vibrant_Brown_200 {
-  background-color: #ffbc6b;
+  background-color: #df8c39;
   /*
    {
   Hex:"#D38B38",
