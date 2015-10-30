@@ -1,7 +1,7 @@
 # Patterns-Colors
 The Patterns Color repo is where we host Esri's official color documentation that can be see on the forth coming Patterns.esri.com site.  Currently the repo contains a mixture of CSS, SASS and Stylus files that you can use in your projects.
 
-Feel free to download the files for use in your project or add a reference in your files that points to the CDN files `CDN Link Coming Soon`.  Also feel free to use a `Submodule` to import these files into your project.
+Feel free to download the files for use in your project or add a reference in your files that points to the CDN CSS file [Complete CSS Color File](https://s3-us-west-1.amazonaws.com/patterns.esri.com/files/css/color/complete.css).  Also feel free to use a `Submodule` to import these files into your project.
 
 ## Color reference files
 The following links are to download .ase swatch files for use in Adobe Products such as Photoshop and Illustrator.
