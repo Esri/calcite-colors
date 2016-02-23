@@ -67,3 +67,7 @@ To release a new version of Patterns Color:
 2. Update the `package.json` with the new version number.
 3. From the command line: `$ npm run release`
 
+[](Esri Tags: Calcite Colors CSS Sass Web Framework JavaScript)
+[](Esri Language: CSS)
+
+
