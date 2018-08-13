@@ -1,12 +1,12 @@
 {
-  "name": "patterns-color",
+  "name": "calcite-colors",
   "version": "0.1.2",
   "description": "Authoritative Color Variables for Esri websites",
   "private": true,
-  "homepage": "https://github.com/esri/patterns-color",
+  "homepage": "https://github.com/esri/calcite-colors",
   "repository": {
     "type": "git",
-    "url": "git://github.com/esri/patterns-color.git"
+    "url": "git://github.com/esri/calcite-colors.git"
   },
   "author": {
     "name": "Esri"
@@ -23,7 +23,7 @@
   ],
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/esri/patterns-color/issues"
+    "url": "https://github.com/esri/calcite-colors/issues"
   },
   "devDependencies": {
     "gh-release": "~1.1.3"
