@@ -2,6 +2,16 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 1.0.0 - 2018-08-?
+### Removed
+- stylus/
+- pattern_json/
+– scss/
+– css/
+### Added
+- Esri's new color palette. `colors.scss' in root directory.
+- Added JSON format
+
 ## 0.1.2 - 2015-08-11
 ### Addedd
 - Added 3 new vibrant colors Orange_100, Orange_150 and Orange_200 

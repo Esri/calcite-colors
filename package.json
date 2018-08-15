@@ -1,8 +1,8 @@
 {
   "name": "calcite-colors",
-  "version": "0.1.2",
-  "description": "Authoritative Color Variables for Esri websites",
-  "private": true,
+  "version": "1.0.0",
+  "description": "Authoritative color variables for Esri",
+  "private": false,
   "homepage": "https://github.com/esri/calcite-colors",
   "repository": {
     "type": "git",
@@ -13,12 +13,12 @@
   },
   "contributors": [
     {
-      "name": "Cassidy Bishop",
-      "email": "CBishop@esri.com"
+      "name": "Julio Ochoa",
+      "email": "<jochoa@esri.com>"
     },
     {
-      "name": "Kyle Heineman",
-      "email": "kheinemann@esri.com"
+      "name": "Paul Pederson ",
+      "email": "<PPederson@esri.com>"
     }
   ],
   "license": "Apache 2.0",
