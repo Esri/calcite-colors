@@ -4,8 +4,8 @@ The Calcite Colors repository is where we host Esri's official color documentati
 ## Color reference files
 The following links are to download the .ase swatch for use in Adobe Products such as Photoshop and Illustrator. Additionally, a PDF download of the visual reference color palette.
 
-- [Adobe .ase](https://s3-us-west-1.amazonaws.com/patterns.esri.com/files/color_swatch_files/Swatches_Brand_Primary.zip)
-- [Color palette PDF](https://s3-us-west-1.amazonaws.com/patterns.esri.com/files/calcite_color_pdfs/Brand_Color_Palette.pdf)
+- [Adobe .ase](https://github.com/Esri/calcite-colors/raw/1.0/resources/colors.ase)
+- [Color palette PDF](https://github.com/Esri/calcite-colors/raw/1.0/resources/colors.pdf)
 
 
 ## Colors naming anatomy
