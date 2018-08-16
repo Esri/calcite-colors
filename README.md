@@ -8,6 +8,9 @@ The following links are to download the .ase swatch for use in Adobe Products su
 - [Color palette PDF](https://s3-us-west-1.amazonaws.com/patterns.esri.com/files/calcite_color_pdfs/Brand_Color_Palette.pdf)
 
 
+## Colors naming anatomy
+![colors naming anatomy](https://raw.githubusercontent.com/Esri/calcite-colors/1.0/resources/colors-naming-anatomy.png)
+
 ## SASS Variables file
 A [SASS](http://sass-lang.com/) variables file can be found in the root directory `colors.scss`.  To learn how to use `Variable` files within SASS please read [USING SASS Variables](http://sass-lang.com/guide#topic-2).
 
@@ -34,7 +37,5 @@ USA
 
 email: contracts@esri.com
 
-
-
-# Contributing to Calcite Colors
+## Contributing to Calcite Colors
 Please read the [contribute document](CONTRIBUTE.md).
