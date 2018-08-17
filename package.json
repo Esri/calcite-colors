@@ -1,13 +1,13 @@
 {
-  "name": "calcite-colors",
+  "name": "@esri/calcite-colors",
   "version": "1.0.0",
   "description": "Authoritative color variables for Esri",
   "private": false,
-  "homepage": "https://github.com/esri/calcite-colors",
+  "homepage": "https://github.com/Esri/calcite-colors",
   "main": "colors.json",
   "repository": {
     "type": "git",
-    "url": "git://github.com/esri/calcite-colors.git"
+    "url": "git://github.com/Esri/calcite-colors.git"
   },
   "author": {
     "name": "Esri"
@@ -18,7 +18,7 @@
       "email": "<jochoa@esri.com>"
     },
     {
-      "name": "Paul Pederson ",
+      "name": "Paul Pederson",
       "email": "<PPederson@esri.com>"
     }
   ],
