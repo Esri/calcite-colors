@@ -13,6 +13,9 @@ The following links are to download the .ase swatch for use in Adobe products su
 ## SASS Variables file
 A [SASS](http://sass-lang.com/) variables file can be found in the root directory `colors.scss`.  This is the main source to consume the color variables.
 
+## JSON file
+A simple JSON file is also included in the root directory `colors.json`. This file includes a simple object containing every color of the palette as key value pairs.
+
 ## Colors naming anatomy
 ![colors naming anatomy](https://raw.githubusercontent.com/Esri/calcite-colors/master/resources/colors-naming-anatomy.png)
 
