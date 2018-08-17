@@ -1,73 +1,43 @@
 # Calcite Colors
-The Calcite Colors repo is where we host Esri's official color documentation that can be see on [Calcite Web](http://esri.github.io/calcite-web/). Currently the repo contains a mixture of CSS, SASS and Stylus files that you can use in your projects.
 
-Feel free to download the files for use in your project or add a reference in your files that points to the CDN CSS file [Complete CSS Color File](https://s3-us-west-1.amazonaws.com/patterns.esri.com/files/css/color/complete.css).  Also feel free to use a `Submodule` to import these files into your project.
+![saturated color wheel](https://raw.githubusercontent.com/Esri/calcite-colors/master/resources/saturated-graph.png)
+
+The calcite-colors repository is where we host Esri's official color documentation that can be seen and is leveraged by[Calcite Web](http://github.com/Esri/calcite-web/). Currently, this repository contains a SASS file that you can use in your projects.
 
 ## Color reference files
-The following links are to download .ase swatch files for use in Adobe Products such as Photoshop and Illustrator.
+The following links are to download the .ase swatch for use in Adobe products such as Adobe Photoshop and Adobe Illustrator. Additionally, there is a PDF download of the visual reference color palette.
 
-- [Brand Color Palette PDF](https://s3-us-west-1.amazonaws.com/patterns.esri.com/files/calcite_color_pdfs/Brand_Color_Palette.pdf)
-- [Brand-Primary Swatches](https://s3-us-west-1.amazonaws.com/patterns.esri.com/files/color_swatch_files/Swatches_Brand_Primary.zip)
-- [Brand-Supportive Swatches](https://s3-us-west-1.amazonaws.com/patterns.esri.com/files/color_swatch_files/Swatches_Brand_Supportive.zip)
-
+- [Adobe .ase](https://github.com/Esri/calcite-colors/raw/master/resources/colors.ase)
+- [Color palette PDF](https://github.com/Esri/calcite-colors/raw/master/resources/colors.pdf)
 
 ## SASS Variables file
-A [SASS](http://sass-lang.com/) variables file can be found in the SCSS folder `scss/variables.scss`.  To learn how to use `Variable` files within SASS please read [USING SASS Variables](http://sass-lang.com/guide#topic-2).
+A [SASS](http://sass-lang.com/) variables file can be found in the root directory `colors.scss`.  This is the main source to consume the color variables.
 
-## Stylus Variables file
-A [Stylus](http://learnboost.github.io/stylus/) variables file can be found in the Stylus folder `stylus/variables.scss`. To learn how to use `Variable` files within Stylus please read [USING Stylus Variables](http://learnboost.github.io/stylus/docs/variables.html).
+## Colors naming anatomy
+![colors naming anatomy](https://raw.githubusercontent.com/Esri/calcite-colors/master/resources/colors-naming-anatomy.png)
 
-## To use CSS
-A set of CSS reference files have been added to the CSS folder:
-- `css/brand_colors.css`
-- `css/calcite_core_colors.css`
-- `css/calcite_gray_colors.css`
-- `css/calcite_highlight_colors.css`
-- `css/calcite_vibrant_colors.css`
-- `css/complete.css`  <- all of the above compiled into one file.
+## Licensing
+COPYRIGHT © 2018 Esri
 
-Very shortly we will list out a set of URL's from our CDN which can be used in your local projects.
+All rights reserved under the copyright laws of the United States
+and applicable international laws, treaties, and conventions.
 
-## Patterns JSON Folder
-The Patterns JSON folder contains the source files that are used to build the pages on [Calcite Web](http://esri.github.io/calcite-web/) and should NOT be used within a project as they contain lots of information not needed for standalone projects.  These files are created using SCSS.
+This material is licensed for use under the Esri Master License
+Agreement (MLA), and is bound by the terms of that agreement.
+You may redistribute and use this code without modification,
+provided you adhere to the terms of the MLA and include this
+copyright notice.
 
+See use restrictions at http://www.esri.com/legal/pdfs/mla_e204_e300/english
 
-# Contributing to Calcite Colors
+For additional information, contact:
+Environmental Systems Research Institute, Inc.
+Attn: Contracts and Legal Services Department
+380 New York Street
+Redlands, California, USA 92373
+USA
 
-Installing Calcite Colors was designed to be fairly painless. If you have any problems, be sure to [submit an issue](https://github.com/Esri/calcite-colors/issues/).
+email: contracts@esri.com
 
-### Fork the Repository
-
-All the code for Calcite Colors lives [on GitHub](https://github.com/esri/calcite-colors). We use the [fork and pull model](https://help.github.com/articles/using-pull-requests/) to manage contribution.
-
-1. Fork the repository so you have your own copy (`your-username/calcite-colors`)
-2. Clone the repo locally with `git clone https://github.com/your-username/calcite-colors`
-3. Move into the clone repo:  `cd calcite-colors`
-
-You should also add `Esri/calcite-colors` as a remote at this point. We generally call this remote branch 'upstream':
-
-```
-git remote add upstream https://github.com/Esri/calcite-colors
-```
-
-### How We Use GitHub
-
-All the code for Calcite Colors lives [on GitHub](https://github.com/esri/calcite-colors). We use the [fork and pull model](https://help.github.com/articles/using-pull-requests/) to manage contribution. To contribute, you should:
-
-1. Commit your changes.
-2. Note your changes in `CHANGELOG.md`
-3. Make sure your copy is up to date: `git pull upstream master`
-4. Push your changes to your fork: `/your-username/calcite-colors`
-5. Open a pull-request from your fork (`/your-username/calcite-colors`) to the 'upstream' fork (`/Esri/calcite-colors`).
-
-
-## Releasing a Version
-To release a new version of Calcite Colors:
-1. Update the `CHANGELOG.md` with documentation about the release. Preserve the existing format.
-2. Update the `package.json` with the new version number.
-3. From the command line: `$ npm run release`
-
-[](Esri Tags: Calcite Colors CSS Sass Web Framework JavaScript)
-[](Esri Language: CSS)
-
-
+## Contributing to Calcite Colors
+Please read the [contribute document](CONTRIBUTE.md).
