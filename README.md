@@ -2,7 +2,7 @@
 
 ![saturated color wheel](https://raw.githubusercontent.com/Esri/calcite-colors/master/resources/saturated-graph.png)
 
-The calcite-colors repository is where we host Esri's official color documentation that can be seen and is leveraged by[Calcite Web](http://github.com/Esri/calcite-web/). Currently, this repository contains a SASS file that you can use in your projects.
+The calcite-colors repository is where we host Esri's official color documentation that can be seen and is leveraged by [Calcite Web](http://github.com/Esri/calcite-web/). Currently, this repository contains a SASS file that you can use in your projects.
 
 ## Color reference files
 The following links are to download the .ase swatch for use in Adobe products such as Adobe Photoshop and Adobe Illustrator. Additionally, there is a PDF download of the visual reference color palette.
