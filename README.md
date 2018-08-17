@@ -1,17 +1,20 @@
 # Calcite Colors
+
+![saturated color wheel](https://raw.githubusercontent.com/Esri/calcite-colors/master/resources/saturated-graph.png)
+
 The calcite-colors repository is where we host Esri's official color documentation that can be seen and is leveraged by[Calcite Web](http://github.com/Esri/calcite-web/). Currently, this repository contains a SASS file that you can use in your projects.
 
 ## Color reference files
 The following links are to download the .ase swatch for use in Adobe products such as Adobe Photoshop and Adobe Illustrator. Additionally, there is a PDF download of the visual reference color palette.
 
-- [Adobe .ase](https://github.com/Esri/calcite-colors/raw/1.0/resources/colors.ase)
-- [Color palette PDF](https://github.com/Esri/calcite-colors/raw/1.0/resources/colors.pdf)
+- [Adobe .ase](https://github.com/Esri/calcite-colors/raw/master/resources/colors.ase)
+- [Color palette PDF](https://github.com/Esri/calcite-colors/raw/master/resources/colors.pdf)
 
 ## SASS Variables file
 A [SASS](http://sass-lang.com/) variables file can be found in the root directory `colors.scss`.  This is the main source to consume the color variables.
 
 ## Colors naming anatomy
-![colors naming anatomy](https://raw.githubusercontent.com/Esri/calcite-colors/1.0/resources/colors-naming-anatomy.png)
+![colors naming anatomy](https://raw.githubusercontent.com/Esri/calcite-colors/master/resources/colors-naming-anatomy.png)
 
 ## Licensing
 COPYRIGHT © 2018 Esri
