@@ -2,6 +2,10 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 1.1.0 - TBD
+- added blk-005 (#f8f8f8) and blk-235 (#0b0b0b)
+- updated blk-010 to #f3f3f3 from #f3f3f4
+
 ## 1.0.0 - 2018-08-17
 ### Removed
 - stylus/
