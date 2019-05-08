@@ -4,11 +4,11 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## 1.2.0 - 2019-05-09
 ### added
-- `blk-005` (#f8f8f8) and `blk-235` (#0b0b0b)
+- `blk-005` (#f8f8f8) and `blk-235` (#060606)
 
 ### Modified
 - `blk-010` to #f3f3f3 from #f3f3f4
-- `blk-230` to #060606 from #0b0b0b
+- `blk-230` to #0b0b0b from #060606
 - `rr` (red) color ramps in at every saturation level
 - `h-yy-060` – `h-yy-100` Updates from Kyle H. to remove green add and more yellow/gold
 
