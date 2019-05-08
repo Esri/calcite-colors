@@ -4,7 +4,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## 1.2.0 - 2019-05-09
 ### added
-- `blk-005` (#f8f8f8) and `blk-23` (#0b0b0b)
+- `blk-005` (#f8f8f8) and `blk-235` (#0b0b0b)
 
 ### Modified
 - `blk-010` to #f3f3f3 from #f3f3f4
