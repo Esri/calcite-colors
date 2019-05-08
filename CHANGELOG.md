@@ -2,10 +2,16 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
-## 1.1.0 - 2018-10-19
+## 1.2.0 - 2019-05-09
+### added
+- `blk-005` (#f8f8f8) and `blk-23` (#0b0b0b)
 
 ### Modified
-- Improved `rr` (red) color ramps in at every saturation level
+- `blk-010` to #f3f3f3 from #f3f3f4
+- `blk-230` to #060606 from #0b0b0b
+- `rr` (red) color ramps in at every saturation level
+- `h-yy-060` – `h-yy-100` Updates from Kyle H. to remove green add and more yellow/gold
+
 
 ## 1.0.0 - 2018-08-17
 ### Removed
