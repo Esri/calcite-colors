@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 1.2.1 - 2019-06-01
+
+### Modified
+- updated `.ase` file with new values from `v1.2.0`
+- updated `.pdf` file with new values from `v1.2.0`
+
 ## 1.2.0 - 2019-05-09
 ### added
 - `blk-005` (#f8f8f8) and `blk-235` (#060606)
