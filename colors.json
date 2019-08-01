@@ -478,6 +478,6 @@
   "ui-red-dark": "#ff0015",
   "ui-red-hover-dark": "#ff624d",
   "ui-red-pressed-dark": "#d90012",
-  "ui-background-dark": "#f3f3f3",
-  "ui-foreground-dark": "#353535"
+  "ui-background-dark": "#353535",
+  "ui-foreground-dark": "#f3f3f3"
 }
