@@ -2,6 +2,11 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 1.3.0 - 2019-08-01
+
+### Added
+- :sparkles: new `ui-` and `ui-XXX-dark` variables
+
 ## 1.2.1 - 2019-06-01
 
 ### Modified
