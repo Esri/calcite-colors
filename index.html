@@ -52,6 +52,12 @@
           <div class="loader-text">Loading colors...</div>
         </div>
         <div class="js-colors hide">
+          <h2 class="trailer-1">UI Colors</h2>
+          <div class="ui- block-group block-group-3-up tablet-block-group-1-up trailer-2"></div>
+
+          <h2 class="trailer-1">UI Dark Colors</h2>
+          <div class="ui-dark block-group block-group-3-up tablet-block-group-1-up trailer-2"></div>
+
           <h2 class="trailer-1">Neutral</h2>
           <div class="blk- block-group block-group-5-up tablet-block-group-2-up trailer-2"></div>
 
@@ -148,6 +154,12 @@
         .then(function (payload) {
           Object.keys(payload).forEach(function (name) {
             var section = document.querySelector(`.${name.substring(0, 4)}`);
+            if (name.indexOf("ui-") > -1) {
+              section = document.querySelector(".ui-");
+              if (name.indexOf("-dark") > -1) {
+                section = document.querySelector(".ui-dark");
+              }
+            }
             var hex = payload[name];
             var card = `
               <div class="block card trailer-1">
