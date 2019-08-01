@@ -2,6 +2,11 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 1.3.1 - 2019-08-01
+
+### Fixed
+- Fixed undefined variable reference in yellow and red `-dark` ui colors
+
 ## 1.3.0 - 2019-08-01
 
 ### Added
