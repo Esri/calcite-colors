@@ -2,6 +2,47 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 1.5.0 - 2019-10-18
+* Added dark theme variables:
+
+```
+// Dark Theme Colors
+$d-bb-410: #47BBFF;
+$d-bb-420: #00A0FF;
+$d-bb-430: #0087D7;
+$d-gg-410: #44ED51;
+$d-gg-420: #36DA43;
+$d-gg-430: #11AD1D;
+$d-yy-410: #FFE24D;
+$d-yy-420: #FFC900;
+$d-yy-430: #F4B000;
+$d-rr-410: #FF7465;
+$d-rr-420: #FE583E;
+$d-rr-430: #F3381B;
+```
+
+* Updated dark theme yellow pressed:
+
+`$ui-yellow-pressed-dark: $d-yy-410;`
+
+* Comment typo fixes
+
+
+## 1.4.1 - 2019-08-30
+* Fixed typo on some dark theme variables. All dark theme vars end with -dark
+
+## 1.4.0 - 2019-08-30
+Added to light and dark theme:
+
+* ui-foreground
+* ui-foreground-hover
+* ui-foreground-pressed
+* ui-text-1
+* ui-text-2
+* ui-text-3
+
+For dark theme variables append -dark
+
 ## 1.3.1 - 2019-08-01
 
 ### Fixed
