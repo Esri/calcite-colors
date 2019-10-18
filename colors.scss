@@ -1,4 +1,4 @@
-// High sautration colors
+  // High Saturation Colors
 $h-yy-010: #fff7cc;
 $h-yy-020: #fef3ad;
 $h-yy-030: #fcee8d;
@@ -130,7 +130,7 @@ $h-br-080: #51310e;
 $h-br-090: #3b2307;
 $h-br-100: #261400;
 
-// Medium sautration colors
+// Medium Saturation Colors
 $m-yy-010: #faf7dc;
 $m-yy-020: #f6f0c1;
 $m-yy-030: #f2e8a6;
@@ -262,7 +262,7 @@ $m-br-080: #6c4f2d;
 $m-br-090: #45311a;
 $m-br-100: #1f1306;
 
-// Low sautration colors
+// Low Saturation Colors
 $l-yy-010: #f7f5e6;
 $l-yy-020: #e7e4d1;
 $l-yy-030: #d7d3bc;
@@ -432,7 +432,21 @@ $v-yg-120: #d7ff73;
 $v-yg-140: #bbed3b;
 $v-yg-160: #96cc00;
 
-// Shades white/black
+// Dark Theme Colors
+$d-bb-410: #47BBFF;
+$d-bb-420: #00A0FF;
+$d-bb-430: #0087D7;
+$d-gg-410: #44ED51;
+$d-gg-420: #36DA43;
+$d-gg-430: #11AD1D;
+$d-yy-410: #FFE24D;
+$d-yy-420: #FFC900;
+$d-yy-430: #F4B000;
+$d-rr-410: #FF7465;
+$d-rr-420: #FE583E;
+$d-rr-430: #F3381B;
+
+// Shades White/Black
 $blk-000: #ffffff;
 $blk-005: #f8f8f8;
 $blk-010: #f3f3f3;
@@ -483,18 +497,18 @@ $ui-text-2:$blk-170;
 $ui-text-3: $blk-140;
 
 // UI Colors Dark Theme
-$ui-blue-dark: #00A0FF;
-$ui-blue-hover-dark: #0087D7;
-$ui-blue-pressed-dark: #47BBFF;
-$ui-green-dark: #36DA43;
-$ui-green-hover-dark: #11AD1D;
-$ui-green-pressed-dark: #44ED51;
-$ui-yellow-dark: #FFC900;
-$ui-yellow-hover-dark: #F4B000;
-$ui-yellow-pressed-dark: #D9BC00;
-$ui-red-dark: #FE583E;
-$ui-red-hover-dark: #F3381B;
-$ui-red-pressed-dark: #FF7465;
+$ui-blue-dark: $d-bb-420;
+$ui-blue-hover-dark: $d-bb-430;
+$ui-blue-pressed-dark: $d-bb-410;
+$ui-green-dark: $d-gg-420;
+$ui-green-hover-dark: $d-gg-430;
+$ui-green-pressed-dark: $d-gg-410;
+$ui-yellow-dark: $d-yy-420;
+$ui-yellow-hover-dark: $d-yy-430;
+$ui-yellow-pressed-dark: $d-yy-410;
+$ui-red-dark: $d-rr-420;
+$ui-red-hover-dark: $d-rr-430;
+$ui-red-pressed-dark: $d-rr-410;
 $ui-background-dark: $blk-210;
 $ui-foreground-dark: $blk-200;
 $ui-foreground-hover-dark: $blk-190;
