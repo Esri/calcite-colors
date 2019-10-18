@@ -1,6 +1,6 @@
 {
   "name": "@esri/calcite-colors",
-  "version": "1.4.1",
+  "version": "1.5.0",
   "description": "Authoritative color variables for Esri",
   "private": false,
   "homepage": "https://github.com/Esri/calcite-colors",
