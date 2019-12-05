@@ -483,6 +483,8 @@
   "ui-text-1": "#151515",
   "ui-text-2": "#4a4a4a",
   "ui-text-3": "#6a6a6a",
+  "ui-border-1": "#cacaca",
+  "ui-border-2": "#dfdfdf",
   "ui-blue-dark": "#00A0FF",
   "ui-blue-hover-dark": "#0087D7",
   "ui-blue-pressed-dark": "#47BBFF",
@@ -501,5 +503,7 @@
   "ui-foreground-pressed-dark": "#404040",
   "ui-text-1-dark": "#ffffff",
   "ui-text-2-dark": "#bfbfbf",
-  "ui-text-3-dark": "#9f9f9f"
+  "ui-text-3-dark": "#9f9f9f",
+  "ui-border-1-dark": "#4a4a4a",
+  "ui-border-2-dark": "#404040"
 }
