@@ -2,6 +2,10 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 1.6.0 - 2019-12-05
+* updated nomenclature for pressed to press. Keep consistent with hover/press vs hovered/pressed.
+* Added border color values for light and dark theme. border 1, 2, 3, hover, and press states.
+
 ## 1.5.0 - 2019-10-18
 * Added dark theme variables:
 
