@@ -2,7 +2,7 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
-## Unreleased
+## 1.7.1 - 2020-01-03
 - Add type definitions for new ES6 export for TS users
 
 ## 1.7.0 - 2020-01-03
