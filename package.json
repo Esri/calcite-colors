@@ -5,6 +5,7 @@
   "private": false,
   "homepage": "https://github.com/Esri/calcite-colors",
   "main": "colors.json",
+  "types": "colors.d.ts",
   "repository": {
     "type": "git",
     "url": "git://github.com/Esri/calcite-colors.git"
