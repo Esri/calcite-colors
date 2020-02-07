@@ -13,6 +13,15 @@ The following links are to download the .ase swatch for use in Adobe products su
 ## SASS Variables file
 A [SASS](http://sass-lang.com/) variables file can be found in the root directory `colors.scss`.  This is the main source to consume the color variables.
 
+## ES6 Export
+In a modern javascript environment you can import the colors via ES6 import:
+
+```js
+import colors from "@esri/calcite-colors/colors.js";
+
+console.log(colors["ui-blue"]); // => "#007ac2"
+```
+
 ## JSON file
 A simple JSON file is also included in the root directory `colors.json`. This file includes a simple object containing every color of the palette as key value pairs.
 
@@ -23,7 +32,7 @@ In both the SASS and JSON file are UI Color variables. These variables should be
 ![colors naming anatomy](https://raw.githubusercontent.com/Esri/calcite-colors/master/resources/colors-naming-anatomy.png)
 
 ## Licensing
-COPYRIGHT © 2019 Esri
+COPYRIGHT © 2020 Esri
 
 All rights reserved under the copyright laws of the United States
 and applicable international laws, treaties, and conventions.
