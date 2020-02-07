@@ -2,6 +2,9 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 2.0 - 2020-02-07
+- Changed all idle, hover, and press variables to 1,2,3 (borders use 1,2,3,4,5)
+
 ## 1.7.1 - 2020-01-03
 - Add type definitions for new ES6 export for TS users
 
