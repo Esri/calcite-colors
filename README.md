@@ -32,7 +32,7 @@ In both the SASS and JSON file are UI Color variables. These variables should be
 ![colors naming anatomy](https://raw.githubusercontent.com/Esri/calcite-colors/master/resources/colors-naming-anatomy.png)
 
 ## Licensing
-COPYRIGHT © 2019 Esri
+COPYRIGHT © 2020 Esri
 
 All rights reserved under the copyright laws of the United States
 and applicable international laws, treaties, and conventions.
