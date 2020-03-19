@@ -2,7 +2,7 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
-## Unreleased
+## 2.1.0 - 2020-03-19
 - Added mixins for css custom property generation of light and dark theme
 
 ## 2.0 - 2020-03-17
