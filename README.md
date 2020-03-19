@@ -10,8 +10,31 @@ The following links are to download the .ase swatch for use in Adobe products su
 - [Adobe .ase](https://github.com/Esri/calcite-colors/raw/master/resources/colors.ase)
 - [Color palette PDF](https://github.com/Esri/calcite-colors/raw/master/resources/colors.pdf)
 
-## SASS Variables file
-A [SASS](http://sass-lang.com/) variables file can be found in the root directory `colors.scss`.  This is the main source to consume the color variables.
+## SaSS Variables file
+A [SaSS](http://sass-lang.com/) variables file can be found in the root directory `colors.scss`.  This is the main source to consume the color variables.
+
+## Sass Mixin
+A pair of SaSS mixins are available which will return the two themes as CSS custom properties. In this way, you can add css vars to your app if need be:
+
+```scss
+@import "@esri/calcite-colors/colors.scss";
+
+:root {
+  @include calcite-theme-light();
+}
+
+[theme="dark"] {
+  @include calcite-theme-dark();
+}
+```
+
+These colors are then accessible with the `var` syntax:
+
+```css
+.my-element {
+  border-color: var(--calcite-ui-blue-1);
+}
+```
 
 ## ES6 Export
 In a modern javascript environment you can import the colors via ES6 import:
