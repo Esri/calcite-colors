@@ -2,7 +2,7 @@
 
 ![saturated color wheel](https://raw.githubusercontent.com/Esri/calcite-colors/master/resources/saturated-graph.png)
 
-The calcite-colors repository is where we host Esri's official color documentation that can be seen and is leveraged by [Calcite Web](http://github.com/Esri/calcite-web/). Currently, this repository contains a Sass file that you can use in your projects.
+The calcite-colors repository provides Esri's official color palette including documentation, reference files, and helpers in multiple file formats.
 
 ## Color reference files
 The following links are to download the .ase swatch for use in Adobe products such as Adobe Photoshop and Adobe Illustrator. Additionally, there is a PDF download of the visual reference color palette.
@@ -49,7 +49,7 @@ console.log(colors["ui-blue"]); // => "#007ac2"
 A simple JSON file is also included in the root directory `colors.json`. This file includes a simple object containing every color of the palette as key value pairs.
 
 ## UI Colors
-In both the Sass and JSON file are UI Color variables. These variables should be the standard usage of color for most applications. They'll serve as an easy way for users to grab the main usage colors, as well as staying consistent across applications. They include both Light and Dark theme variables. Dark theme variables have `-dark` appended. For example, the primary blue color in light theme is `$ui-blue`. In dark theme the primary blue is `$ui-blue-dark`. Additionally, both light and dark include variables for hover and pressed states (`$ui-blue-hover`, `$ui-red-pressed`) For more information and best practices visit the [Calcite Design System](https://calcite.esri.com) website [color section](https://calcite.esri.com/colors).
+In both the Sass and JSON file are UI Color variables. These variables should be the standard usage of color for most applications. They'll serve as an easy way for users to grab the main usage colors so colors stay consistent across applications. They include both Light and Dark theme variables. Dark theme variables have `-dark` appended. Additionally, both light and dark include variables for hover and pressed states (`$ui-blue-2`, `$ui-red-3`). For more information and best practices visit the [Calcite Design System](https://calcite.esri.com) website [color section](https://calcite.esri.com/colors).
 
 ## Colors naming anatomy
 ![colors naming anatomy](https://raw.githubusercontent.com/Esri/calcite-colors/master/resources/colors-naming-anatomy.png)
