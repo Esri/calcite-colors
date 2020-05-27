@@ -49,7 +49,7 @@ console.log(colors["ui-blue"]); // => "#007ac2"
 A simple JSON file is also included in the root directory `colors.json`. This file includes a simple object containing every color of the palette as key value pairs.
 
 ## UI Colors
-In both the Sass and JSON file are UI Color variables. These variables should be the standard usage of color for most applications. They'll serve as an easy way for users to grab the main usage colors so colors stay consistent across applications. They include both Light and Dark theme variables. Dark theme variables have `-dark` appended. Additionally, both light and dark include variables for hover and pressed states (`$ui-blue-2`, `$ui-red-3`). For more information and best practices visit the [Calcite Design System](https://calcite.esri.com) website [color section](https://calcite.esri.com/colors).
+In both the Sass and JSON file are UI Color variables. These variables should be the standard usage of color for most applications. They'll serve as an easy way for users to grab the main usage colors so colors stay consistent across applications. They include both Light and Dark theme variables. Dark theme variables have `-dark` appended. Additionally, both light and dark include variables for hover and pressed states (`$ui-blue-2`, `$ui-red-3`). 
 
 ## Colors naming anatomy
 ![colors naming anatomy](https://raw.githubusercontent.com/Esri/calcite-colors/master/resources/colors-naming-anatomy.png)
