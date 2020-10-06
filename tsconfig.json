@@ -1,18 +1,14 @@
 {
   "compilerOptions": {
-    "allowSyntheticDefaultImports": true,
-    "allowUnreachableCode": false,
-    "declaration": false,
-    "experimentalDecorators": true,
+    "declaration": true,
+    "outDir": "dist/",
     "lib": ["dom", "es2017"],
     "moduleResolution": "node",
     "module": "esnext",
     "target": "es2017",
     "noUnusedLocals": true,
-    "noUnusedParameters": true,
-    "jsx": "react",
-    "jsxFactory": "h"
+    "noUnusedParameters": true
   },
-  "include": ["./charts/**/*"],
+  "include": ["colors.ts", "compile-json.ts", "./charts/**/*"],
   "exclude": ["node_modules"]
 }

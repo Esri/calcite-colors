@@ -36,7 +36,7 @@
   },
   "scripts": {
     "release": "gh-release",
-    "build": "npm run prettier && tsc && node charts/compile-json.js",
+    "build": "tsc && node dist/compile-json.js",
     "prettier": "prettier --write \"**/*.ts?(x)\"",
     "postinstall": "build"
   }

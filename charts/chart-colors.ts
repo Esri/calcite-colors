@@ -325,10 +325,3 @@ export const ChartColors: { palette: string[]; sets: ColorSet[] } = {
   palette: ColorPalette,
   sets: ColorSets,
 };
-
-export function colorFromColorSet(
-  index: number,
-  colorSet: ColorSet = ColorSets[0]
-): string {
-  return colorSet.colors[index % colorSet.colors.length];
-}
