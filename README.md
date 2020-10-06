@@ -65,6 +65,12 @@ Colors for charts can be found in the `dist/chart` folder. Here you will find `c
 
 ![colors naming anatomy](https://raw.githubusercontent.com/Esri/calcite-colors/master/resources/colors-naming-anatomy.png)
 
+## Build instructions
+
+To run a build run `npm run build` within a terminal at the project's root directory. This will compile the Typescript files into JavaScript and JSON files.
+
+**Make sure to run `npm install` has been run before the first time building**
+
 ## Licensing
 
 COPYRIGHT © 2020 Esri
