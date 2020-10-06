@@ -5,15 +5,18 @@
 The calcite-colors repository provides Esri's official color palette including documentation, reference files, and helpers in multiple file formats.
 
 ## Color reference files
+
 The following links are to download the .ase swatch for use in Adobe products such as Adobe Photoshop and Adobe Illustrator. Additionally, there is a PDF download of the visual reference color palette.
 
 - [Adobe .ase](https://github.com/Esri/calcite-colors/raw/master/resources/colors.ase)
 - [Color palette PDF](https://github.com/Esri/calcite-colors/raw/master/resources/colors.pdf)
 
 ## Sass Variables
-A [Sass](http://sass-lang.com/) variables file can be found in the root directory `colors.scss`.  This is the main source to consume the color variables.
+
+A [Sass](http://sass-lang.com/) variables file can be found in the root directory `colors.scss`. This is the main source to consume the color variables.
 
 ## Sass Theme Mixins
+
 A pair of Sass mixins are available which will return the two themes as CSS custom properties. In this way, you can add css vars to your app if need be:
 
 ```scss
@@ -37,24 +40,33 @@ These colors are then accessible with the `var` syntax:
 ```
 
 ## ES6 Export
+
 In a modern javascript environment you can import the colors via ES6 import:
 
 ```js
-import colors from "@esri/calcite-colors/colors.js";
+import colors from "@esri/calcite-colors/dist/colors.js";
 
 console.log(colors["ui-blue"]); // => "#007ac2"
 ```
 
 ## JSON file
-A simple JSON file is also included in the root directory `colors.json`. This file includes a simple object containing every color of the palette as key value pairs.
+
+A simple JSON file is also included in the `dist` directory `colors.json`. This file includes a simple object containing every color of the palette as key value pairs.
 
 ## UI Colors
-In both the Sass and JSON file are UI Color variables. These variables should be the standard usage of color for most applications. They'll serve as an easy way for users to grab the main usage colors so colors stay consistent across applications. They include both Light and Dark theme variables. Dark theme variables have `-dark` appended. Additionally, both light and dark include variables for hover and pressed states (`$ui-blue-2`, `$ui-red-3`). 
+
+In both the Sass and JSON file are UI Color variables. These variables should be the standard usage of color for most applications. They'll serve as an easy way for users to grab the main usage colors so colors stay consistent across applications. They include both Light and Dark theme variables. Dark theme variables have `-dark` appended. Additionally, both light and dark include variables for hover and pressed states (`$ui-blue-2`, `$ui-red-3`).
+
+## Chart Colors
+
+Colors for charts can be found in the `dist/chart` folder. Here you will find `colors.json` JSON file and `colors.js` JavaScript file. These files can be used to import colors for charting libraries.
 
 ## Colors naming anatomy
+
 ![colors naming anatomy](https://raw.githubusercontent.com/Esri/calcite-colors/master/resources/colors-naming-anatomy.png)
 
 ## Licensing
+
 COPYRIGHT © 2020 Esri
 
 All rights reserved under the copyright laws of the United States
@@ -78,4 +90,5 @@ USA
 email: contracts@esri.com
 
 ## Contributing to Calcite Colors
+
 Please read the [contribute document](CONTRIBUTE.md).

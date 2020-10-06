@@ -1,12 +1,12 @@
 {
   "name": "@esri/calcite-colors",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "description": "Authoritative color variables for Esri",
   "private": false,
   "homepage": "https://github.com/Esri/calcite-colors",
-  "main": "colors.json",
+  "main": "dist/colors.json",
   "type": "module",
-  "types": "colors.d.ts",
+  "types": "dist/colors.d.ts",
   "repository": {
     "type": "git",
     "url": "git://github.com/Esri/calcite-colors.git"
