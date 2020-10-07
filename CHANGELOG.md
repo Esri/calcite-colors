@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 3.0.1 - 2020-10-07
+
+- Remove 'postinstall' npm script.
+
 ## 3.0.0 - 2020-10-06
 
 - [!breaking change] Moved `colors.json` and `colors.js` to the `dist/` folder.

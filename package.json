@@ -1,6 +1,6 @@
 {
   "name": "@esri/calcite-colors",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Authoritative color variables for Esri",
   "private": false,
   "homepage": "https://github.com/Esri/calcite-colors",
@@ -37,7 +37,6 @@
   "scripts": {
     "release": "gh-release",
     "build": "tsc && node dist/compile-json.js",
-    "prettier": "prettier --write \"**/*.ts?(x)\"",
-    "postinstall": "build"
+    "prettier": "prettier --write \"**/*.ts?(x)\""
   }
 }
