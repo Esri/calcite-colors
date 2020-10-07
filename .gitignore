@@ -1,2 +1,4 @@
 .DS_Store
 node_modules
+dist/compile-json.d.ts
+dist/compile-json.js

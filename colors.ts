@@ -1,4 +1,4 @@
-type CalciteColors = {
+export default {
   "h-yy-010": "#fff7cc",
   "h-yy-020": "#fef3ad",
   "h-yy-030": "#fcee8d",
@@ -524,8 +524,4 @@ type CalciteColors = {
   "ui-border-3-dark": "#353535",
   "ui-border-4-dark": "#757575",
   "ui-border-5-dark": "#9f9f9f"
-}
-
-declare const calciteColors: CalciteColors;
-
-export = calciteColors;
+};
