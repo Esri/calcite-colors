@@ -1,4 +1,11 @@
-declare const _default: {
+declare type ChartColorSet = {
+    name: string;
+    colors: string[];
+};
+export declare const ChartColors: string[];
+export declare const DefaultChartColors: string[];
+export declare const ChartColorSets: ChartColorSet[];
+export declare const Colors: {
     "h-yy-010": string;
     "h-yy-020": string;
     "h-yy-030": string;
@@ -525,4 +532,4 @@ declare const _default: {
     "ui-border-4-dark": string;
     "ui-border-5-dark": string;
 };
-export default _default;
+export {};
