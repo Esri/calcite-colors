@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 4.0.0 - 2020-10-13
+
+- [!breaking change] Moved `colors.scss` file to `/src/colors.scss`.
+- [!breaking change] Moved `colors.ts` file to `/src/colors.ts`.
+- [!breaking change] Removed `colors.json` file. The project's new "main" file is `/dist/colors.js`.
+- [!breaking change] Combined colors and chart colors.
+- Added multiple module output formats.
+
 ## 3.0.1 - 2020-10-07
 
 - Remove 'postinstall' npm script.

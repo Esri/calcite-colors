@@ -9,6 +9,6 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true
   },
-  "include": ["colors.ts", "compile-json.ts", "./chart/**/*"],
+  "include": ["./src/**/*"],
   "exclude": ["node_modules"]
 }
