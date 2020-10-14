@@ -49,17 +49,13 @@ import colors from "@esri/calcite-colors/dist/colors.js";
 console.log(colors["ui-blue"]); // => "#007ac2"
 ```
 
-## JSON file
-
-A simple JSON file is also included in the `dist` directory `colors.json`. This file includes a simple object containing every color of the palette as key value pairs.
-
 ## UI Colors
 
 In both the Sass and JSON file are UI Color variables. These variables should be the standard usage of color for most applications. They'll serve as an easy way for users to grab the main usage colors so colors stay consistent across applications. They include both Light and Dark theme variables. Dark theme variables have `-dark` appended. Additionally, both light and dark include variables for hover and pressed states (`$ui-blue-2`, `$ui-red-3`).
 
 ## Chart Colors
 
-Colors for charts can be found in the `dist/chart` folder. Here you will find `colors.json` JSON file and `colors.js` JavaScript file. These files can be used to import colors for charting libraries.
+Colors for charts are included as well. These can be used to import colors for charting libraries.
 
 ## Colors naming anatomy
 
@@ -67,7 +63,7 @@ Colors for charts can be found in the `dist/chart` folder. Here you will find `c
 
 ## Build instructions
 
-To run a build run `npm run build` within a terminal at the project's root directory. This will compile the Typescript files into JavaScript and JSON files.
+To run a build run `npm run build` within a terminal at the project's root directory. This will compile the Typescript files into JavaScript modules.
 
 **Make sure to run `npm install` has been run before the first time building**
 
