@@ -3,7 +3,7 @@ type ChartColorSet = {
   colors: string[];
 };
 
-export const ChartColors: string[] = [
+export const chartColors: string[] = [
   "#ffffff",
   "#858585",
   "#ffbebe",
@@ -84,13 +84,13 @@ export const ChartColors: string[] = [
   "#73004",
 ];
 
-export const DefaultChartColors: string[] = [
-  ...ChartColors.slice(30, 39),
-  ...ChartColors.slice(28, 30).reverse(),
+export const defaultChartColors: string[] = [
+  ...chartColors.slice(30, 39),
+  ...chartColors.slice(28, 30).reverse(),
 ];
 
-export const ChartColorSets: ChartColorSet[] = [
-  { name: "default", colors: DefaultChartColors },
+export const chartColorSets: ChartColorSet[] = [
+  { name: "default", colors: defaultChartColors },
   {
     name: "cat-dark",
     colors: [
@@ -319,7 +319,7 @@ export const ChartColorSets: ChartColorSet[] = [
   },
 ];
 
-export const Colors = {
+export const colors = {
   "h-yy-010": "#fff7cc",
   "h-yy-020": "#fef3ad",
   "h-yy-030": "#fcee8d",

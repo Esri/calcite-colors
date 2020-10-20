@@ -20,7 +20,7 @@ A [Sass](http://sass-lang.com/) variables file can be found in the root director
 A pair of Sass mixins are available which will return the two themes as CSS custom properties. In this way, you can add css vars to your app if need be:
 
 ```scss
-@import "@esri/calcite-colors/src/colors.scss";
+@import "@esri/calcite-colors/dist/colors.scss";
 
 :root {
   @include calcite-theme-light();
@@ -44,7 +44,7 @@ These colors are then accessible with the `var` syntax:
 In a modern javascript environment you can import the colors via ES6 import:
 
 ```js
-import { Colors } from "@esri/calcite-colors/dist/colors";
+import { colors } from "@esri/calcite-colors/dist/colors";
 
 console.log(Colors["ui-blue"]); // => "#007ac2"
 ```
