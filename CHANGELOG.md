@@ -3,6 +3,11 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 5.0.0 - 2020-10-20
+
+- [!breaking change] Moved `/src/colors.scss` file to `/dist/colors.scss`.
+- [!breaking change] Renamed const exports from `colors.ts` to be lowercased.
+
 ## 4.0.1 - 2020-10-14
 
 - Update readme documentation.
