@@ -46,7 +46,7 @@ In a modern javascript environment you can import the colors via ES6 import:
 ```js
 import { colors } from "@esri/calcite-colors/dist/colors";
 
-console.log(Colors["ui-blue"]); // => "#007ac2"
+console.log(colors["ui-blue"]); // => "#007ac2"
 ```
 
 ## UI Colors
