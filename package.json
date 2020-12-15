@@ -8,6 +8,7 @@
   "main": "dist/colors.js",
   "module": "dist/colors.module.js",
   "unpkg": "dist/colors.umd.js",
+  "type": "module",
   "types": "dist/colors.d.ts",
   "repository": {
     "type": "git",
@@ -38,7 +39,7 @@
     "typescript": "4.0.2"
   },
   "scripts": {
-    "build": "microbundle",
+    "build": "tsc && node build/scss.js && microbundle",
     "dev": "microbundle watch",
     "release": "gh-release",
     "prettier": "prettier --write \"**/*.ts?(x)\""
