@@ -822,7 +822,7 @@ export const colors = {
   "ui-danger-press": "#7C1D13",
 
   "ui-brand-dark": "#009AF2",
-  "ui-brand-hove-dark": "#007AC2",
+  "ui-brand-hover-dark": "#007AC2",
   "ui-brand-press-dark": "#00619B",
   "ui-background-dark": "#353535",
   "ui-foreground-1-dark": "#2b2b2b",

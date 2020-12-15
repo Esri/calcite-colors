@@ -506,7 +506,7 @@ export declare const colors: {
     "ui-danger-hover": string;
     "ui-danger-press": string;
     "ui-brand-dark": string;
-    "ui-brand-hove-dark": string;
+    "ui-brand-hover-dark": string;
     "ui-brand-press-dark": string;
     "ui-background-dark": string;
     "ui-foreground-1-dark": string;

@@ -488,52 +488,52 @@ $blk-235: #060606;
 $blk-240: #000000;
 
 // UI Colors Light Theme
-$ui-brand: $h-bb-060;
-$ui-brand-hover: $h-bb-070;
-$ui-brand-press: $h-bb-080;
-$ui-background: $blk-005;
-$ui-foreground-1: $blk-000;
-$ui-foreground-2: $blk-010;
-$ui-foreground-3: $blk-020;
-$ui-text-1: $blk-220;
-$ui-text-2: $blk-170;
-$ui-text-3: $blk-140;
-$ui-text-inverse: $blk-000;
-$ui-text-link: $h-bb-070;
-$ui-border-1: $blk-050;
-$ui-border-2: $blk-030;
-$ui-border-3: $blk-020;
-$ui-border-input: $blk-100;
-$ui-info: $h-bb-070;
-$ui-success: $h-gg-060;
-$ui-warning: $h-yy-060;
-$ui-danger: $h-rr-060;
-$ui-danger-hover: $h-rr-070;
-$ui-danger-press: $h-rr-080;
+$ui-brand: $h-bb-060; // #007AC2
+$ui-brand-hover: $h-bb-070; // #00619B
+$ui-brand-press: $h-bb-080; // #004874
+$ui-background: $blk-005; // #F8F8F8
+$ui-foreground-1: $blk-000; // #FFFFFF
+$ui-foreground-2: $blk-010; // #F3F3F3
+$ui-foreground-3: $blk-020; // #EAEAEA
+$ui-text-1: $blk-220; // #151515
+$ui-text-2: $blk-170; // #4A4A4A
+$ui-text-3: $blk-140; // #6A6A6A
+$ui-text-inverse: $blk-000; // #FFFFFF
+$ui-text-link: $h-bb-070; // #00619B
+$ui-border-1: $blk-050; // #CACACA
+$ui-border-2: $blk-030; // #DFDFDF
+$ui-border-3: $blk-020; // #EAEAEA
+$ui-border-input: $blk-100; // #949494
+$ui-info: $h-bb-070; // #00619B
+$ui-success: $h-gg-060; // #35AC46
+$ui-warning: $h-yy-060; // #EDD317
+$ui-danger: $h-rr-060; // #D83020
+$ui-danger-hover: $h-rr-070; // #A82B1E
+$ui-danger-press: $h-rr-080; // #7C1D13
 
 // UI Colors Dark Theme
-$ui-brand-dark: $v-bb-160;
-$ui-brand-hover-dark: $h-bb-060;
-$ui-brand-press-dark: $h-bb-070;
-$ui-background-dark: $blk-190;
-$ui-foreground-1-dark: $blk-200;
-$ui-foreground-2-dark: $blk-210;
-$ui-foreground-3-dark: $blk-220;
-$ui-text-1-dark: $blk-000;
-$ui-text-2-dark: $blk-060;
-$ui-text-3-dark: $blk-090;
-$ui-text-inverse-dark: $blk-220;
-$ui-text-link-dark: $d-bb-420;
-$ui-border-1-dark: $blk-170;
-$ui-border-2-dark: $blk-180;
-$ui-border-3-dark: $blk-190;
-$ui-border-input-dark: $blk-130;
-$ui-info-dark: $d-bb-420;
-$ui-success-dark: $d-gg-420;
-$ui-warning-dark: $d-yy-420;
-$ui-danger-dark: $d-rr-420;
-$ui-danger-hover-dark: $v-ro-140;
-$ui-danger-press-dark: $v-ro-160;
+$ui-brand-dark: $v-bb-160; // #009AF2
+$ui-brand-hover-dark: $h-bb-060; // #007AC2
+$ui-brand-press-dark: $h-bb-070; // #00619B
+$ui-background-dark: $blk-190; // #353535
+$ui-foreground-1-dark: $blk-200; // #2B2B2B
+$ui-foreground-2-dark: $blk-210; // #202020
+$ui-foreground-3-dark: $blk-220; // #151515
+$ui-text-1-dark: $blk-000; // #FFFFFF
+$ui-text-2-dark: $blk-060; // #BFBFBF
+$ui-text-3-dark: $blk-090; // #9F9F9F
+$ui-text-inverse-dark: $blk-220; // #151515
+$ui-text-link-dark: $d-bb-420; // #00A0FF
+$ui-border-1-dark: $blk-170; // #4A4A4A
+$ui-border-2-dark: $blk-180; // #404040
+$ui-border-3-dark: $blk-190; // #353535
+$ui-border-input-dark: $blk-130; // #757575
+$ui-info-dark: $d-bb-420; // #00A0FF
+$ui-success-dark: $d-gg-420; // #36DA43
+$ui-warning-dark: $d-yy-420; // #FFC900
+$ui-danger-dark: $d-rr-420; // #FE583E
+$ui-danger-hover-dark: $v-ro-140; // #FF0015
+$ui-danger-press-dark: $v-ro-160; // #D90012
 
 // Light theme as CSS variable set
 @mixin calcite-theme-light() {
