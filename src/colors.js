@@ -788,7 +788,7 @@ export const colors = {
     "blk-220": "#151515",
     "blk-230": "#0b0b0b",
     "blk-235": "#060606",
-    "blk-240": "#000000"
+    "blk-240": "#000000",
 };
 export const themes = [
     {
