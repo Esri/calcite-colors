@@ -5,7 +5,7 @@ function generateThemeVars(variables: CalciteThemeVariables): string {
   let data: string = "";
 
   for (const [key, value] of Object.entries(variables)) {
-    data += `  --calcite-ui-${key}: #{${value}};\n`;
+    data += `  --calcite-ui-${key}: #{$${value}};\n`;
   }
 
   return data;

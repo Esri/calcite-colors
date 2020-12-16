@@ -3,7 +3,7 @@ import { colors, themes } from "../dist/colors.modern.js";
 function generateThemeVars(variables) {
     let data = "";
     for (const [key, value] of Object.entries(variables)) {
-        data += `  --calcite-ui-${key}: #{${value}};\n`;
+        data += `  --calcite-ui-${key}: #{$${value}};\n`;
     }
     return data;
 }
