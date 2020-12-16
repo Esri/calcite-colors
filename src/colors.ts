@@ -3,7 +3,7 @@ export type ChartColorSet = {
   colors: string[];
 };
 
-export type CalciteThemeVariables = {
+export type ThemeVariables = {
   brand: string;
   "brand-hover": string;
   "brand-press": string;
@@ -28,9 +28,9 @@ export type CalciteThemeVariables = {
   "danger-press": string;
 };
 
-export type CalciteTheme = {
+export type Theme = {
   name: string;
-  variables: CalciteThemeVariables;
+  variables: ThemeVariables;
 };
 
 export const chartColors: string[] = [
@@ -829,7 +829,7 @@ export const colors: Record<string, string> = {
   "blk-240": "#000000",
 };
 
-export const themes: CalciteTheme[] = [
+export const themes: Theme[] = [
   {
     name: "light",
     variables: {

@@ -1,16 +1,23 @@
 import { writeFile } from "fs";
 import { colors, themes } from "../dist/colors.modern.js";
+const PROJECT_NAME = "calcite";
+const VARIABLE_PREFIX = "ui";
+const CSS_PREFIX = `${PROJECT_NAME}-${VARIABLE_PREFIX}`;
+const THEME_MIXIN_PREFIX = `${PROJECT_NAME}-theme`;
 function generateThemeVars(theme) {
-    return Object.entries(theme.variables)
-        .map(([key, value]) => `$ui-${key}-${theme.name}: ${value};\n`)
+    const { name, variables } = theme;
+    return Object.entries(variables)
+        .map(([key, value]) => `$${VARIABLE_PREFIX}-${key}-${name}: ${value};\n`)
         .join("");
 }
 function generateTheme(theme) {
-    return `${generateThemeVars(theme)}\n@mixin calcite-theme-${theme.name}() {\n${generateCSSThemeVars(theme)}}\n`;
+    const { name } = theme;
+    return `${generateThemeVars(theme)}\n@mixin ${THEME_MIXIN_PREFIX}-${name}() {\n${generateCSSThemeVars(theme)}}\n`;
 }
 function generateCSSThemeVars(theme) {
-    return Object.entries(theme.variables)
-        .map(([key]) => `  --calcite-ui-${key}: #{$ui-${key}-${theme.name}};\n`)
+    const { name, variables } = theme;
+    return Object.entries(variables)
+        .map(([key]) => `  --${CSS_PREFIX}-${key}: #{$${VARIABLE_PREFIX}-${key}-${name}};\n`)
         .join("");
 }
 function generateColors() {

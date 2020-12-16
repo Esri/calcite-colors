@@ -2,7 +2,7 @@ export declare type ChartColorSet = {
     name: string;
     colors: string[];
 };
-export declare type CalciteThemeVariables = {
+export declare type ThemeVariables = {
     brand: string;
     "brand-hover": string;
     "brand-press": string;
@@ -26,12 +26,12 @@ export declare type CalciteThemeVariables = {
     "danger-hover": string;
     "danger-press": string;
 };
-export declare type CalciteTheme = {
+export declare type Theme = {
     name: string;
-    variables: CalciteThemeVariables;
+    variables: ThemeVariables;
 };
 export declare const chartColors: string[];
 export declare const defaultChartColors: string[];
 export declare const chartColorSets: ChartColorSet[];
 export declare const colors: Record<string, string>;
-export declare const themes: CalciteTheme[];
+export declare const themes: Theme[];
