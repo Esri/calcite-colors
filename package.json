@@ -39,7 +39,7 @@
     "typescript": "4.0.2"
   },
   "scripts": {
-    "build": "tsc && node build/scss.js && microbundle",
+    "build": "microbundle && tsc && node build/scss.js",
     "dev": "microbundle watch",
     "release": "gh-release",
     "prettier": "prettier --write \"**/*.ts?(x)\""

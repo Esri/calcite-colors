@@ -1,6 +1,36 @@
-type ChartColorSet = {
+export type ChartColorSet = {
   name: string;
   colors: string[];
+};
+
+export type CalciteThemeVariables = {
+  brand: string;
+  "brand-hover": string;
+  "brand-press": string;
+  background: string;
+  "foreground-1": string;
+  "foreground-2": string;
+  "foreground-3": string;
+  "text-1": string;
+  "text-2": string;
+  "text-3": string;
+  "text-inverse": string;
+  "text-link": string;
+  "border-1": string;
+  "border-2": string;
+  "border-3": string;
+  "border-input": string;
+  info: string;
+  success: string;
+  warning: string;
+  danger: string;
+  "danger-hover": string;
+  "danger-press": string;
+};
+
+export type CalciteTheme = {
+  name: string;
+  variables: CalciteThemeVariables;
 };
 
 export const chartColors: string[] = [
@@ -319,7 +349,7 @@ export const chartColorSets: ChartColorSet[] = [
   },
 ];
 
-export const colors = {
+export const colors: Record<string, string>  = {
   "h-yy-010": "#fff7cc",
   "h-yy-020": "#fef3ad",
   "h-yy-030": "#fcee8d",
@@ -844,3 +874,60 @@ export const colors = {
   "ui-danger-hover-dark": "#FF0015",
   "ui-danger-press-dark": "#D90012",
 };
+
+export const themes: CalciteTheme[] = [
+  {
+    name: "light",
+    variables: {
+      brand: "ui-brand",
+      "brand-hover": "ui-brand-hover",
+      "brand-press": "ui-brand-press",
+      background: "ui-background",
+      "foreground-1": "ui-foreground-1",
+      "foreground-2": "ui-foreground-2",
+      "foreground-3": "ui-foreground-3",
+      "text-1": "ui-text-1",
+      "text-2": "ui-text-2",
+      "text-3": "ui-text-3",
+      "text-inverse": "ui-text-inverse",
+      "text-link": "ui-text-link",
+      "border-1": "ui-border-1",
+      "border-2": "ui-border-2",
+      "border-3": "ui-border-3",
+      "border-input": "ui-border-input",
+      info: "ui-info",
+      success: "ui-success",
+      warning: "ui-warning",
+      danger: "ui-danger",
+      "danger-hover": "ui-danger-hover",
+      "danger-press": "ui-danger-press",
+    },
+  },
+  {
+    name: "dark",
+    variables: {
+      brand: "ui-brand-dark",
+      "brand-hover": "ui-brand-hover-dark",
+      "brand-press": "ui-brand-press-dark",
+      background: "ui-background-dark",
+      "foreground-1": "ui-foreground-1-dark",
+      "foreground-2": "ui-foreground-2-dark",
+      "foreground-3": "ui-foreground-3-dark",
+      "text-1": "ui-text-1-dark",
+      "text-2": "ui-text-2-dark",
+      "text-3": "ui-text-3-dark",
+      "text-inverse": "ui-text-inverse-dark",
+      "text-link": "ui-text-link-dark",
+      "border-1": "ui-border-1-dark",
+      "border-2": "ui-border-2-dark",
+      "border-3": "ui-border-3-dark",
+      "border-input": "ui-border-input-dark",
+      info: "ui-info-dark",
+      success: "ui-success-dark",
+      warning: "ui-warning-dark",
+      danger: "ui-danger-dark",
+      "danger-hover": "ui-danger-hover-dark",
+      "danger-press": "ui-danger-press-dark",
+    },
+  },
+];
