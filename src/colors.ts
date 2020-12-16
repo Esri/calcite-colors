@@ -1,6 +1,36 @@
-type ChartColorSet = {
+export type ChartColorSet = {
   name: string;
   colors: string[];
+};
+
+export type ThemeVariables = {
+  brand: string;
+  "brand-hover": string;
+  "brand-press": string;
+  background: string;
+  "foreground-1": string;
+  "foreground-2": string;
+  "foreground-3": string;
+  "text-1": string;
+  "text-2": string;
+  "text-3": string;
+  "text-inverse": string;
+  "text-link": string;
+  "border-1": string;
+  "border-2": string;
+  "border-3": string;
+  "border-input": string;
+  info: string;
+  success: string;
+  warning: string;
+  danger: string;
+  "danger-hover": string;
+  "danger-press": string;
+};
+
+export type Theme = {
+  name: string;
+  variables: ThemeVariables;
 };
 
 export const chartColors: string[] = [
@@ -319,7 +349,7 @@ export const chartColorSets: ChartColorSet[] = [
   },
 ];
 
-export const colors = {
+export const colors: Record<string, string> = {
   "h-yy-010": "#fff7cc",
   "h-yy-020": "#fef3ad",
   "h-yy-030": "#fcee8d",
@@ -797,50 +827,61 @@ export const colors = {
   "blk-230": "#0b0b0b",
   "blk-235": "#060606",
   "blk-240": "#000000",
-
-  "ui-brand": "#007ac2",
-  "ui-brand-hover": "#00619B",
-  "ui-brand-press": "#004874",
-  "ui-background": "#f8f8f8",
-  "ui-foreground-1": "#ffffff",
-  "ui-foreground-2": "#f3f3f3",
-  "ui-foreground-3": "#eaeaea",
-  "ui-text-1": "#151515",
-  "ui-text-2": "#4a4a4a",
-  "ui-text-3": "#6a6a6a",
-  "ui-text-inverse": "#FFFFFF",
-  "ui-text-link": "#00619b",
-  "ui-border-1": "#cacaca",
-  "ui-border-2": "#dfdfdf",
-  "ui-border-3": "#eaeaea",
-  "ui-border-input": "#949494",
-  "ui-info": "#00619b",
-  "ui-success": "#35ac46",
-  "ui-warning": "#edd317",
-  "ui-danger": "#D83020",
-  "ui-danger-hover": "#A82B1E",
-  "ui-danger-press": "#7C1D13",
-
-  "ui-brand-dark": "#009AF2",
-  "ui-brand-hover-dark": "#007AC2",
-  "ui-brand-press-dark": "#00619B",
-  "ui-background-dark": "#353535",
-  "ui-foreground-1-dark": "#2b2b2b",
-  "ui-foreground-2-dark": "#202020",
-  "ui-foreground-3-dark": "#151515",
-  "ui-text-1-dark": "#ffffff",
-  "ui-text-2-dark": "#bfbfbf",
-  "ui-text-3-dark": "#9f9f9f",
-  "ui-text-inverse-dark": "#151515",
-  "ui-text-link-dark": "#00A0FF",
-  "ui-border-1-dark": "#4a4a4a",
-  "ui-border-2-dark": "#404040",
-  "ui-border-3-dark": "#353535",
-  "ui-border-input-dark": "#757575",
-  "ui-info-dark": "#00A0FF",
-  "ui-success-dark": "#36DA43",
-  "ui-warning-dark": "#FFC900",
-  "ui-danger-dark": "#FE583E",
-  "ui-danger-hover-dark": "#FF0015",
-  "ui-danger-press-dark": "#D90012",
 };
+
+export const themes: Theme[] = [
+  {
+    name: "light",
+    variables: {
+      brand: "#007ac2",
+      "brand-hover": "#00619B",
+      "brand-press": "#004874",
+      background: "#f8f8f8",
+      "foreground-1": "#ffffff",
+      "foreground-2": "#f3f3f3",
+      "foreground-3": "#eaeaea",
+      "text-1": "#151515",
+      "text-2": "#4a4a4a",
+      "text-3": "#6a6a6a",
+      "text-inverse": "#FFFFFF",
+      "text-link": "#00619b",
+      "border-1": "#cacaca",
+      "border-2": "#dfdfdf",
+      "border-3": "#eaeaea",
+      "border-input": "#949494",
+      info: "#00619b",
+      success: "#35ac46",
+      warning: "#edd317",
+      danger: "#D83020",
+      "danger-hover": "#A82B1E",
+      "danger-press": "#7C1D13",
+    },
+  },
+  {
+    name: "dark",
+    variables: {
+      brand: "#009AF2",
+      "brand-hover": "#007AC2",
+      "brand-press": "#00619B",
+      background: "#353535",
+      "foreground-1": "#2b2b2b",
+      "foreground-2": "#202020",
+      "foreground-3": "#151515",
+      "text-1": "#ffffff",
+      "text-2": "#bfbfbf",
+      "text-3": "#9f9f9f",
+      "text-inverse": "#151515",
+      "text-link": "#00A0FF",
+      "border-1": "#4a4a4a",
+      "border-2": "#404040",
+      "border-3": "#353535",
+      "border-input": "#757575",
+      info: "#00A0FF",
+      success: "#36DA43",
+      warning: "#FFC900",
+      danger: "#FE583E",
+      "danger-hover": "#FF0015",
+      "danger-press": "#D90012",
+    },
+  },
+];
