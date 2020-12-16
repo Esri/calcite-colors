@@ -1,5 +1,6 @@
 import { writeFile } from "fs";
-import { colors, themes, Theme } from "../dist/colors.modern.js";
+import { Theme } from "../src/colors";
+import { colors, themes } from "../dist/colors.modern.js";
 
 const PROJECT_NAME = "calcite";
 const VARIABLE_PREFIX = "ui";
