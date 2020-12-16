@@ -1,11 +1,11 @@
 import { writeFile } from "fs";
-import { colors, themes, CalciteThemeVariables } from "../dist/colors.modern.js";
+import { colors, themes, CalciteTheme } from "../dist/colors.modern.js";
 
-function generateThemeVars(variables: CalciteThemeVariables): string {
+function generateThemeVars(theme: CalciteTheme): string {
   let data: string = "";
 
-  for (const [key, value] of Object.entries(variables)) {
-    data += `  --calcite-ui-${key}: #{$${value}};\n`;
+  for (const [key] of Object.entries(theme.variables)) {
+    data += `  --calcite-ui-${key}: #{$ui-${key}-${theme.name}};\n`;
   }
 
   return data;
@@ -14,12 +14,17 @@ function generateThemeVars(variables: CalciteThemeVariables): string {
 function generateData(): string {
   let data: string = "";
 
-  for (const [colorVar, colorValue] of Object.entries(colors)) {
-    data += `$${colorVar}: ${colorValue};\n`;
+  for (const [key, value] of Object.entries(colors)) {
+    data += `$${key}: ${value};\n`;
   }
 
   themes.forEach((theme) => {
-    data += `\n@mixin calcite-theme-${theme.name}() {\n${generateThemeVars(theme.variables)}}\n`;
+
+    for (const [key, value] of Object.entries(theme.variables)) {
+      data += `$ui-${key}-${theme.name}: ${value};\n`;
+    }
+
+    data += `\n@mixin calcite-theme-${theme.name}() {\n${generateThemeVars(theme)}}\n`;
   });
 
   return data;
