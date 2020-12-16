@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "declaration": true,
+    "declaration": false,
     "lib": ["dom", "es2017"],
     "moduleResolution": "node",
     "module": "esnext",
@@ -9,5 +9,5 @@
     "noUnusedParameters": true
   },
   "include": ["build"],
-  "exclude": ["dist", "src", "node_modules"]
+  "exclude": ["node_modules", "src"]
 }

@@ -1,10 +1,10 @@
 import { writeFile } from "fs";
 import { colors } from "../dist/colors.modern.js";
 function generateData() {
-    let scss = "";
+    let data = "";
     for (const [colorVar, colorValue] of Object.entries(colors)) {
-        scss += `$${colorVar}: #${colorValue};\n`;
+        data += `$${colorVar}: ${colorValue};\n`;
     }
-    return scss;
+    return data;
 }
 writeFile("dist/colors.scss", generateData(), () => { });
