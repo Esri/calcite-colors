@@ -2,32 +2,35 @@ import { writeFile } from "fs";
 import { colors, themes, CalciteTheme } from "../dist/colors.modern.js";
 
 function generateThemeVars(theme: CalciteTheme): string {
-  let data: string = "";
+  return Object.entries(theme.variables)
+    .map(([key, value]) => `$ui-${key}-${theme.name}: ${value};\n`)
+    .join("");
+}
 
-  for (const [key] of Object.entries(theme.variables)) {
-    data += `  --calcite-ui-${key}: #{$ui-${key}-${theme.name}};\n`;
-  }
+function generateTheme(theme: CalciteTheme): string {
+  return `${generateThemeVars(theme)}\n@mixin calcite-theme-${
+    theme.name
+  }() {\n${generateCSSThemeVars(theme)}}\n`;
+}
 
-  return data;
+function generateCSSThemeVars(theme: CalciteTheme): string {
+  return Object.entries(theme.variables)
+    .map(([key]) => `  --calcite-ui-${key}: #{$ui-${key}-${theme.name}};\n`)
+    .join("");
+}
+
+function generateColors(): string {
+  return Object.entries(colors)
+    .map(([key, value]) => `$${key}: ${value};\n`)
+    .join("");
+}
+
+function generateThemes(): string {
+  return themes.map((theme: CalciteTheme) => generateTheme(theme)).join("");
 }
 
 function generateData(): string {
-  let data: string = "";
-
-  for (const [key, value] of Object.entries(colors)) {
-    data += `$${key}: ${value};\n`;
-  }
-
-  themes.forEach((theme) => {
-
-    for (const [key, value] of Object.entries(theme.variables)) {
-      data += `$ui-${key}-${theme.name}: ${value};\n`;
-    }
-
-    data += `\n@mixin calcite-theme-${theme.name}() {\n${generateThemeVars(theme)}}\n`;
-  });
-
-  return data;
+  return `${generateColors()}${generateThemes()}`;
 }
 
 writeFile("dist/colors.scss", generateData(), () => {});

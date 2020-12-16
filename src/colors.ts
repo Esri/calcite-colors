@@ -349,7 +349,7 @@ export const chartColorSets: ChartColorSet[] = [
   },
 ];
 
-export const colors: Record<string, string>  = {
+export const colors: Record<string, string> = {
   "h-yy-010": "#fff7cc",
   "h-yy-020": "#fef3ad",
   "h-yy-030": "#fcee8d",
