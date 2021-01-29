@@ -3,6 +3,69 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 6.0.0 - 2021-01-28
+### Breaking Changes
+
+#### SASS variable updates
+
+- :warning: `$ui-blue-1` is now `$ui-brand-light`
+- :warning: `$ui-blue-2` is now `$ui-brand-hover-light`
+- :warning: `$ui-blue-3` is now `$ui-brand-press-light`
+- :warning: `$ui-green-1` is now `$ui-success-light`
+- :warning: `$ui-green-2` removed
+- :warning: `$ui-green-3` removed
+- :warning: `$ui-yellow-1` is now `$ui-warning-light`
+- :warning: `$ui-yellow-2` removed
+- :warning: `$ui-yellow-3` removed
+- :warning: `$ui-red-1` is now `$ui-danger-light`
+- :warning: `$ui-red-2` is now `$ui-danger-hover-light`
+- :warning: `$ui-red-3` is now `$ui-danger-press-light`
+- :warning: `$ui-background:` is now `$ui-background-light`
+- :warning: `$ui-foreground-1` is now `$ui-foreground-1-light`
+- :warning: `$ui-foreground-2` is now `$ui-foreground-2-light`
+- :warning: `$ui-foreground-3` is now `$ui-foreground-3-light`
+- :warning: `$ui-text-1` is now `$ui-text-1-light`
+- :warning: `$ui-text-2` is now `$ui-text-2-light`
+- :warning: `$ui-text-3` is now `$ui-text-3-light`
+- :warning: `$ui-border-1` is now `$ui-border-1-light`
+- :warning: `$ui-border-2` is now `$ui-border-2-light`
+- :warning: `$ui-border-3` is now `$ui-border-3-light`
+- :warning: `$ui-border-4` removed
+- :warning: `$ui-border-5` removed
+
+_Note: the above also apply to the corresponding dark theme color variables._
+
+#### CSS Variables
+
+- :warning: `--calcite-ui-blue-1` is now `--calcite-ui-brand`
+- :warning: `--calcite-ui-blue-2` is now `--calcite-ui-brand-hover`
+- :warning: `--calcite-ui-blue-3` is now `--calcite-ui-brand-press`
+- :warning: `--calcite-ui-green-1` is now `--calcite-ui-success`
+- :warning: `--calcite-ui-green-2` removed
+- :warning: `--calcite-ui-green-3` removed
+- :warning: `--calcite-ui-yellow-1` is now `--calcite-ui-warning`
+- :warning: `--calcite-ui-yellow-2` removed
+- :warning: `--calcite-ui-yellow-3` removed
+- :warning: `--calcite-ui-red-1` is now `--calcite-ui-danger`
+- :warning: `--calcite-ui-red-2` is now `--calcite-ui-danger-hover`
+- :warning: `--calcite-ui-red-3` is now `--calcite-ui-danger-press`
+
+### Additions
+
+#### SASS Variables
+- `$ui-border-input-light` `#949494`
+- `$ui-text-inverse-light` `#ffffff`
+- `$ui-text-link-light` `#00619b`
+- `$ui-info-light` `#00619b`
+
+_Note: The above also have `-dark` equivalents._
+
+#### CSS Variables
+- `--calcite-ui-border-input` `#949494`
+- `--calcite-ui-text-inverse` `#ffffff`
+- `--calcite-ui-text-link` `#00619b`
+- `--calcite-ui-info` `#00619b`
+
 ## 5.0.0 - 2020-10-20
 
 - [!breaking change] Moved `/src/colors.scss` file to `/dist/colors.scss`.
