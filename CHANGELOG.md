@@ -49,6 +49,8 @@ _Note: the above also apply to the corresponding dark theme color variables._
 - :warning: `--calcite-ui-red-1` is now `--calcite-ui-danger`
 - :warning: `--calcite-ui-red-2` is now `--calcite-ui-danger-hover`
 - :warning: `--calcite-ui-red-3` is now `--calcite-ui-danger-press`
+- :warning: `--calcite-ui-border-4` removed
+- :warning: `--calcite-ui-border-5` removed
 
 ### Additions
 
