@@ -13,6 +13,13 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 - :warning: `$ui-border-2-dark` is now `#4a4a4a` (`$blk-170`)
 - :warning: `$ui-border-3-dark` is now `#404040` (`$blk-180`)
 
+#### CSS variable updates
+
+- Light theme `--calcite-ui-border-2` is now `#d4d4d4` (`$ui-border-2-light`)
+- Light theme `--calcite-ui-border-3` is now `#dfdfdf` (`$ui-border-3-light`)
+- Dark theme `--calcite-ui-border-1` is now `#555555` (`$ui-border-1-dark`)
+- Dark theme `--calcite-ui-border-2` is now `#4a4a4a` (`$ui-border-2-dark`)
+- Dark theme `--calcite-ui-border-3` is now `#404040` (`$ui-border-3-dark`)
 
 ## 6.0.0 - 2021-01-28
 ### Breaking Changes
