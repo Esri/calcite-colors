@@ -14,6 +14,7 @@ export type ThemeVariables = {
   "text-1": string;
   "text-2": string;
   "text-3": string;
+  "text-highlight": string;
   "text-inverse": string;
   "text-link": string;
   "border-1": string;
@@ -843,6 +844,7 @@ export const themes: Theme[] = [
       "text-1": "#151515",
       "text-2": "#4a4a4a",
       "text-3": "#6a6a6a",
+      "text-highlight": "#bbd5fa",
       "text-inverse": "#FFFFFF",
       "text-link": "#00619b",
       "border-1": "#cacaca",
@@ -870,6 +872,7 @@ export const themes: Theme[] = [
       "text-1": "#ffffff",
       "text-2": "#bfbfbf",
       "text-3": "#9f9f9f",
+      "text-highlight": "#557095",
       "text-inverse": "#151515",
       "text-link": "#00A0FF",
       "border-1": "#555555",
