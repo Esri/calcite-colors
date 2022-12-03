@@ -872,7 +872,7 @@ export const themes: Theme[] = [
       "text-1": "#ffffff",
       "text-2": "#bfbfbf",
       "text-3": "#9f9f9f",
-      "text-highlight": "#557095",
+      "text-highlight": "#375F95",
       "text-inverse": "#151515",
       "text-link": "#00A0FF",
       "border-1": "#555555",
