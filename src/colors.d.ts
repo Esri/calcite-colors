@@ -13,6 +13,7 @@ export declare type ThemeVariables = {
     "text-1": string;
     "text-2": string;
     "text-3": string;
+    "text-highlight": string;
     "text-inverse": string;
     "text-link": string;
     "border-1": string;
