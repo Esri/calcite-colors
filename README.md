@@ -1,3 +1,6 @@
+### The Calcite Colors repository is deprecated and is not recommended for future development.
+Please visit the [Calcite Design System Foundations](https://developers.arcgis.com/calcite-design-system/foundations/).
+
 # Calcite Colors
 
 ![saturated color wheel](https://raw.githubusercontent.com/Esri/calcite-colors/master/resources/saturated-graph.png)
